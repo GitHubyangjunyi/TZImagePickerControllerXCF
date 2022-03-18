@@ -1,0 +1,3130 @@
+BCSymbolMap Version: 2.0
+Apple clang version 13.1.6 (clang-1316.0.21.2)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk
+iPhoneOS15.4.sdk
+/Users/yangjunyi/Library/Caches/org.carthage.CarthageKit/DerivedData/13.3_13E113/TZImagePickerController/3.7.6/Build/Intermediates.noindex/ArchiveIntermediates/TZImagePickerControllerFramework/IntermediateBuildFilesPath/TZImagePickerController.build/Release-iphoneos/TZImagePickerControllerFramework.build/DerivedSources/TZImagePickerController_vers.c
+/Users/yangjunyi/Downloads/TZImagePickerController/Carthage/Checkouts/TZImagePickerController
+-[TZVideoEditedPreviewController viewDidLoad]
+-[TZVideoEditedPreviewController configMoviePlayer]
+-[TZVideoEditedPreviewController configPlayButton]
+-[TZVideoEditedPreviewController configBottomToolBar]
+-[TZVideoEditedPreviewController viewDidLayoutSubviews]
+-[TZVideoEditedPreviewController playButtonClick]
+-[TZVideoEditedPreviewController doneButtonClick]
+-[TZVideoEditedPreviewController pausePlayerAndShowNaviBar]
+-[TZVideoEditedPreviewController dealloc]
+-[TZVideoEditedPreviewController videoURL]
+-[TZVideoEditedPreviewController setVideoURL:]
+-[TZVideoEditedPreviewController .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_
+_OBJC_CLASSLIST_REFERENCES_$_
+_OBJC_SELECTOR_REFERENCES_.2
+_OBJC_SELECTOR_REFERENCES_.4
+_OBJC_SELECTOR_REFERENCES_.6
+_OBJC_SELECTOR_REFERENCES_.8
+_OBJC_CLASSLIST_REFERENCES_$_.9
+_OBJC_SELECTOR_REFERENCES_.11
+_OBJC_SELECTOR_REFERENCES_.13
+_OBJC_SELECTOR_REFERENCES_.15
+_OBJC_CLASSLIST_REFERENCES_$_.16
+_OBJC_SELECTOR_REFERENCES_.18
+_OBJC_SELECTOR_REFERENCES_.20
+_OBJC_IVAR_$_TZVideoEditedPreviewController._player
+_OBJC_CLASSLIST_REFERENCES_$_.21
+_OBJC_SELECTOR_REFERENCES_.23
+_OBJC_IVAR_$_TZVideoEditedPreviewController._playerLayer
+_OBJC_SELECTOR_REFERENCES_.25
+_OBJC_SELECTOR_REFERENCES_.27
+_OBJC_SELECTOR_REFERENCES_.29
+_OBJC_SELECTOR_REFERENCES_.31
+_OBJC_SELECTOR_REFERENCES_.33
+_OBJC_CLASSLIST_REFERENCES_$_.34
+_OBJC_SELECTOR_REFERENCES_.36
+_OBJC_IVAR_$_TZVideoEditedPreviewController._playButton
+_OBJC_CLASSLIST_REFERENCES_$_.37
+_OBJC_SELECTOR_REFERENCES_.39
+_OBJC_SELECTOR_REFERENCES_.41
+_OBJC_SELECTOR_REFERENCES_.45
+_OBJC_SELECTOR_REFERENCES_.47
+_OBJC_SELECTOR_REFERENCES_.49
+_OBJC_CLASSLIST_REFERENCES_$_.50
+_OBJC_SELECTOR_REFERENCES_.52
+_OBJC_IVAR_$_TZVideoEditedPreviewController._toolBar
+_OBJC_SELECTOR_REFERENCES_.54
+_OBJC_IVAR_$_TZVideoEditedPreviewController._doneButton
+_OBJC_CLASSLIST_REFERENCES_$_.55
+_OBJC_SELECTOR_REFERENCES_.57
+_OBJC_SELECTOR_REFERENCES_.59
+_OBJC_SELECTOR_REFERENCES_.61
+_OBJC_SELECTOR_REFERENCES_.63
+_OBJC_SELECTOR_REFERENCES_.65
+_OBJC_SELECTOR_REFERENCES_.67
+_OBJC_SELECTOR_REFERENCES_.69
+_OBJC_SELECTOR_REFERENCES_.71
+_OBJC_SELECTOR_REFERENCES_.73
+_OBJC_CLASSLIST_REFERENCES_$_.74
+_OBJC_SELECTOR_REFERENCES_.78
+_OBJC_SELECTOR_REFERENCES_.80
+_OBJC_SELECTOR_REFERENCES_.82
+_OBJC_SELECTOR_REFERENCES_.84
+_OBJC_CLASSLIST_REFERENCES_$_.85
+_OBJC_SELECTOR_REFERENCES_.87
+_OBJC_SELECTOR_REFERENCES_.89
+_OBJC_CLASSLIST_REFERENCES_$_.90
+_OBJC_SELECTOR_REFERENCES_.92
+_OBJC_SELECTOR_REFERENCES_.94
+_OBJC_SELECTOR_REFERENCES_.96
+_OBJC_SELECTOR_REFERENCES_.98
+_OBJC_SELECTOR_REFERENCES_.100
+_OBJC_SELECTOR_REFERENCES_.102
+_OBJC_SELECTOR_REFERENCES_.104
+_OBJC_SELECTOR_REFERENCES_.106
+_OBJC_SELECTOR_REFERENCES_.108
+_OBJC_SELECTOR_REFERENCES_.110
+_OBJC_SELECTOR_REFERENCES_.112
+_OBJC_SELECTOR_REFERENCES_.114
+_OBJC_SELECTOR_REFERENCES_.116
+_OBJC_SELECTOR_REFERENCES_.118
+_OBJC_SELECTOR_REFERENCES_.120
+_OBJC_SELECTOR_REFERENCES_.122
+_OBJC_IVAR_$_TZVideoEditedPreviewController._videoURL
+_OBJC_IVAR_$_TZVideoEditedPreviewController._progress
+_OBJC_IVAR_$_TZVideoEditedPreviewController._cover
+__OBJC_METACLASS_RO_$_TZVideoEditedPreviewController
+__OBJC_$_INSTANCE_METHODS_TZVideoEditedPreviewController
+_OBJC_IVAR_$_TZVideoEditedPreviewController._originStatusBarStyle
+__OBJC_$_INSTANCE_VARIABLES_TZVideoEditedPreviewController
+__OBJC_$_PROP_LIST_TZVideoEditedPreviewController
+__OBJC_CLASS_RO_$_TZVideoEditedPreviewController
+/Users/yangjunyi/Downloads/TZImagePickerController/Carthage/Checkouts/TZImagePickerController/TZImagePickerController/TZImagePickerController/TZVideoEditedPreviewController.m
+TZImagePickerController/TZImagePickerController/TZVideoEditedPreviewController.m
+TZImagePickerController/TZImagePickerController/TZVideoEditedPreviewController.h
+-[TZVideoCropController viewDidLoad]
+-[TZVideoCropController viewWillAppear:]
+-[TZVideoCropController viewWillDisappear:]
+-[TZVideoCropController configMoviePlayer]
+___42-[TZVideoCropController configMoviePlayer]_block_invoke
+___copy_helper_block_e4_20s
+___destroy_helper_block_e4_20s
+___42-[TZVideoCropController configMoviePlayer]_block_invoke.45
+___42-[TZVideoCropController configMoviePlayer]_block_invoke_2
+___copy_helper_block_e4_20s24s
+___destroy_helper_block_e4_20s24s
+-[TZVideoCropController configPlayButton]
+-[TZVideoCropController configBottomToolBar]
+-[TZVideoCropController configVideoImageCollectionView]
+-[TZVideoCropController configVideoEditView]
+-[TZVideoCropController preferredStatusBarStyle]
+-[TZVideoCropController viewDidLayoutSubviews]
+-[TZVideoCropController generateVideoImage]
+___43-[TZVideoCropController generateVideoImage]_block_invoke
+___43-[TZVideoCropController generateVideoImage]_block_invoke_2
+-[TZVideoCropController collectionView:numberOfItemsInSection:]
+-[TZVideoCropController collectionView:cellForItemAtIndexPath:]
+-[TZVideoCropController scrollViewDidScroll:]
+-[TZVideoCropController scrollViewWillBeginDragging:]
+-[TZVideoCropController scrollViewDidEndDecelerating:]
+-[TZVideoCropController editViewCropRectBeginChange]
+-[TZVideoCropController editViewCropRectEndChange]
+-[TZVideoCropController playButtonClick]
+-[TZVideoCropController cancelButtonClick]
+-[TZVideoCropController doneButtonClick]
+___40-[TZVideoCropController doneButtonClick]_block_invoke
+___40-[TZVideoCropController doneButtonClick]_block_invoke.321
+-[TZVideoCropController dismissAndCallDelegateMethod]
+___53-[TZVideoCropController dismissAndCallDelegateMethod]_block_invoke
+-[TZVideoCropController callDelegateMethod]
+___43-[TZVideoCropController callDelegateMethod]_block_invoke
+-[TZVideoCropController getCropStartTime]
+-[TZVideoCropController getCropVideoTimeRange]
+-[TZVideoCropController getCropVideoDuration]
+-[TZVideoCropController getCropVideoStartSecond]
+-[TZVideoCropController getTimeOfSeek]
+-[TZVideoCropController starTimer]
+-[TZVideoCropController stopTimer]
+-[TZVideoCropController playCropVideo]
+-[TZVideoCropController pausePlayer]
+-[TZVideoCropController iCloudErrorView]
+-[TZVideoCropController supportedInterfaceOrientations]
+-[TZVideoCropController dealloc]
+-[TZVideoCropController model]
+-[TZVideoCropController setModel:]
+-[TZVideoCropController imagePickerVc]
+-[TZVideoCropController setImagePickerVc:]
+-[TZVideoCropController setICloudErrorView:]
+-[TZVideoCropController collectionView]
+-[TZVideoCropController setCollectionView:]
+-[TZVideoCropController videoEditView]
+-[TZVideoCropController setVideoEditView:]
+-[TZVideoCropController videoImgArray]
+-[TZVideoCropController setVideoImgArray:]
+-[TZVideoCropController imageTimes]
+-[TZVideoCropController setImageTimes:]
+-[TZVideoCropController timer]
+-[TZVideoCropController setTimer:]
+-[TZVideoCropController .cxx_destruct]
+-[TZVideoEditView initWithFrame:]
+-[TZVideoEditView initSubViews]
+-[TZVideoEditView layoutSubviews]
+-[TZVideoEditView setAllImgWidth:]
+-[TZVideoEditView setCropRect:]
+-[TZVideoEditView drawRect:]
+-[TZVideoEditView hitTest:withEvent:]
+-[TZVideoEditView indicatorLineAnimateWithDuration:cropRect:]
+___61-[TZVideoEditView indicatorLineAnimateWithDuration:cropRect:]_block_invoke
+-[TZVideoEditView resetIndicatorLine]
+-[TZVideoEditView panGestureAction:]
+-[TZVideoEditView beginImgView]
+-[TZVideoEditView setBeginImgView:]
+-[TZVideoEditView endImgView]
+-[TZVideoEditView setEndImgView:]
+-[TZVideoEditView indicatorLine]
+-[TZVideoEditView setIndicatorLine:]
+-[TZVideoEditView videoDuration]
+-[TZVideoEditView setVideoDuration:]
+-[TZVideoEditView maxCropVideoDuration]
+-[TZVideoEditView setMaxCropVideoDuration:]
+-[TZVideoEditView cropRect]
+-[TZVideoEditView allImgWidth]
+-[TZVideoEditView minCropRectWidth]
+-[TZVideoEditView setMinCropRectWidth:]
+-[TZVideoEditView delegate]
+-[TZVideoEditView setDelegate:]
+-[TZVideoEditView .cxx_destruct]
+-[TZVideoPictureCell initWithFrame:]
+-[TZVideoPictureCell initSubViews]
+-[TZVideoPictureCell imgView]
+-[TZVideoPictureCell setImgView:]
+-[TZVideoPictureCell .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_.17
+_OBJC_CLASSLIST_REFERENCES_$_.18
+_OBJC_SELECTOR_REFERENCES_.22
+_OBJC_SELECTOR_REFERENCES_.24
+_OBJC_SELECTOR_REFERENCES_.26
+_OBJC_CLASSLIST_REFERENCES_$_.27
+_OBJC_IVAR_$_TZVideoCropController._model
+_OBJC_CLASSLIST_REFERENCES_$_.32
+_OBJC_SELECTOR_REFERENCES_.34
+_OBJC_SELECTOR_REFERENCES_.38
+_OBJC_SELECTOR_REFERENCES_.40
+_OBJC_IVAR_$_TZVideoCropController._doneButton
+_OBJC_SELECTOR_REFERENCES_.42
+___block_descriptor_24_e4_20s_e36_v16?0"UIImage"4"NSDictionary"8c12l
+_OBJC_SELECTOR_REFERENCES_.44
+_OBJC_IVAR_$_TZVideoCropController._asset
+_OBJC_CLASSLIST_REFERENCES_$_.46
+_OBJC_SELECTOR_REFERENCES_.48
+_OBJC_IVAR_$_TZVideoCropController._player
+_OBJC_CLASSLIST_REFERENCES_$_.49
+_OBJC_SELECTOR_REFERENCES_.51
+_OBJC_IVAR_$_TZVideoCropController._playerLayer
+_OBJC_SELECTOR_REFERENCES_.53
+_OBJC_SELECTOR_REFERENCES_.55
+_OBJC_SELECTOR_REFERENCES_.75
+___block_descriptor_28_e4_20s24s_e5_v4?0l
+___block_descriptor_24_e4_20s_e38_v12?0"AVPlayerItem"4"NSDictionary"8l
+_OBJC_SELECTOR_REFERENCES_.79
+_OBJC_CLASSLIST_REFERENCES_$_.80
+_OBJC_IVAR_$_TZVideoCropController._playButton
+_OBJC_CLASSLIST_REFERENCES_$_.83
+_OBJC_SELECTOR_REFERENCES_.86
+_OBJC_SELECTOR_REFERENCES_.88
+_OBJC_CLASSLIST_REFERENCES_$_.97
+_OBJC_SELECTOR_REFERENCES_.99
+_OBJC_IVAR_$_TZVideoCropController._cropVideoDurationLabel
+_OBJC_SELECTOR_REFERENCES_.101
+_OBJC_SELECTOR_REFERENCES_.103
+_OBJC_SELECTOR_REFERENCES_.105
+_OBJC_CLASSLIST_REFERENCES_$_.106
+_OBJC_IVAR_$_TZVideoCropController._cancelButton
+_OBJC_CLASSLIST_REFERENCES_$_.113
+_OBJC_SELECTOR_REFERENCES_.117
+_OBJC_SELECTOR_REFERENCES_.119
+_OBJC_SELECTOR_REFERENCES_.121
+_OBJC_SELECTOR_REFERENCES_.123
+_OBJC_SELECTOR_REFERENCES_.125
+_OBJC_SELECTOR_REFERENCES_.127
+_OBJC_SELECTOR_REFERENCES_.129
+_OBJC_SELECTOR_REFERENCES_.131
+_OBJC_SELECTOR_REFERENCES_.133
+_OBJC_IVAR_$_TZVideoCropController._itemW
+_OBJC_CLASSLIST_REFERENCES_$_.134
+_OBJC_SELECTOR_REFERENCES_.136
+_OBJC_SELECTOR_REFERENCES_.138
+_OBJC_SELECTOR_REFERENCES_.140
+_OBJC_SELECTOR_REFERENCES_.142
+_OBJC_CLASSLIST_REFERENCES_$_.143
+_OBJC_SELECTOR_REFERENCES_.145
+_OBJC_IVAR_$_TZVideoCropController._collectionView
+_OBJC_SELECTOR_REFERENCES_.147
+_OBJC_SELECTOR_REFERENCES_.149
+_OBJC_SELECTOR_REFERENCES_.151
+_OBJC_SELECTOR_REFERENCES_.153
+_OBJC_SELECTOR_REFERENCES_.155
+_OBJC_SELECTOR_REFERENCES_.157
+_OBJC_CLASSLIST_REFERENCES_$_.158
+_OBJC_SELECTOR_REFERENCES_.160
+_OBJC_SELECTOR_REFERENCES_.164
+_OBJC_CLASSLIST_REFERENCES_$_.165
+_OBJC_IVAR_$_TZVideoCropController._videoEditView
+_OBJC_SELECTOR_REFERENCES_.167
+_OBJC_SELECTOR_REFERENCES_.169
+_OBJC_SELECTOR_REFERENCES_.171
+_OBJC_CLASSLIST_REFERENCES_$_.172
+_OBJC_SELECTOR_REFERENCES_.174
+_OBJC_SELECTOR_REFERENCES_.176
+_OBJC_SELECTOR_REFERENCES_.178
+_OBJC_SELECTOR_REFERENCES_.180
+_OBJC_SELECTOR_REFERENCES_.182
+_OBJC_CLASSLIST_REFERENCES_$_.183
+_OBJC_SELECTOR_REFERENCES_.185
+_OBJC_SELECTOR_REFERENCES_.187
+_OBJC_SELECTOR_REFERENCES_.189
+_OBJC_SELECTOR_REFERENCES_.191
+_OBJC_SELECTOR_REFERENCES_.193
+_OBJC_SELECTOR_REFERENCES_.195
+_OBJC_CLASSLIST_REFERENCES_$_.196
+_OBJC_SELECTOR_REFERENCES_.198
+_OBJC_SELECTOR_REFERENCES_.200
+_OBJC_SELECTOR_REFERENCES_.202
+_OBJC_SELECTOR_REFERENCES_.204
+_OBJC_SELECTOR_REFERENCES_.206
+_OBJC_SELECTOR_REFERENCES_.208
+_OBJC_SELECTOR_REFERENCES_.210
+_OBJC_CLASSLIST_REFERENCES_$_.211
+_OBJC_SELECTOR_REFERENCES_.213
+_OBJC_IVAR_$_TZVideoCropController._imageGenerator
+_OBJC_SELECTOR_REFERENCES_.215
+_OBJC_SELECTOR_REFERENCES_.217
+_OBJC_SELECTOR_REFERENCES_.219
+_OBJC_SELECTOR_REFERENCES_.221
+_OBJC_SELECTOR_REFERENCES_.223
+_OBJC_SELECTOR_REFERENCES_.225
+_OBJC_SELECTOR_REFERENCES_.227
+_OBJC_SELECTOR_REFERENCES_.229
+_OBJC_SELECTOR_REFERENCES_.231
+_OBJC_CLASSLIST_REFERENCES_$_.232
+_OBJC_SELECTOR_REFERENCES_.236
+_OBJC_SELECTOR_REFERENCES_.238
+_OBJC_SELECTOR_REFERENCES_.240
+_OBJC_SELECTOR_REFERENCES_.242
+_OBJC_SELECTOR_REFERENCES_.244
+_OBJC_SELECTOR_REFERENCES_.246
+_OBJC_CLASSLIST_REFERENCES_$_.247
+_OBJC_SELECTOR_REFERENCES_.249
+_OBJC_CLASSLIST_REFERENCES_$_.250
+_OBJC_SELECTOR_REFERENCES_.252
+_OBJC_SELECTOR_REFERENCES_.254
+_OBJC_SELECTOR_REFERENCES_.256
+_OBJC_SELECTOR_REFERENCES_.258
+_OBJC_SELECTOR_REFERENCES_.260
+_OBJC_SELECTOR_REFERENCES_.262
+_OBJC_SELECTOR_REFERENCES_.264
+_OBJC_SELECTOR_REFERENCES_.266
+___block_descriptor_24_e4_20s_e5_v4?0l
+___block_descriptor_24_e4_20s_e53_v64?0{?=qiIq}4^{CGImage=}28{?=qiIq}32i56"NSError"60l
+_OBJC_SELECTOR_REFERENCES_.269
+_OBJC_SELECTOR_REFERENCES_.271
+_OBJC_SELECTOR_REFERENCES_.273
+_OBJC_SELECTOR_REFERENCES_.275
+_OBJC_SELECTOR_REFERENCES_.277
+_OBJC_IVAR_$_TZVideoCropController._isDraging
+_OBJC_SELECTOR_REFERENCES_.279
+_OBJC_IVAR_$_TZVideoCropController._collectionViewBeginOffsetX
+_OBJC_SELECTOR_REFERENCES_.281
+_OBJC_SELECTOR_REFERENCES_.283
+_OBJC_SELECTOR_REFERENCES_.285
+_OBJC_SELECTOR_REFERENCES_.287
+_OBJC_SELECTOR_REFERENCES_.289
+_OBJC_SELECTOR_REFERENCES_.291
+_OBJC_SELECTOR_REFERENCES_.293
+_OBJC_IVAR_$_TZVideoCropController._isPlayed
+_OBJC_SELECTOR_REFERENCES_.295
+_OBJC_SELECTOR_REFERENCES_.297
+_OBJC_SELECTOR_REFERENCES_.299
+_OBJC_SELECTOR_REFERENCES_.303
+_OBJC_SELECTOR_REFERENCES_.305
+_OBJC_SELECTOR_REFERENCES_.307
+_OBJC_SELECTOR_REFERENCES_.309
+_OBJC_SELECTOR_REFERENCES_.311
+_OBJC_SELECTOR_REFERENCES_.313
+_OBJC_SELECTOR_REFERENCES_.315
+_OBJC_SELECTOR_REFERENCES_.317
+_OBJC_IVAR_$_TZVideoCropController._outputPath
+_OBJC_SELECTOR_REFERENCES_.319
+___block_descriptor_28_e4_20s24s_e17_v8?0"NSString"4l
+_OBJC_IVAR_$_TZVideoCropController._errorMsg
+___block_descriptor_28_e4_20s24s_e29_v12?0"NSString"4"NSError"8l
+_OBJC_SELECTOR_REFERENCES_.324
+_OBJC_SELECTOR_REFERENCES_.326
+_OBJC_CLASSLIST_REFERENCES_$_.327
+_OBJC_SELECTOR_REFERENCES_.329
+_OBJC_SELECTOR_REFERENCES_.331
+_OBJC_SELECTOR_REFERENCES_.333
+_OBJC_SELECTOR_REFERENCES_.335
+_OBJC_SELECTOR_REFERENCES_.337
+___block_descriptor_24_e4_20s_e28_v12?0"PHAsset"4"NSError"8l
+_OBJC_SELECTOR_REFERENCES_.340
+_OBJC_SELECTOR_REFERENCES_.342
+_OBJC_SELECTOR_REFERENCES_.344
+_OBJC_SELECTOR_REFERENCES_.346
+_OBJC_SELECTOR_REFERENCES_.348
+_OBJC_SELECTOR_REFERENCES_.350
+_OBJC_SELECTOR_REFERENCES_.352
+_OBJC_CLASSLIST_REFERENCES_$_.353
+_OBJC_SELECTOR_REFERENCES_.355
+_OBJC_SELECTOR_REFERENCES_.357
+_OBJC_SELECTOR_REFERENCES_.359
+_OBJC_SELECTOR_REFERENCES_.361
+_OBJC_SELECTOR_REFERENCES_.363
+_OBJC_SELECTOR_REFERENCES_.365
+_OBJC_SELECTOR_REFERENCES_.367
+_OBJC_SELECTOR_REFERENCES_.369
+_OBJC_SELECTOR_REFERENCES_.371
+_OBJC_SELECTOR_REFERENCES_.373
+_OBJC_IVAR_$_TZVideoCropController._iCloudErrorView
+_OBJC_CLASSLIST_REFERENCES_$_.374
+_OBJC_SELECTOR_REFERENCES_.376
+_OBJC_CLASSLIST_REFERENCES_$_.377
+_OBJC_SELECTOR_REFERENCES_.379
+_OBJC_SELECTOR_REFERENCES_.387
+_OBJC_SELECTOR_REFERENCES_.389
+_OBJC_IVAR_$_TZVideoCropController._imagePickerVc
+_OBJC_IVAR_$_TZVideoCropController._videoImgArray
+_OBJC_IVAR_$_TZVideoCropController._imageTimes
+_OBJC_IVAR_$_TZVideoCropController._timer
+_OBJC_IVAR_$_TZVideoCropController._progress
+_OBJC_IVAR_$_TZVideoCropController._cover
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject
+__OBJC_$_PROP_LIST_NSObject
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSObject
+__OBJC_PROTOCOL_$_NSObject
+__OBJC_LABEL_PROTOCOL_$_NSObject
+__OBJC_$_PROTOCOL_REFS_TZVideoEditViewDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_TZVideoEditViewDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_TZVideoEditViewDelegate
+__OBJC_PROTOCOL_$_TZVideoEditViewDelegate
+__OBJC_LABEL_PROTOCOL_$_TZVideoEditViewDelegate
+__OBJC_$_PROTOCOL_REFS_UIScrollViewDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UIScrollViewDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_UIScrollViewDelegate
+__OBJC_PROTOCOL_$_UIScrollViewDelegate
+__OBJC_LABEL_PROTOCOL_$_UIScrollViewDelegate
+__OBJC_$_PROTOCOL_REFS_UICollectionViewDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UICollectionViewDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_UICollectionViewDelegate
+__OBJC_PROTOCOL_$_UICollectionViewDelegate
+__OBJC_LABEL_PROTOCOL_$_UICollectionViewDelegate
+__OBJC_$_PROTOCOL_REFS_UICollectionViewDataSource
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_UICollectionViewDataSource
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UICollectionViewDataSource
+__OBJC_$_PROTOCOL_METHOD_TYPES_UICollectionViewDataSource
+__OBJC_PROTOCOL_$_UICollectionViewDataSource
+__OBJC_LABEL_PROTOCOL_$_UICollectionViewDataSource
+__OBJC_$_PROTOCOL_REFS_UIViewControllerTransitioningDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UIViewControllerTransitioningDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_UIViewControllerTransitioningDelegate
+__OBJC_PROTOCOL_$_UIViewControllerTransitioningDelegate
+__OBJC_LABEL_PROTOCOL_$_UIViewControllerTransitioningDelegate
+__OBJC_CLASS_PROTOCOLS_$_TZVideoCropController
+__OBJC_METACLASS_RO_$_TZVideoCropController
+__OBJC_$_INSTANCE_METHODS_TZVideoCropController
+_OBJC_IVAR_$_TZVideoCropController._originStatusBarStyle
+__OBJC_$_INSTANCE_VARIABLES_TZVideoCropController
+__OBJC_$_PROP_LIST_TZVideoCropController
+__OBJC_CLASS_RO_$_TZVideoCropController
+_OBJC_SELECTOR_REFERENCES_.632
+_OBJC_IVAR_$_TZVideoEditView._indicatorLine
+_OBJC_SELECTOR_REFERENCES_.634
+_OBJC_IVAR_$_TZVideoEditView._beginImgView
+_OBJC_SELECTOR_REFERENCES_.638
+_OBJC_SELECTOR_REFERENCES_.640
+_OBJC_SELECTOR_REFERENCES_.642
+_OBJC_CLASSLIST_REFERENCES_$_.643
+_OBJC_SELECTOR_REFERENCES_.645
+_OBJC_SELECTOR_REFERENCES_.647
+_OBJC_SELECTOR_REFERENCES_.649
+_OBJC_IVAR_$_TZVideoEditView._endImgView
+_OBJC_SELECTOR_REFERENCES_.653
+_OBJC_SELECTOR_REFERENCES_.655
+_OBJC_IVAR_$_TZVideoEditView._allImgWidth
+_OBJC_SELECTOR_REFERENCES_.657
+_OBJC_SELECTOR_REFERENCES_.659
+_OBJC_IVAR_$_TZVideoEditView._cropRect
+_OBJC_SELECTOR_REFERENCES_.661
+_OBJC_SELECTOR_REFERENCES_.663
+_OBJC_SELECTOR_REFERENCES_.665
+_OBJC_SELECTOR_REFERENCES_.667
+_OBJC_SELECTOR_REFERENCES_.669
+_OBJC_SELECTOR_REFERENCES_.671
+___block_descriptor_40_e4_20s_e5_v4?0l
+_OBJC_SELECTOR_REFERENCES_.673
+_OBJC_SELECTOR_REFERENCES_.675
+_OBJC_SELECTOR_REFERENCES_.677
+_OBJC_SELECTOR_REFERENCES_.679
+_OBJC_SELECTOR_REFERENCES_.681
+_OBJC_SELECTOR_REFERENCES_.683
+_OBJC_SELECTOR_REFERENCES_.685
+_OBJC_SELECTOR_REFERENCES_.687
+_OBJC_IVAR_$_TZVideoEditView._videoDuration
+_OBJC_IVAR_$_TZVideoEditView._maxCropVideoDuration
+_OBJC_IVAR_$_TZVideoEditView._minCropRectWidth
+_OBJC_IVAR_$_TZVideoEditView._delegate
+_OBJC_IVAR_$_TZVideoEditView._dragingLabel
+__OBJC_METACLASS_RO_$_TZVideoEditView
+__OBJC_$_INSTANCE_METHODS_TZVideoEditView
+_OBJC_IVAR_$_TZVideoEditView._itemWidth
+_OBJC_IVAR_$_TZVideoEditView._beginOffsetX
+_OBJC_IVAR_$_TZVideoEditView._endOffsetX
+__OBJC_$_INSTANCE_VARIABLES_TZVideoEditView
+__OBJC_$_PROP_LIST_TZVideoEditView
+__OBJC_CLASS_RO_$_TZVideoEditView
+_OBJC_IVAR_$_TZVideoPictureCell._imgView
+_OBJC_SELECTOR_REFERENCES_.741
+_OBJC_SELECTOR_REFERENCES_.743
+__OBJC_METACLASS_RO_$_TZVideoPictureCell
+__OBJC_$_INSTANCE_METHODS_TZVideoPictureCell
+__OBJC_$_INSTANCE_VARIABLES_TZVideoPictureCell
+__OBJC_$_PROP_LIST_TZVideoPictureCell
+__OBJC_CLASS_RO_$_TZVideoPictureCell
+/Users/yangjunyi/Downloads/TZImagePickerController/Carthage/Checkouts/TZImagePickerController/TZImagePickerController/TZImagePickerController/TZVideoCropController.m
+TZImagePickerController/TZImagePickerController/TZVideoCropController.m
+TZImagePickerController/TZImagePickerController/TZVideoCropController.h
+__61-[TZVideoEditView indicatorLineAnimateWithDuration:cropRect:]_block_invoke
+CGPointMake
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+__43-[TZVideoCropController callDelegateMethod]_block_invoke
+__53-[TZVideoCropController dismissAndCallDelegateMethod]_block_invoke
+__40-[TZVideoCropController doneButtonClick]_block_invoke.321
+__40-[TZVideoCropController doneButtonClick]_block_invoke
+__43-[TZVideoCropController generateVideoImage]_block_invoke_2
+__43-[TZVideoCropController generateVideoImage]_block_invoke
+llvm.loop.mustprogress
+__destroy_helper_block_e4_20s24s
+__copy_helper_block_e4_20s24s
+__42-[TZVideoCropController configMoviePlayer]_block_invoke_2
+__42-[TZVideoCropController configMoviePlayer]_block_invoke.45
+__destroy_helper_block_e4_20s
+__copy_helper_block_e4_20s
+__42-[TZVideoCropController configMoviePlayer]_block_invoke
+-[TZImageRequestOperation initWithAsset:completion:progressHandler:]
+-[TZImageRequestOperation start]
+___32-[TZImageRequestOperation start]_block_invoke
+___32-[TZImageRequestOperation start]_block_invoke_2
+___32-[TZImageRequestOperation start]_block_invoke_3
+___copy_helper_block_e4_20s24s28s
+___destroy_helper_block_e4_20s24s28s
+___32-[TZImageRequestOperation start]_block_invoke.18
+___32-[TZImageRequestOperation start]_block_invoke_2.19
+___copy_helper_block_e8_20s36s40s
+___destroy_helper_block_e8_20s36s40s
+-[TZImageRequestOperation done]
+-[TZImageRequestOperation reset]
+-[TZImageRequestOperation setFinished:]
+-[TZImageRequestOperation setExecuting:]
+-[TZImageRequestOperation isAsynchronous]
+-[TZImageRequestOperation isExecuting]
+-[TZImageRequestOperation isFinished]
+-[TZImageRequestOperation completedBlock]
+-[TZImageRequestOperation setCompletedBlock:]
+-[TZImageRequestOperation progressBlock]
+-[TZImageRequestOperation setProgressBlock:]
+-[TZImageRequestOperation asset]
+-[TZImageRequestOperation setAsset:]
+-[TZImageRequestOperation .cxx_destruct]
+_OBJC_IVAR_$_TZImageRequestOperation._executing
+_OBJC_IVAR_$_TZImageRequestOperation._finished
+_OBJC_SELECTOR_REFERENCES_.10
+_OBJC_SELECTOR_REFERENCES_.12
+_OBJC_SELECTOR_REFERENCES_.14
+_OBJC_SELECTOR_REFERENCES_.16
+___block_descriptor_33_e4_20s24s28s_e5_v4?0l
+_OBJC_SELECTOR_REFERENCES_.21
+___block_descriptor_48_e8_20s36s40s_e5_v4?0l
+___block_descriptor_24_e4_20s_e41_v24?0d4"NSError"12^c16"NSDictionary"20l
+_OBJC_SELECTOR_REFERENCES_.28
+_OBJC_IVAR_$_TZImageRequestOperation._completedBlock
+_OBJC_IVAR_$_TZImageRequestOperation._progressBlock
+_OBJC_IVAR_$_TZImageRequestOperation._asset
+__OBJC_METACLASS_RO_$_TZImageRequestOperation
+__OBJC_$_INSTANCE_METHODS_TZImageRequestOperation
+__OBJC_$_INSTANCE_VARIABLES_TZImageRequestOperation
+__OBJC_$_PROP_LIST_TZImageRequestOperation
+__OBJC_CLASS_RO_$_TZImageRequestOperation
+/Users/yangjunyi/Downloads/TZImagePickerController/Carthage/Checkouts/TZImagePickerController/TZImagePickerController/TZImagePickerController/TZImageRequestOperation.m
+TZImagePickerController/TZImagePickerController/TZImageRequestOperation.m
+TZImagePickerController/TZImagePickerController/TZImageRequestOperation.h
+__destroy_helper_block_e8_20s36s40s
+__copy_helper_block_e8_20s36s40s
+__32-[TZImageRequestOperation start]_block_invoke_2.19
+__32-[TZImageRequestOperation start]_block_invoke.18
+__destroy_helper_block_e4_20s24s28s
+__copy_helper_block_e4_20s24s28s
+__32-[TZImageRequestOperation start]_block_invoke_3
+__32-[TZImageRequestOperation start]_block_invoke_2
+__32-[TZImageRequestOperation start]_block_invoke
+-[TZImagePickerController init]
+-[TZImagePickerController viewDidLoad]
+-[TZImagePickerController setNaviBgColor:]
+-[TZImagePickerController setNaviTitleColor:]
+-[TZImagePickerController setNaviTitleFont:]
+-[TZImagePickerController configNaviTitleAppearance]
+-[TZImagePickerController configNavigationBarAppearance]
+-[TZImagePickerController setBarItemTextFont:]
+-[TZImagePickerController setBarItemTextColor:]
+-[TZImagePickerController setIsStatusBarDefault:]
+-[TZImagePickerController configBarButtonItemAppearance]
+-[TZImagePickerController viewWillAppear:]
+-[TZImagePickerController viewWillDisappear:]
+-[TZImagePickerController preferredStatusBarStyle]
+-[TZImagePickerController initWithMaxImagesCount:delegate:]
+-[TZImagePickerController initWithMaxImagesCount:columnNumber:delegate:]
+-[TZImagePickerController initWithMaxImagesCount:columnNumber:delegate:pushPhotoPickerVc:]
+-[TZImagePickerController initWithSelectedAssets:selectedPhotos:index:]
+___71-[TZImagePickerController initWithSelectedAssets:selectedPhotos:index:]_block_invoke
+___71-[TZImagePickerController initWithSelectedAssets:selectedPhotos:index:]_block_invoke_2
+___copy_helper_block_e4_20w
+___destroy_helper_block_e4_20w
+-[TZImagePickerController initCropTypeWithAsset:photo:completion:]
+___66-[TZImagePickerController initCropTypeWithAsset:photo:completion:]_block_invoke
+___66-[TZImagePickerController initCropTypeWithAsset:photo:completion:]_block_invoke_2
+___copy_helper_block_e4_20b24s28s
+___copy_helper_block_e4_20b24w
+___destroy_helper_block_e4_20s24w
+-[TZImagePickerController configDefaultSetting]
+-[TZImagePickerController configDefaultImageName]
+-[TZImagePickerController setTakePictureImageName:]
+-[TZImagePickerController setPhotoSelImageName:]
+-[TZImagePickerController setPhotoDefImageName:]
+-[TZImagePickerController setPhotoNumberIconImageName:]
+-[TZImagePickerController setPhotoPreviewOriginDefImageName:]
+-[TZImagePickerController setPhotoOriginDefImageName:]
+-[TZImagePickerController setPhotoOriginSelImageName:]
+-[TZImagePickerController setTakePictureImage:]
+-[TZImagePickerController setIconThemeColor:]
+-[TZImagePickerController configDefaultBtnTitle]
+-[TZImagePickerController setShowSelectedIndex:]
+-[TZImagePickerController setShowPhotoCannotSelectLayer:]
+-[TZImagePickerController setNotScaleImage:]
+-[TZImagePickerController setNeedFixComposition:]
+-[TZImagePickerController observeAuthrizationStatusChange]
+-[TZImagePickerController pushPhotoPickerVc]
+___44-[TZImagePickerController pushPhotoPickerVc]_block_invoke
+-[TZImagePickerController showAlertWithTitle:]
+-[TZImagePickerController showProgressHUD]
+___42-[TZImagePickerController showProgressHUD]_block_invoke
+-[TZImagePickerController hideProgressHUD]
+-[TZImagePickerController setMaxImagesCount:]
+-[TZImagePickerController setShowSelectBtn:]
+-[TZImagePickerController setAllowCrop:]
+-[TZImagePickerController setCircleCropRadius:]
+-[TZImagePickerController setCropRect:]
+-[TZImagePickerController cropRect]
+-[TZImagePickerController setTimeout:]
+-[TZImagePickerController setPickerDelegate:]
+-[TZImagePickerController setColumnNumber:]
+-[TZImagePickerController setMinPhotoWidthSelectable:]
+-[TZImagePickerController setMinPhotoHeightSelectable:]
+-[TZImagePickerController setHideWhenCanNotSelect:]
+-[TZImagePickerController setPhotoPreviewMaxWidth:]
+-[TZImagePickerController setPhotoWidth:]
+-[TZImagePickerController setSelectedAssets:]
+-[TZImagePickerController setAllowPickingImage:]
+-[TZImagePickerController setAllowPickingVideo:]
+-[TZImagePickerController setPreferredLanguage:]
+-[TZImagePickerController setLanguageBundle:]
+-[TZImagePickerController setSortAscendingByModificationDate:]
+-[TZImagePickerController settingBtnClick]
+-[TZImagePickerController pushViewController:animated:]
+-[TZImagePickerController dealloc]
+-[TZImagePickerController addSelectedModel:]
+-[TZImagePickerController removeSelectedModel:]
+-[TZImagePickerController createImageWithColor:size:radius:]
+-[TZImagePickerController viewWillTransitionToSize:withTransitionCoordinator:]
+___78-[TZImagePickerController viewWillTransitionToSize:withTransitionCoordinator:]_block_invoke
+-[TZImagePickerController viewDidLayoutSubviews]
+-[TZImagePickerController cancelButtonClick]
+___44-[TZImagePickerController cancelButtonClick]_block_invoke
+-[TZImagePickerController callDelegateMethod]
+-[TZImagePickerController supportedInterfaceOrientations]
+-[TZImagePickerController maxImagesCount]
+-[TZImagePickerController minImagesCount]
+-[TZImagePickerController setMinImagesCount:]
+-[TZImagePickerController autoSelectCurrentWhenDone]
+-[TZImagePickerController setAutoSelectCurrentWhenDone:]
+-[TZImagePickerController alwaysEnableDoneBtn]
+-[TZImagePickerController setAlwaysEnableDoneBtn:]
+-[TZImagePickerController sortAscendingByModificationDate]
+-[TZImagePickerController photoWidth]
+-[TZImagePickerController photoPreviewMaxWidth]
+-[TZImagePickerController timeout]
+-[TZImagePickerController allowPickingOriginalPhoto]
+-[TZImagePickerController setAllowPickingOriginalPhoto:]
+-[TZImagePickerController allowPickingVideo]
+-[TZImagePickerController allowEditVideo]
+-[TZImagePickerController setAllowEditVideo:]
+-[TZImagePickerController presetName]
+-[TZImagePickerController setPresetName:]
+-[TZImagePickerController maxCropVideoDuration]
+-[TZImagePickerController setMaxCropVideoDuration:]
+-[TZImagePickerController saveEditedVideoToAlbum]
+-[TZImagePickerController setSaveEditedVideoToAlbum:]
+-[TZImagePickerController allowPickingMultipleVideo]
+-[TZImagePickerController setAllowPickingMultipleVideo:]
+-[TZImagePickerController allowPickingGif]
+-[TZImagePickerController setAllowPickingGif:]
+-[TZImagePickerController allowPickingImage]
+-[TZImagePickerController allowTakePicture]
+-[TZImagePickerController setAllowTakePicture:]
+-[TZImagePickerController allowCameraLocation]
+-[TZImagePickerController setAllowCameraLocation:]
+-[TZImagePickerController allowTakeVideo]
+-[TZImagePickerController setAllowTakeVideo:]
+-[TZImagePickerController videoMaximumDuration]
+-[TZImagePickerController setVideoMaximumDuration:]
+-[TZImagePickerController uiImagePickerControllerSettingBlock]
+-[TZImagePickerController setUiImagePickerControllerSettingBlock:]
+-[TZImagePickerController preferredLanguage]
+-[TZImagePickerController languageBundle]
+-[TZImagePickerController allowPreview]
+-[TZImagePickerController setAllowPreview:]
+-[TZImagePickerController autoDismiss]
+-[TZImagePickerController setAutoDismiss:]
+-[TZImagePickerController onlyReturnAsset]
+-[TZImagePickerController setOnlyReturnAsset:]
+-[TZImagePickerController showSelectedIndex]
+-[TZImagePickerController showPhotoCannotSelectLayer]
+-[TZImagePickerController cannotSelectLayerColor]
+-[TZImagePickerController setCannotSelectLayerColor:]
+-[TZImagePickerController notScaleImage]
+-[TZImagePickerController needFixComposition]
+-[TZImagePickerController selectedAssets]
+-[TZImagePickerController selectedModels]
+-[TZImagePickerController setSelectedModels:]
+-[TZImagePickerController selectedAssetIds]
+-[TZImagePickerController setSelectedAssetIds:]
+-[TZImagePickerController minPhotoWidthSelectable]
+-[TZImagePickerController minPhotoHeightSelectable]
+-[TZImagePickerController hideWhenCanNotSelect]
+-[TZImagePickerController isStatusBarDefault]
+-[TZImagePickerController statusBarStyle]
+-[TZImagePickerController setStatusBarStyle:]
+-[TZImagePickerController showSelectBtn]
+-[TZImagePickerController allowCrop]
+-[TZImagePickerController scaleAspectFillCrop]
+-[TZImagePickerController setScaleAspectFillCrop:]
+-[TZImagePickerController cropRectPortrait]
+-[TZImagePickerController setCropRectPortrait:]
+-[TZImagePickerController cropRectLandscape]
+-[TZImagePickerController setCropRectLandscape:]
+-[TZImagePickerController needCircleCrop]
+-[TZImagePickerController setNeedCircleCrop:]
+-[TZImagePickerController circleCropRadius]
+-[TZImagePickerController cropViewSettingBlock]
+-[TZImagePickerController setCropViewSettingBlock:]
+-[TZImagePickerController navLeftBarButtonSettingBlock]
+-[TZImagePickerController setNavLeftBarButtonSettingBlock:]
+-[TZImagePickerController photoPickerPageUIConfigBlock]
+-[TZImagePickerController setPhotoPickerPageUIConfigBlock:]
+-[TZImagePickerController photoPreviewPageUIConfigBlock]
+-[TZImagePickerController setPhotoPreviewPageUIConfigBlock:]
+-[TZImagePickerController videoPreviewPageUIConfigBlock]
+-[TZImagePickerController setVideoPreviewPageUIConfigBlock:]
+-[TZImagePickerController videoEditViewPageUIConfigBlock]
+-[TZImagePickerController setVideoEditViewPageUIConfigBlock:]
+-[TZImagePickerController gifPreviewPageUIConfigBlock]
+-[TZImagePickerController setGifPreviewPageUIConfigBlock:]
+-[TZImagePickerController albumPickerPageUIConfigBlock]
+-[TZImagePickerController setAlbumPickerPageUIConfigBlock:]
+-[TZImagePickerController assetCellDidSetModelBlock]
+-[TZImagePickerController setAssetCellDidSetModelBlock:]
+-[TZImagePickerController albumCellDidSetModelBlock]
+-[TZImagePickerController setAlbumCellDidSetModelBlock:]
+-[TZImagePickerController photoPickerPageDidLayoutSubviewsBlock]
+-[TZImagePickerController setPhotoPickerPageDidLayoutSubviewsBlock:]
+-[TZImagePickerController photoPreviewPageDidLayoutSubviewsBlock]
+-[TZImagePickerController setPhotoPreviewPageDidLayoutSubviewsBlock:]
+-[TZImagePickerController videoPreviewPageDidLayoutSubviewsBlock]
+-[TZImagePickerController setVideoPreviewPageDidLayoutSubviewsBlock:]
+-[TZImagePickerController videoEditViewPageDidLayoutSubviewsBlock]
+-[TZImagePickerController setVideoEditViewPageDidLayoutSubviewsBlock:]
+-[TZImagePickerController gifPreviewPageDidLayoutSubviewsBlock]
+-[TZImagePickerController setGifPreviewPageDidLayoutSubviewsBlock:]
+-[TZImagePickerController albumPickerPageDidLayoutSubviewsBlock]
+-[TZImagePickerController setAlbumPickerPageDidLayoutSubviewsBlock:]
+-[TZImagePickerController assetCellDidLayoutSubviewsBlock]
+-[TZImagePickerController setAssetCellDidLayoutSubviewsBlock:]
+-[TZImagePickerController albumCellDidLayoutSubviewsBlock]
+-[TZImagePickerController setAlbumCellDidLayoutSubviewsBlock:]
+-[TZImagePickerController photoPickerPageDidRefreshStateBlock]
+-[TZImagePickerController setPhotoPickerPageDidRefreshStateBlock:]
+-[TZImagePickerController photoPreviewPageDidRefreshStateBlock]
+-[TZImagePickerController setPhotoPreviewPageDidRefreshStateBlock:]
+-[TZImagePickerController isSelectOriginalPhoto]
+-[TZImagePickerController setIsSelectOriginalPhoto:]
+-[TZImagePickerController needShowStatusBar]
+-[TZImagePickerController setNeedShowStatusBar:]
+-[TZImagePickerController takePictureImageName]
+-[TZImagePickerController photoSelImageName]
+-[TZImagePickerController photoDefImageName]
+-[TZImagePickerController photoOriginSelImageName]
+-[TZImagePickerController photoOriginDefImageName]
+-[TZImagePickerController photoPreviewOriginDefImageName]
+-[TZImagePickerController photoNumberIconImageName]
+-[TZImagePickerController takePictureImage]
+-[TZImagePickerController photoSelImage]
+-[TZImagePickerController setPhotoSelImage:]
+-[TZImagePickerController photoDefImage]
+-[TZImagePickerController setPhotoDefImage:]
+-[TZImagePickerController photoOriginSelImage]
+-[TZImagePickerController setPhotoOriginSelImage:]
+-[TZImagePickerController photoOriginDefImage]
+-[TZImagePickerController setPhotoOriginDefImage:]
+-[TZImagePickerController photoPreviewOriginDefImage]
+-[TZImagePickerController setPhotoPreviewOriginDefImage:]
+-[TZImagePickerController photoNumberIconImage]
+-[TZImagePickerController setPhotoNumberIconImage:]
+-[TZImagePickerController oKButtonTitleColorNormal]
+-[TZImagePickerController setOKButtonTitleColorNormal:]
+-[TZImagePickerController oKButtonTitleColorDisabled]
+-[TZImagePickerController setOKButtonTitleColorDisabled:]
+-[TZImagePickerController naviBgColor]
+-[TZImagePickerController naviTitleColor]
+-[TZImagePickerController naviTitleFont]
+-[TZImagePickerController barItemTextColor]
+-[TZImagePickerController barItemTextFont]
+-[TZImagePickerController doneBtnTitleStr]
+-[TZImagePickerController setDoneBtnTitleStr:]
+-[TZImagePickerController cancelBtnTitleStr]
+-[TZImagePickerController setCancelBtnTitleStr:]
+-[TZImagePickerController previewBtnTitleStr]
+-[TZImagePickerController setPreviewBtnTitleStr:]
+-[TZImagePickerController fullImageBtnTitleStr]
+-[TZImagePickerController setFullImageBtnTitleStr:]
+-[TZImagePickerController settingBtnTitleStr]
+-[TZImagePickerController setSettingBtnTitleStr:]
+-[TZImagePickerController processHintStr]
+-[TZImagePickerController setProcessHintStr:]
+-[TZImagePickerController editBtnTitleStr]
+-[TZImagePickerController setEditBtnTitleStr:]
+-[TZImagePickerController editViewCancelBtnTitleStr]
+-[TZImagePickerController setEditViewCancelBtnTitleStr:]
+-[TZImagePickerController iconThemeColor]
+-[TZImagePickerController didFinishPickingPhotosHandle]
+-[TZImagePickerController setDidFinishPickingPhotosHandle:]
+-[TZImagePickerController didFinishPickingPhotosWithInfosHandle]
+-[TZImagePickerController setDidFinishPickingPhotosWithInfosHandle:]
+-[TZImagePickerController imagePickerControllerDidCancelHandle]
+-[TZImagePickerController setImagePickerControllerDidCancelHandle:]
+-[TZImagePickerController didFinishPickingVideoHandle]
+-[TZImagePickerController setDidFinishPickingVideoHandle:]
+-[TZImagePickerController didFinishPickingAndEditingVideoHandle]
+-[TZImagePickerController setDidFinishPickingAndEditingVideoHandle:]
+-[TZImagePickerController didFinishPickingGifImageHandle]
+-[TZImagePickerController setDidFinishPickingGifImageHandle:]
+-[TZImagePickerController pickerDelegate]
+-[TZImagePickerController columnNumber]
+-[TZImagePickerController HUDTimeoutCount]
+-[TZImagePickerController setHUDTimeoutCount:]
+-[TZImagePickerController .cxx_destruct]
+-[TZAlbumPickerController viewDidLoad]
+-[TZAlbumPickerController viewWillAppear:]
+-[TZAlbumPickerController configTableView]
+___42-[TZAlbumPickerController configTableView]_block_invoke
+___42-[TZAlbumPickerController configTableView]_block_invoke_2
+___42-[TZAlbumPickerController configTableView]_block_invoke_3
+-[TZAlbumPickerController dealloc]
+-[TZAlbumPickerController preferredStatusBarStyle]
+-[TZAlbumPickerController photoLibraryDidChange:]
+___49-[TZAlbumPickerController photoLibraryDidChange:]_block_invoke
+-[TZAlbumPickerController viewDidLayoutSubviews]
+-[TZAlbumPickerController tableView:numberOfRowsInSection:]
+-[TZAlbumPickerController tableView:cellForRowAtIndexPath:]
+-[TZAlbumPickerController tableView:didSelectRowAtIndexPath:]
+-[TZAlbumPickerController columnNumber]
+-[TZAlbumPickerController setColumnNumber:]
+-[TZAlbumPickerController isFirstAppear]
+-[TZAlbumPickerController setIsFirstAppear:]
+-[TZAlbumPickerController albumArr]
+-[TZAlbumPickerController setAlbumArr:]
+-[TZAlbumPickerController .cxx_destruct]
++[UIImage(MyBundle) tz_imageNamedFromMyBundle:]
++[TZCommonTools tz_safeAreaInsets]
++[TZCommonTools tz_isIPhoneX]
++[TZCommonTools tz_isLandscape]
++[TZCommonTools tz_statusBarHeight]
++[TZCommonTools tz_getInfoDictionary]
++[TZCommonTools tz_getAppName]
++[TZCommonTools tz_isRightToLeftLayout]
++[TZCommonTools configBarButtonItem:tzImagePickerVc:]
++[TZCommonTools isICloudSyncError:]
++[TZCommonTools isAssetNotSelectable:tzImagePickerVc:]
++[TZImagePickerConfig sharedInstance]
+___37+[TZImagePickerConfig sharedInstance]_block_invoke
+-[TZImagePickerConfig setPreferredLanguage:]
+-[TZImagePickerConfig preferredLanguage]
+-[TZImagePickerConfig allowPickingImage]
+-[TZImagePickerConfig setAllowPickingImage:]
+-[TZImagePickerConfig allowPickingVideo]
+-[TZImagePickerConfig setAllowPickingVideo:]
+-[TZImagePickerConfig languageBundle]
+-[TZImagePickerConfig setLanguageBundle:]
+-[TZImagePickerConfig showSelectedIndex]
+-[TZImagePickerConfig setShowSelectedIndex:]
+-[TZImagePickerConfig showPhotoCannotSelectLayer]
+-[TZImagePickerConfig setShowPhotoCannotSelectLayer:]
+-[TZImagePickerConfig notScaleImage]
+-[TZImagePickerConfig setNotScaleImage:]
+-[TZImagePickerConfig needFixComposition]
+-[TZImagePickerConfig setNeedFixComposition:]
+-[TZImagePickerConfig gifPreviewMaxImagesCount]
+-[TZImagePickerConfig setGifPreviewMaxImagesCount:]
+-[TZImagePickerConfig gifImagePlayBlock]
+-[TZImagePickerConfig setGifImagePlayBlock:]
+-[TZImagePickerConfig supportedLanguages]
+-[TZImagePickerConfig setSupportedLanguages:]
+-[TZImagePickerConfig .cxx_destruct]
+___clang_at_available_requires_core_foundation_framework
+_OBJC_CLASSLIST_REFERENCES_$_.11
+_OBJC_SELECTOR_REFERENCES_.19
+_OBJC_CLASSLIST_REFERENCES_$_.26
+_OBJC_SELECTOR_REFERENCES_.30
+_OBJC_SELECTOR_REFERENCES_.32
+_OBJC_SELECTOR_REFERENCES_.46
+_OBJC_IVAR_$_TZImagePickerController._naviBgColor
+_OBJC_IVAR_$_TZImagePickerController._naviTitleColor
+_OBJC_SELECTOR_REFERENCES_.50
+_OBJC_IVAR_$_TZImagePickerController._naviTitleFont
+_OBJC_CLASSLIST_REFERENCES_$_.51
+_OBJC_CLASSLIST_REFERENCES_$_.62
+_OBJC_SELECTOR_REFERENCES_.64
+_OBJC_SELECTOR_REFERENCES_.66
+_OBJC_SELECTOR_REFERENCES_.68
+_OBJC_SELECTOR_REFERENCES_.70
+_OBJC_SELECTOR_REFERENCES_.72
+_OBJC_SELECTOR_REFERENCES_.74
+_OBJC_IVAR_$_TZImagePickerController._barItemTextFont
+_OBJC_SELECTOR_REFERENCES_.76
+_OBJC_IVAR_$_TZImagePickerController._barItemTextColor
+_OBJC_IVAR_$_TZImagePickerController._isStatusBarDefault
+_OBJC_CLASSLIST_REFERENCES_$_.79
+_OBJC_SELECTOR_REFERENCES_.85
+_OBJC_SELECTOR_REFERENCES_.91
+_OBJC_SELECTOR_REFERENCES_.93
+_OBJC_SELECTOR_REFERENCES_.95
+_OBJC_SELECTOR_REFERENCES_.97
+_OBJC_IVAR_$_TZImagePickerController._originStatusBarStyle
+_OBJC_IVAR_$_TZImagePickerController._pushPhotoPickerVc
+_OBJC_CLASSLIST_REFERENCES_$_.117
+_OBJC_SELECTOR_REFERENCES_.135
+_OBJC_SELECTOR_REFERENCES_.137
+_OBJC_SELECTOR_REFERENCES_.139
+_OBJC_SELECTOR_REFERENCES_.141
+_OBJC_CLASSLIST_REFERENCES_$_.142
+_OBJC_IVAR_$_TZImagePickerController._tipLabel
+_OBJC_SELECTOR_REFERENCES_.144
+_OBJC_SELECTOR_REFERENCES_.146
+_OBJC_SELECTOR_REFERENCES_.148
+_OBJC_SELECTOR_REFERENCES_.150
+_OBJC_CLASSLIST_REFERENCES_$_.151
+_OBJC_SELECTOR_REFERENCES_.159
+_OBJC_SELECTOR_REFERENCES_.161
+_OBJC_CLASSLIST_REFERENCES_$_.162
+_OBJC_CLASSLIST_REFERENCES_$_.166
+_OBJC_SELECTOR_REFERENCES_.168
+_OBJC_SELECTOR_REFERENCES_.170
+_OBJC_SELECTOR_REFERENCES_.172
+_OBJC_CLASSLIST_REFERENCES_$_.175
+_OBJC_SELECTOR_REFERENCES_.177
+_OBJC_IVAR_$_TZImagePickerController._settingBtn
+_OBJC_SELECTOR_REFERENCES_.179
+_OBJC_SELECTOR_REFERENCES_.181
+_OBJC_SELECTOR_REFERENCES_.183
+_OBJC_CLASSLIST_REFERENCES_$_.188
+_OBJC_SELECTOR_REFERENCES_.190
+_OBJC_CLASSLIST_REFERENCES_$_.191
+_OBJC_IVAR_$_TZImagePickerController._timer
+_OBJC_SELECTOR_REFERENCES_.197
+_OBJC_CLASSLIST_REFERENCES_$_.198
+___block_descriptor_24_e4_20w_e31_v16?0"NSArray"4"NSArray"8c12l
+_OBJC_SELECTOR_REFERENCES_.216
+_OBJC_SELECTOR_REFERENCES_.218
+_OBJC_SELECTOR_REFERENCES_.220
+___block_descriptor_32_e4_20bs24s28s_e5_v4?0l
+___block_descriptor_28_e4_20bs24w_e19_v12?0"UIImage"48l
+_OBJC_SELECTOR_REFERENCES_.233
+_OBJC_SELECTOR_REFERENCES_.235
+_OBJC_SELECTOR_REFERENCES_.237
+_OBJC_SELECTOR_REFERENCES_.239
+_OBJC_SELECTOR_REFERENCES_.241
+_OBJC_SELECTOR_REFERENCES_.243
+_OBJC_SELECTOR_REFERENCES_.245
+_OBJC_SELECTOR_REFERENCES_.247
+_OBJC_SELECTOR_REFERENCES_.251
+_OBJC_SELECTOR_REFERENCES_.253
+_OBJC_SELECTOR_REFERENCES_.255
+_OBJC_SELECTOR_REFERENCES_.257
+_OBJC_SELECTOR_REFERENCES_.259
+_OBJC_SELECTOR_REFERENCES_.261
+_OBJC_SELECTOR_REFERENCES_.265
+_OBJC_IVAR_$_TZImagePickerController._takePictureImageName
+_OBJC_CLASSLIST_REFERENCES_$_.290
+_OBJC_SELECTOR_REFERENCES_.292
+_OBJC_IVAR_$_TZImagePickerController._takePictureImage
+_OBJC_IVAR_$_TZImagePickerController._photoSelImageName
+_OBJC_IVAR_$_TZImagePickerController._photoSelImage
+_OBJC_IVAR_$_TZImagePickerController._photoDefImageName
+_OBJC_IVAR_$_TZImagePickerController._photoDefImage
+_OBJC_IVAR_$_TZImagePickerController._photoNumberIconImageName
+_OBJC_IVAR_$_TZImagePickerController._photoNumberIconImage
+_OBJC_IVAR_$_TZImagePickerController._photoPreviewOriginDefImageName
+_OBJC_IVAR_$_TZImagePickerController._photoPreviewOriginDefImage
+_OBJC_IVAR_$_TZImagePickerController._photoOriginDefImageName
+_OBJC_IVAR_$_TZImagePickerController._photoOriginDefImage
+_OBJC_IVAR_$_TZImagePickerController._photoOriginSelImageName
+_OBJC_IVAR_$_TZImagePickerController._photoOriginSelImage
+_OBJC_IVAR_$_TZImagePickerController._iconThemeColor
+_OBJC_SELECTOR_REFERENCES_.296
+_OBJC_SELECTOR_REFERENCES_.300
+_OBJC_SELECTOR_REFERENCES_.304
+_OBJC_SELECTOR_REFERENCES_.308
+_OBJC_SELECTOR_REFERENCES_.312
+_OBJC_SELECTOR_REFERENCES_.316
+_OBJC_SELECTOR_REFERENCES_.320
+_OBJC_IVAR_$_TZImagePickerController._showSelectedIndex
+_OBJC_IVAR_$_TZImagePickerController._showPhotoCannotSelectLayer
+_OBJC_IVAR_$_TZImagePickerController._notScaleImage
+_OBJC_IVAR_$_TZImagePickerController._needFixComposition
+_OBJC_SELECTOR_REFERENCES_.339
+_OBJC_SELECTOR_REFERENCES_.341
+_OBJC_SELECTOR_REFERENCES_.343
+_OBJC_IVAR_$_TZImagePickerController._didPushPhotoPickerVc
+_OBJC_CLASSLIST_REFERENCES_$_.344
+___block_descriptor_28_e4_20s24s_e21_v8?0"TZAlbumModel"4l
+_OBJC_SELECTOR_REFERENCES_.353
+_OBJC_CLASSLIST_REFERENCES_$_.354
+_OBJC_SELECTOR_REFERENCES_.356
+_OBJC_CLASSLIST_REFERENCES_$_.357
+_OBJC_IVAR_$_TZImagePickerController._progressHUD
+_OBJC_CLASSLIST_REFERENCES_$_.368
+_OBJC_IVAR_$_TZImagePickerController._HUDContainer
+_OBJC_SELECTOR_REFERENCES_.370
+_OBJC_SELECTOR_REFERENCES_.372
+_OBJC_SELECTOR_REFERENCES_.374
+_OBJC_SELECTOR_REFERENCES_.378
+_OBJC_CLASSLIST_REFERENCES_$_.379
+_OBJC_SELECTOR_REFERENCES_.381
+_OBJC_IVAR_$_TZImagePickerController._HUDIndicatorView
+_OBJC_IVAR_$_TZImagePickerController._HUDLabel
+_OBJC_SELECTOR_REFERENCES_.383
+_OBJC_SELECTOR_REFERENCES_.385
+_OBJC_SELECTOR_REFERENCES_.391
+_OBJC_SELECTOR_REFERENCES_.393
+_OBJC_SELECTOR_REFERENCES_.395
+_OBJC_SELECTOR_REFERENCES_.397
+_OBJC_SELECTOR_REFERENCES_.399
+_OBJC_SELECTOR_REFERENCES_.401
+___block_descriptor_24_e4_20w_e5_v4?0l
+_OBJC_SELECTOR_REFERENCES_.403
+_OBJC_IVAR_$_TZImagePickerController._maxImagesCount
+_OBJC_IVAR_$_TZImagePickerController._showSelectBtn
+_OBJC_IVAR_$_TZImagePickerController._allowCrop
+_OBJC_SELECTOR_REFERENCES_.405
+_OBJC_IVAR_$_TZImagePickerController._circleCropRadius
+_OBJC_IVAR_$_TZImagePickerController._cropRect
+_OBJC_SELECTOR_REFERENCES_.407
+_OBJC_IVAR_$_TZImagePickerController._cropRectLandscape
+_OBJC_IVAR_$_TZImagePickerController._cropRectPortrait
+_OBJC_CLASSLIST_REFERENCES_$_.408
+_OBJC_SELECTOR_REFERENCES_.410
+_OBJC_SELECTOR_REFERENCES_.412
+_OBJC_IVAR_$_TZImagePickerController._timeout
+_OBJC_IVAR_$_TZImagePickerController._pickerDelegate
+_OBJC_IVAR_$_TZImagePickerController._columnNumber
+_OBJC_SELECTOR_REFERENCES_.414
+_OBJC_SELECTOR_REFERENCES_.416
+_OBJC_IVAR_$_TZImagePickerController._minPhotoWidthSelectable
+_OBJC_SELECTOR_REFERENCES_.418
+_OBJC_IVAR_$_TZImagePickerController._minPhotoHeightSelectable
+_OBJC_SELECTOR_REFERENCES_.420
+_OBJC_IVAR_$_TZImagePickerController._hideWhenCanNotSelect
+_OBJC_SELECTOR_REFERENCES_.422
+_OBJC_IVAR_$_TZImagePickerController._photoPreviewMaxWidth
+_OBJC_IVAR_$_TZImagePickerController._photoWidth
+_OBJC_IVAR_$_TZImagePickerController._selectedAssets
+_OBJC_IVAR_$_TZImagePickerController._selectedModels
+_OBJC_IVAR_$_TZImagePickerController._selectedAssetIds
+_OBJC_SELECTOR_REFERENCES_.424
+_OBJC_CLASSLIST_REFERENCES_$_.425
+_OBJC_SELECTOR_REFERENCES_.427
+_OBJC_SELECTOR_REFERENCES_.429
+_OBJC_SELECTOR_REFERENCES_.431
+_OBJC_SELECTOR_REFERENCES_.433
+_OBJC_IVAR_$_TZImagePickerController._allowPickingImage
+_OBJC_IVAR_$_TZImagePickerController._allowTakePicture
+_OBJC_IVAR_$_TZImagePickerController._allowPickingVideo
+_OBJC_IVAR_$_TZImagePickerController._allowTakeVideo
+_OBJC_IVAR_$_TZImagePickerController._preferredLanguage
+_OBJC_SELECTOR_REFERENCES_.435
+_OBJC_IVAR_$_TZImagePickerController._languageBundle
+_OBJC_SELECTOR_REFERENCES_.437
+_OBJC_IVAR_$_TZImagePickerController._sortAscendingByModificationDate
+_OBJC_CLASSLIST_REFERENCES_$_.438
+_OBJC_SELECTOR_REFERENCES_.440
+_OBJC_SELECTOR_REFERENCES_.442
+_OBJC_SELECTOR_REFERENCES_.444
+_OBJC_SELECTOR_REFERENCES_.446
+_OBJC_SELECTOR_REFERENCES_.448
+_OBJC_SELECTOR_REFERENCES_.450
+_OBJC_SELECTOR_REFERENCES_.452
+_OBJC_SELECTOR_REFERENCES_.454
+_OBJC_SELECTOR_REFERENCES_.456
+_OBJC_SELECTOR_REFERENCES_.458
+_OBJC_CLASSLIST_REFERENCES_$_.459
+_OBJC_SELECTOR_REFERENCES_.461
+_OBJC_SELECTOR_REFERENCES_.463
+_OBJC_SELECTOR_REFERENCES_.465
+_OBJC_SELECTOR_REFERENCES_.467
+_OBJC_SELECTOR_REFERENCES_.469
+_OBJC_SELECTOR_REFERENCES_.471
+_OBJC_SELECTOR_REFERENCES_.473
+_OBJC_SELECTOR_REFERENCES_.475
+_OBJC_SELECTOR_REFERENCES_.477
+_OBJC_CLASSLIST_REFERENCES_$_.478
+_OBJC_SELECTOR_REFERENCES_.480
+_OBJC_IVAR_$_TZImagePickerController._minImagesCount
+_OBJC_IVAR_$_TZImagePickerController._autoSelectCurrentWhenDone
+_OBJC_IVAR_$_TZImagePickerController._alwaysEnableDoneBtn
+_OBJC_IVAR_$_TZImagePickerController._allowPickingOriginalPhoto
+_OBJC_IVAR_$_TZImagePickerController._allowEditVideo
+_OBJC_IVAR_$_TZImagePickerController._presetName
+_OBJC_IVAR_$_TZImagePickerController._maxCropVideoDuration
+_OBJC_IVAR_$_TZImagePickerController._saveEditedVideoToAlbum
+_OBJC_IVAR_$_TZImagePickerController._allowPickingMultipleVideo
+_OBJC_IVAR_$_TZImagePickerController._allowPickingGif
+_OBJC_IVAR_$_TZImagePickerController._allowCameraLocation
+_OBJC_IVAR_$_TZImagePickerController._videoMaximumDuration
+_OBJC_IVAR_$_TZImagePickerController._uiImagePickerControllerSettingBlock
+_OBJC_IVAR_$_TZImagePickerController._allowPreview
+_OBJC_IVAR_$_TZImagePickerController._autoDismiss
+_OBJC_IVAR_$_TZImagePickerController._onlyReturnAsset
+_OBJC_IVAR_$_TZImagePickerController._cannotSelectLayerColor
+_OBJC_IVAR_$_TZImagePickerController._statusBarStyle
+_OBJC_IVAR_$_TZImagePickerController._scaleAspectFillCrop
+_OBJC_IVAR_$_TZImagePickerController._needCircleCrop
+_OBJC_IVAR_$_TZImagePickerController._cropViewSettingBlock
+_OBJC_IVAR_$_TZImagePickerController._navLeftBarButtonSettingBlock
+_OBJC_IVAR_$_TZImagePickerController._photoPickerPageUIConfigBlock
+_OBJC_IVAR_$_TZImagePickerController._photoPreviewPageUIConfigBlock
+_OBJC_IVAR_$_TZImagePickerController._videoPreviewPageUIConfigBlock
+_OBJC_IVAR_$_TZImagePickerController._videoEditViewPageUIConfigBlock
+_OBJC_IVAR_$_TZImagePickerController._gifPreviewPageUIConfigBlock
+_OBJC_IVAR_$_TZImagePickerController._albumPickerPageUIConfigBlock
+_OBJC_IVAR_$_TZImagePickerController._assetCellDidSetModelBlock
+_OBJC_IVAR_$_TZImagePickerController._albumCellDidSetModelBlock
+_OBJC_IVAR_$_TZImagePickerController._photoPickerPageDidLayoutSubviewsBlock
+_OBJC_IVAR_$_TZImagePickerController._photoPreviewPageDidLayoutSubviewsBlock
+_OBJC_IVAR_$_TZImagePickerController._videoPreviewPageDidLayoutSubviewsBlock
+_OBJC_IVAR_$_TZImagePickerController._videoEditViewPageDidLayoutSubviewsBlock
+_OBJC_IVAR_$_TZImagePickerController._gifPreviewPageDidLayoutSubviewsBlock
+_OBJC_IVAR_$_TZImagePickerController._albumPickerPageDidLayoutSubviewsBlock
+_OBJC_IVAR_$_TZImagePickerController._assetCellDidLayoutSubviewsBlock
+_OBJC_IVAR_$_TZImagePickerController._albumCellDidLayoutSubviewsBlock
+_OBJC_IVAR_$_TZImagePickerController._photoPickerPageDidRefreshStateBlock
+_OBJC_IVAR_$_TZImagePickerController._photoPreviewPageDidRefreshStateBlock
+_OBJC_IVAR_$_TZImagePickerController._isSelectOriginalPhoto
+_OBJC_IVAR_$_TZImagePickerController._needShowStatusBar
+_OBJC_IVAR_$_TZImagePickerController._oKButtonTitleColorNormal
+_OBJC_IVAR_$_TZImagePickerController._oKButtonTitleColorDisabled
+_OBJC_IVAR_$_TZImagePickerController._doneBtnTitleStr
+_OBJC_IVAR_$_TZImagePickerController._cancelBtnTitleStr
+_OBJC_IVAR_$_TZImagePickerController._previewBtnTitleStr
+_OBJC_IVAR_$_TZImagePickerController._fullImageBtnTitleStr
+_OBJC_IVAR_$_TZImagePickerController._settingBtnTitleStr
+_OBJC_IVAR_$_TZImagePickerController._processHintStr
+_OBJC_IVAR_$_TZImagePickerController._editBtnTitleStr
+_OBJC_IVAR_$_TZImagePickerController._editViewCancelBtnTitleStr
+_OBJC_IVAR_$_TZImagePickerController._didFinishPickingPhotosHandle
+_OBJC_IVAR_$_TZImagePickerController._didFinishPickingPhotosWithInfosHandle
+_OBJC_IVAR_$_TZImagePickerController._imagePickerControllerDidCancelHandle
+_OBJC_IVAR_$_TZImagePickerController._didFinishPickingVideoHandle
+_OBJC_IVAR_$_TZImagePickerController._didFinishPickingAndEditingVideoHandle
+_OBJC_IVAR_$_TZImagePickerController._didFinishPickingGifImageHandle
+_OBJC_IVAR_$_TZImagePickerController._HUDTimeoutCount
+__OBJC_METACLASS_RO_$_TZImagePickerController
+__OBJC_$_INSTANCE_METHODS_TZImagePickerController
+__OBJC_$_INSTANCE_VARIABLES_TZImagePickerController
+__OBJC_$_PROP_LIST_TZImagePickerController
+__OBJC_CLASS_RO_$_TZImagePickerController
+_OBJC_CLASSLIST_REFERENCES_$_.1016
+_OBJC_SELECTOR_REFERENCES_.1018
+_OBJC_SELECTOR_REFERENCES_.1020
+_OBJC_SELECTOR_REFERENCES_.1022
+_OBJC_SELECTOR_REFERENCES_.1024
+_OBJC_SELECTOR_REFERENCES_.1026
+_OBJC_SELECTOR_REFERENCES_.1028
+_OBJC_SELECTOR_REFERENCES_.1029
+_OBJC_SELECTOR_REFERENCES_.1030
+_OBJC_SELECTOR_REFERENCES_.1032
+_OBJC_SELECTOR_REFERENCES_.1034
+_OBJC_SELECTOR_REFERENCES_.1036
+_OBJC_SELECTOR_REFERENCES_.1038
+_OBJC_SELECTOR_REFERENCES_.1039
+_OBJC_SELECTOR_REFERENCES_.1043
+_OBJC_SELECTOR_REFERENCES_.1044
+_OBJC_SELECTOR_REFERENCES_.1048
+_OBJC_SELECTOR_REFERENCES_.1049
+_OBJC_SELECTOR_REFERENCES_.1053
+_OBJC_SELECTOR_REFERENCES_.1054
+_OBJC_IVAR_$_TZAlbumPickerController._albumArr
+_OBJC_SELECTOR_REFERENCES_.1055
+_OBJC_SELECTOR_REFERENCES_.1056
+_OBJC_IVAR_$_TZAlbumPickerController._tableView
+_OBJC_CLASSLIST_REFERENCES_$_.1057
+_OBJC_SELECTOR_REFERENCES_.1059
+_OBJC_SELECTOR_REFERENCES_.1061
+_OBJC_SELECTOR_REFERENCES_.1063
+_OBJC_SELECTOR_REFERENCES_.1065
+_OBJC_SELECTOR_REFERENCES_.1067
+_OBJC_CLASSLIST_REFERENCES_$_.1068
+_OBJC_SELECTOR_REFERENCES_.1072
+_OBJC_SELECTOR_REFERENCES_.1073
+_OBJC_SELECTOR_REFERENCES_.1075
+___block_descriptor_32_e4_20s24s28s_e5_v4?0l
+___block_descriptor_28_e4_20s24s_e16_v8?0"NSArray"4l
+_OBJC_SELECTOR_REFERENCES_.1078
+_OBJC_SELECTOR_REFERENCES_.1080
+_OBJC_SELECTOR_REFERENCES_.1081
+_OBJC_SELECTOR_REFERENCES_.1083
+_OBJC_SELECTOR_REFERENCES_.1084
+_OBJC_SELECTOR_REFERENCES_.1086
+_OBJC_SELECTOR_REFERENCES_.1088
+_OBJC_SELECTOR_REFERENCES_.1089
+_OBJC_SELECTOR_REFERENCES_.1090
+_OBJC_SELECTOR_REFERENCES_.1091
+_OBJC_SELECTOR_REFERENCES_.1092
+_OBJC_SELECTOR_REFERENCES_.1094
+_OBJC_SELECTOR_REFERENCES_.1096
+_OBJC_SELECTOR_REFERENCES_.1098
+_OBJC_SELECTOR_REFERENCES_.1100
+_OBJC_SELECTOR_REFERENCES_.1102
+_OBJC_IVAR_$_TZAlbumPickerController._columnNumber
+_OBJC_IVAR_$_TZAlbumPickerController._isFirstAppear
+__OBJC_$_PROTOCOL_REFS_UITableViewDataSource
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_UITableViewDataSource
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UITableViewDataSource
+__OBJC_$_PROTOCOL_METHOD_TYPES_UITableViewDataSource
+__OBJC_PROTOCOL_$_UITableViewDataSource
+__OBJC_LABEL_PROTOCOL_$_UITableViewDataSource
+__OBJC_$_PROTOCOL_REFS_UITableViewDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UITableViewDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_UITableViewDelegate
+__OBJC_PROTOCOL_$_UITableViewDelegate
+__OBJC_LABEL_PROTOCOL_$_UITableViewDelegate
+__OBJC_$_PROTOCOL_REFS_PHPhotoLibraryChangeObserver
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_PHPhotoLibraryChangeObserver
+__OBJC_$_PROTOCOL_METHOD_TYPES_PHPhotoLibraryChangeObserver
+__OBJC_PROTOCOL_$_PHPhotoLibraryChangeObserver
+__OBJC_LABEL_PROTOCOL_$_PHPhotoLibraryChangeObserver
+__OBJC_CLASS_PROTOCOLS_$_TZAlbumPickerController
+__OBJC_METACLASS_RO_$_TZAlbumPickerController
+__OBJC_$_INSTANCE_METHODS_TZAlbumPickerController
+__OBJC_$_INSTANCE_VARIABLES_TZAlbumPickerController
+__OBJC_$_PROP_LIST_TZAlbumPickerController
+__OBJC_CLASS_RO_$_TZAlbumPickerController
+_OBJC_SELECTOR_REFERENCES_.1293
+_OBJC_SELECTOR_REFERENCES_.1297
+_OBJC_SELECTOR_REFERENCES_.1301
+_OBJC_SELECTOR_REFERENCES_.1303
+_OBJC_SELECTOR_REFERENCES_.1305
+_OBJC_SELECTOR_REFERENCES_.1307
+__OBJC_$_CATEGORY_CLASS_METHODS_UIImage_$_MyBundle
+__OBJC_$_CATEGORY_UIImage_$_MyBundle
+_OBJC_SELECTOR_REFERENCES_.1310
+_OBJC_SELECTOR_REFERENCES_.1312
+_OBJC_SELECTOR_REFERENCES_.1314
+_OBJC_CLASSLIST_REFERENCES_$_.1315
+_OBJC_SELECTOR_REFERENCES_.1317
+_OBJC_SELECTOR_REFERENCES_.1319
+_OBJC_SELECTOR_REFERENCES_.1321
+_OBJC_SELECTOR_REFERENCES_.1323
+_OBJC_SELECTOR_REFERENCES_.1325
+_OBJC_SELECTOR_REFERENCES_.1327
+_OBJC_CLASSLIST_REFERENCES_$_.1332
+_OBJC_SELECTOR_REFERENCES_.1334
+_OBJC_SELECTOR_REFERENCES_.1336
+_OBJC_SELECTOR_REFERENCES_.1338
+_OBJC_SELECTOR_REFERENCES_.1342
+_OBJC_SELECTOR_REFERENCES_.1348
+_OBJC_CLASSLIST_REFERENCES_$_.1349
+_OBJC_SELECTOR_REFERENCES_.1351
+_OBJC_SELECTOR_REFERENCES_.1355
+_OBJC_SELECTOR_REFERENCES_.1357
+_OBJC_SELECTOR_REFERENCES_.1361
+_OBJC_SELECTOR_REFERENCES_.1364
+_OBJC_SELECTOR_REFERENCES_.1365
+_OBJC_SELECTOR_REFERENCES_.1367
+__OBJC_$_CLASS_METHODS_TZCommonTools
+__OBJC_METACLASS_RO_$_TZCommonTools
+__OBJC_CLASS_RO_$_TZCommonTools
+_sharedInstance.onceToken
+_sharedInstance.config
+___block_descriptor_20_e5_v4?0l
+___block_literal_global
+_OBJC_CLASSLIST_REFERENCES_$_.1374
+_OBJC_SELECTOR_REFERENCES_.1428
+_OBJC_SELECTOR_REFERENCES_.1430
+_OBJC_SELECTOR_REFERENCES_.1432
+_OBJC_SELECTOR_REFERENCES_.1434
+_OBJC_SELECTOR_REFERENCES_.1436
+_OBJC_SELECTOR_REFERENCES_.1440
+__OBJC_$_CLASS_METHODS_TZImagePickerConfig
+__OBJC_METACLASS_RO_$_TZImagePickerConfig
+__OBJC_$_INSTANCE_METHODS_TZImagePickerConfig
+_OBJC_IVAR_$_TZImagePickerConfig._allowPickingImage
+_OBJC_IVAR_$_TZImagePickerConfig._allowPickingVideo
+_OBJC_IVAR_$_TZImagePickerConfig._showSelectedIndex
+_OBJC_IVAR_$_TZImagePickerConfig._showPhotoCannotSelectLayer
+_OBJC_IVAR_$_TZImagePickerConfig._notScaleImage
+_OBJC_IVAR_$_TZImagePickerConfig._needFixComposition
+_OBJC_IVAR_$_TZImagePickerConfig._preferredLanguage
+_OBJC_IVAR_$_TZImagePickerConfig._languageBundle
+_OBJC_IVAR_$_TZImagePickerConfig._gifPreviewMaxImagesCount
+_OBJC_IVAR_$_TZImagePickerConfig._gifImagePlayBlock
+_OBJC_IVAR_$_TZImagePickerConfig._supportedLanguages
+__OBJC_$_INSTANCE_VARIABLES_TZImagePickerConfig
+__OBJC_$_PROP_LIST_TZImagePickerConfig
+__OBJC_CLASS_RO_$_TZImagePickerConfig
+/Users/yangjunyi/Downloads/TZImagePickerController/Carthage/Checkouts/TZImagePickerController/TZImagePickerController/TZImagePickerController/TZImagePickerController.m
+TZImagePickerController/TZImagePickerController/TZImagePickerController.m
+TZImagePickerController/TZImagePickerController/TZImagePickerController.h
+__37+[TZImagePickerConfig sharedInstance]_block_invoke
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.sdk/usr/include/dispatch/once.h
+__CGSizeEqualToSize
+__49-[TZAlbumPickerController photoLibraryDidChange:]_block_invoke
+__42-[TZAlbumPickerController configTableView]_block_invoke_3
+__42-[TZAlbumPickerController configTableView]_block_invoke_2
+__42-[TZAlbumPickerController configTableView]_block_invoke
+__44-[TZImagePickerController cancelButtonClick]_block_invoke
+__78-[TZImagePickerController viewWillTransitionToSize:withTransitionCoordinator:]_block_invoke
+__42-[TZImagePickerController showProgressHUD]_block_invoke
+__44-[TZImagePickerController pushPhotoPickerVc]_block_invoke
+__destroy_helper_block_e4_20s24w
+__copy_helper_block_e4_20b24w
+__copy_helper_block_e4_20b24s28s
+__66-[TZImagePickerController initCropTypeWithAsset:photo:completion:]_block_invoke_2
+__66-[TZImagePickerController initCropTypeWithAsset:photo:completion:]_block_invoke
+__destroy_helper_block_e4_20w
+__copy_helper_block_e4_20w
+__71-[TZImagePickerController initWithSelectedAssets:selectedPhotos:index:]_block_invoke_2
+__71-[TZImagePickerController initWithSelectedAssets:selectedPhotos:index:]_block_invoke
+-[TZPhotoPickerController imagePickerVc]
+-[TZPhotoPickerController viewDidLoad]
+-[TZPhotoPickerController fetchAssetModels]
+___43-[TZPhotoPickerController fetchAssetModels]_block_invoke
+___43-[TZPhotoPickerController fetchAssetModels]_block_invoke_2
+___43-[TZPhotoPickerController fetchAssetModels]_block_invoke.147
+-[TZPhotoPickerController initSubviews]
+___39-[TZPhotoPickerController initSubviews]_block_invoke
+-[TZPhotoPickerController viewWillDisappear:]
+-[TZPhotoPickerController prefersStatusBarHidden]
+-[TZPhotoPickerController preferredStatusBarStyle]
+-[TZPhotoPickerController configCollectionView]
+-[TZPhotoPickerController viewWillAppear:]
+-[TZPhotoPickerController viewDidAppear:]
+-[TZPhotoPickerController configBottomToolBar]
+___46-[TZPhotoPickerController configBottomToolBar]_block_invoke
+-[TZPhotoPickerController viewDidLayoutSubviews]
+-[TZPhotoPickerController didChangeStatusBarOrientationNotification:]
+-[TZPhotoPickerController navLeftBarButtonClick]
+-[TZPhotoPickerController previewButtonClick]
+-[TZPhotoPickerController originalPhotoButtonClick]
+-[TZPhotoPickerController doneButtonClick]
+___Block_byref_object_copy_
+___Block_byref_object_dispose_
+___42-[TZPhotoPickerController doneButtonClick]_block_invoke
+___42-[TZPhotoPickerController doneButtonClick]_block_invoke_2
+___copy_helper_block_e4_20s24s28s32s36r
+___destroy_helper_block_e4_20s24s28s32s36r
+___copy_helper_block_e4_20s24s28s32s36s40s44r48r
+___destroy_helper_block_e4_20s24s28s32s36s40s44r48r
+___42-[TZPhotoPickerController doneButtonClick]_block_invoke.433
+___copy_helper_block_e4_20s24r28r
+___destroy_helper_block_e4_20s24r28r
+-[TZPhotoPickerController didGetAllPhotos:assets:infoArr:]
+___58-[TZPhotoPickerController didGetAllPhotos:assets:infoArr:]_block_invoke
+___copy_helper_block_e4_20s24s28s32s
+___destroy_helper_block_e4_20s24s28s32s
+-[TZPhotoPickerController callDelegateMethodWithPhotos:assets:infoArr:]
+-[TZPhotoPickerController collectionView:numberOfItemsInSection:]
+-[TZPhotoPickerController collectionView:cellForItemAtIndexPath:]
+___65-[TZPhotoPickerController collectionView:cellForItemAtIndexPath:]_block_invoke
+___copy_helper_block_e4_20s24w28w32w
+___destroy_helper_block_e4_20s24w28w32w
+-[TZPhotoPickerController collectionView:didSelectItemAtIndexPath:]
+-[TZPhotoPickerController scrollViewDidScroll:]
+-[TZPhotoPickerController takePhoto]
+___36-[TZPhotoPickerController takePhoto]_block_invoke
+___36-[TZPhotoPickerController takePhoto]_block_invoke_2
+___36-[TZPhotoPickerController takePhoto]_block_invoke_3
+-[TZPhotoPickerController pushImagePickerController]
+___52-[TZPhotoPickerController pushImagePickerController]_block_invoke
+___52-[TZPhotoPickerController pushImagePickerController]_block_invoke.616
+-[TZPhotoPickerController refreshBottomToolBarStatus]
+-[TZPhotoPickerController pushPhotoPrevireViewController:]
+-[TZPhotoPickerController pushPhotoPrevireViewController:needCheckSelectedModels:]
+___82-[TZPhotoPickerController pushPhotoPrevireViewController:needCheckSelectedModels:]_block_invoke
+___82-[TZPhotoPickerController pushPhotoPrevireViewController:needCheckSelectedModels:]_block_invoke.642
+___82-[TZPhotoPickerController pushPhotoPrevireViewController:needCheckSelectedModels:]_block_invoke.645
+-[TZPhotoPickerController getSelectedPhotoBytes]
+___48-[TZPhotoPickerController getSelectedPhotoBytes]_block_invoke
+-[TZPhotoPickerController prepareScrollCollectionViewToBottom]
+___62-[TZPhotoPickerController prepareScrollCollectionViewToBottom]_block_invoke
+___62-[TZPhotoPickerController prepareScrollCollectionViewToBottom]_block_invoke_2
+-[TZPhotoPickerController scrollCollectionViewToBottom]
+-[TZPhotoPickerController checkSelectedModels]
+-[TZPhotoPickerController setAsset:isSelect:]
+-[TZPhotoPickerController callDelegate:isSelect:]
+___49-[TZPhotoPickerController callDelegate:isSelect:]_block_invoke
+___copy_helper_block_e4_20s24w28w
+___destroy_helper_block_e4_20s24w28w
+-[TZPhotoPickerController imagePickerController:didFinishPickingMediaWithInfo:]
+___79-[TZPhotoPickerController imagePickerController:didFinishPickingMediaWithInfo:]_block_invoke
+___79-[TZPhotoPickerController imagePickerController:didFinishPickingMediaWithInfo:]_block_invoke.693
+-[TZPhotoPickerController addPHAsset:]
+-[TZPhotoPickerController imagePickerControllerDidCancel:]
+-[TZPhotoPickerController dealloc]
+-[TZPhotoPickerController photoLibraryDidChange:]
+___49-[TZPhotoPickerController photoLibraryDidChange:]_block_invoke
+-[TZPhotoPickerController resetCachedAssets]
+-[TZPhotoPickerController updateCachedAssets]
+___45-[TZPhotoPickerController updateCachedAssets]_block_invoke
+___45-[TZPhotoPickerController updateCachedAssets]_block_invoke.733
+-[TZPhotoPickerController computeDifferenceBetweenRect:andRect:removedHandler:addedHandler:]
+-[TZPhotoPickerController assetsAtIndexPaths:]
+-[TZPhotoPickerController aapl_indexPathsForElementsInRect:]
+-[TZPhotoPickerController isFirstAppear]
+-[TZPhotoPickerController setIsFirstAppear:]
+-[TZPhotoPickerController columnNumber]
+-[TZPhotoPickerController setColumnNumber:]
+-[TZPhotoPickerController model]
+-[TZPhotoPickerController setModel:]
+-[TZPhotoPickerController previousPreheatRect]
+-[TZPhotoPickerController setPreviousPreheatRect:]
+-[TZPhotoPickerController isSelectOriginalPhoto]
+-[TZPhotoPickerController setIsSelectOriginalPhoto:]
+-[TZPhotoPickerController collectionView]
+-[TZPhotoPickerController setCollectionView:]
+-[TZPhotoPickerController noDataLabel]
+-[TZPhotoPickerController setNoDataLabel:]
+-[TZPhotoPickerController layout]
+-[TZPhotoPickerController setLayout:]
+-[TZPhotoPickerController setImagePickerVc:]
+-[TZPhotoPickerController location]
+-[TZPhotoPickerController setLocation:]
+-[TZPhotoPickerController operationQueue]
+-[TZPhotoPickerController setOperationQueue:]
+-[TZPhotoPickerController isSavingMedia]
+-[TZPhotoPickerController setIsSavingMedia:]
+-[TZPhotoPickerController isFetchingMedia]
+-[TZPhotoPickerController setIsFetchingMedia:]
+-[TZPhotoPickerController .cxx_destruct]
+-[TZCollectionView touchesShouldCancelInContentView:]
+_OBJC_IVAR_$_TZPhotoPickerController._imagePickerVc
+_OBJC_CLASSLIST_REFERENCES_$_.15
+_OBJC_CLASSLIST_REFERENCES_$_.19
+_OBJC_SELECTOR_REFERENCES_.43
+_OBJC_CLASSLIST_REFERENCES_$_.44
+_OBJC_IVAR_$_TZPhotoPickerController._isSelectOriginalPhoto
+_OBJC_IVAR_$_TZPhotoPickerController._shouldScrollToBottom
+_OBJC_CLASSLIST_REFERENCES_$_.53
+_OBJC_IVAR_$_TZPhotoPickerController._model
+_OBJC_CLASSLIST_REFERENCES_$_.81
+_OBJC_SELECTOR_REFERENCES_.83
+_OBJC_CLASSLIST_REFERENCES_$_.98
+_OBJC_IVAR_$_TZPhotoPickerController._showTakePhotoBtn
+_OBJC_CLASSLIST_REFERENCES_$_.115
+_OBJC_CLASSLIST_REFERENCES_$_.122
+_OBJC_SELECTOR_REFERENCES_.124
+_OBJC_SELECTOR_REFERENCES_.126
+_OBJC_SELECTOR_REFERENCES_.128
+_OBJC_IVAR_$_TZPhotoPickerController._isFirstAppear
+_OBJC_SELECTOR_REFERENCES_.130
+_OBJC_SELECTOR_REFERENCES_.132
+_OBJC_SELECTOR_REFERENCES_.134
+_OBJC_CLASSLIST_REFERENCES_$_.135
+_OBJC_IVAR_$_TZPhotoPickerController._models
+___block_descriptor_24_e4_20s_e21_v8?0"TZAlbumModel"4l
+___block_descriptor_24_e4_20s_e16_v8?0"NSArray"4l
+_OBJC_IVAR_$_TZPhotoPickerController._collectionView
+_OBJC_SELECTOR_REFERENCES_.163
+_OBJC_SELECTOR_REFERENCES_.165
+_OBJC_SELECTOR_REFERENCES_.173
+_OBJC_CLASSLIST_REFERENCES_$_.174
+_OBJC_IVAR_$_TZPhotoPickerController._layout
+_OBJC_CLASSLIST_REFERENCES_$_.186
+_OBJC_SELECTOR_REFERENCES_.199
+_OBJC_SELECTOR_REFERENCES_.201
+_OBJC_CLASSLIST_REFERENCES_$_.202
+_OBJC_IVAR_$_TZPhotoPickerController._noDataLabel
+_OBJC_SELECTOR_REFERENCES_.212
+_OBJC_SELECTOR_REFERENCES_.214
+_OBJC_CLASSLIST_REFERENCES_$_.215
+_OBJC_CLASSLIST_REFERENCES_$_.224
+_OBJC_SELECTOR_REFERENCES_.226
+_OBJC_SELECTOR_REFERENCES_.228
+_OBJC_SELECTOR_REFERENCES_.230
+_OBJC_SELECTOR_REFERENCES_.232
+_OBJC_SELECTOR_REFERENCES_.234
+_OBJC_IVAR_$_TZPhotoPickerController._bottomToolBar
+_OBJC_CLASSLIST_REFERENCES_$_.239
+_OBJC_IVAR_$_TZPhotoPickerController._previewButton
+_OBJC_SELECTOR_REFERENCES_.263
+_OBJC_IVAR_$_TZPhotoPickerController._originalPhotoButton
+_OBJC_SELECTOR_REFERENCES_.267
+_OBJC_IVAR_$_TZPhotoPickerController._originalPhotoLabel
+_OBJC_IVAR_$_TZPhotoPickerController._doneButton
+_OBJC_CLASSLIST_REFERENCES_$_.300
+_OBJC_SELECTOR_REFERENCES_.302
+_OBJC_IVAR_$_TZPhotoPickerController._numberImageView
+_OBJC_SELECTOR_REFERENCES_.306
+_OBJC_IVAR_$_TZPhotoPickerController._numberLabel
+_OBJC_CLASSLIST_REFERENCES_$_.309
+_OBJC_CLASSLIST_REFERENCES_$_.316
+_OBJC_SELECTOR_REFERENCES_.318
+_OBJC_IVAR_$_TZPhotoPickerController._divideLine
+_OBJC_SELECTOR_REFERENCES_.322
+___block_descriptor_24_e35_"UIColor"8?0"UITraitCollection"4l
+_OBJC_SELECTOR_REFERENCES_.325
+_OBJC_SELECTOR_REFERENCES_.327
+_OBJC_CLASSLIST_REFERENCES_$_.332
+_OBJC_SELECTOR_REFERENCES_.334
+_OBJC_SELECTOR_REFERENCES_.336
+_OBJC_SELECTOR_REFERENCES_.338
+_OBJC_IVAR_$_TZPhotoPickerController._offsetItemCount
+_OBJC_SELECTOR_REFERENCES_.354
+_OBJC_SELECTOR_REFERENCES_.375
+_OBJC_SELECTOR_REFERENCES_.377
+_OBJC_CLASSLIST_REFERENCES_$_.386
+_OBJC_SELECTOR_REFERENCES_.388
+_OBJC_SELECTOR_REFERENCES_.390
+_OBJC_SELECTOR_REFERENCES_.392
+_OBJC_SELECTOR_REFERENCES_.396
+_OBJC_SELECTOR_REFERENCES_.398
+_OBJC_SELECTOR_REFERENCES_.400
+_OBJC_SELECTOR_REFERENCES_.402
+_OBJC_SELECTOR_REFERENCES_.404
+_OBJC_SELECTOR_REFERENCES_.406
+_OBJC_SELECTOR_REFERENCES_.408
+_OBJC_CLASSLIST_REFERENCES_$_.409
+_OBJC_SELECTOR_REFERENCES_.411
+_OBJC_SELECTOR_REFERENCES_.413
+_OBJC_CLASSLIST_REFERENCES_$_.414
+_OBJC_CLASSLIST_REFERENCES_$_.415
+_OBJC_SELECTOR_REFERENCES_.417
+_OBJC_SELECTOR_REFERENCES_.419
+_OBJC_SELECTOR_REFERENCES_.421
+_OBJC_SELECTOR_REFERENCES_.423
+_OBJC_SELECTOR_REFERENCES_.425
+___block_descriptor_40_e4_20s24s28s32s36r_e5_v4?0l
+___block_descriptor_56_e4_20s24s28s32s36s40s44r48r_e36_v16?0"UIImage"4"NSDictionary"8c12l
+___block_descriptor_32_e4_20s24r28r_e41_v24?0d4"NSError"12^c16"NSDictionary"20l
+_OBJC_SELECTOR_REFERENCES_.438
+___block_descriptor_36_e4_20s24s28s32s_e5_v4?0l
+_OBJC_SELECTOR_REFERENCES_.460
+_OBJC_SELECTOR_REFERENCES_.462
+_OBJC_SELECTOR_REFERENCES_.464
+_OBJC_SELECTOR_REFERENCES_.466
+_OBJC_SELECTOR_REFERENCES_.468
+_OBJC_SELECTOR_REFERENCES_.470
+_OBJC_SELECTOR_REFERENCES_.472
+_OBJC_SELECTOR_REFERENCES_.474
+_OBJC_SELECTOR_REFERENCES_.478
+_OBJC_SELECTOR_REFERENCES_.482
+_OBJC_SELECTOR_REFERENCES_.484
+_OBJC_SELECTOR_REFERENCES_.486
+_OBJC_SELECTOR_REFERENCES_.488
+_OBJC_SELECTOR_REFERENCES_.490
+_OBJC_SELECTOR_REFERENCES_.492
+_OBJC_SELECTOR_REFERENCES_.494
+_OBJC_SELECTOR_REFERENCES_.496
+_OBJC_SELECTOR_REFERENCES_.498
+_OBJC_SELECTOR_REFERENCES_.500
+_OBJC_SELECTOR_REFERENCES_.502
+_OBJC_SELECTOR_REFERENCES_.504
+_OBJC_SELECTOR_REFERENCES_.506
+_OBJC_SELECTOR_REFERENCES_.508
+_OBJC_SELECTOR_REFERENCES_.510
+_OBJC_SELECTOR_REFERENCES_.512
+_OBJC_SELECTOR_REFERENCES_.514
+_OBJC_SELECTOR_REFERENCES_.516
+_OBJC_SELECTOR_REFERENCES_.518
+_OBJC_SELECTOR_REFERENCES_.520
+_OBJC_SELECTOR_REFERENCES_.522
+_OBJC_SELECTOR_REFERENCES_.524
+_OBJC_SELECTOR_REFERENCES_.526
+_OBJC_SELECTOR_REFERENCES_.528
+_OBJC_SELECTOR_REFERENCES_.530
+_OBJC_SELECTOR_REFERENCES_.532
+_OBJC_SELECTOR_REFERENCES_.534
+_OBJC_SELECTOR_REFERENCES_.536
+_OBJC_SELECTOR_REFERENCES_.538
+_OBJC_SELECTOR_REFERENCES_.540
+_OBJC_SELECTOR_REFERENCES_.544
+_OBJC_SELECTOR_REFERENCES_.546
+_OBJC_SELECTOR_REFERENCES_.548
+_OBJC_SELECTOR_REFERENCES_.552
+_OBJC_SELECTOR_REFERENCES_.554
+_OBJC_SELECTOR_REFERENCES_.556
+___block_descriptor_36_e4_20s24w28w32w_e7_v8?0c4l
+_OBJC_SELECTOR_REFERENCES_.561
+_OBJC_SELECTOR_REFERENCES_.563
+_OBJC_CLASSLIST_REFERENCES_$_.566
+_OBJC_SELECTOR_REFERENCES_.568
+_OBJC_CLASSLIST_REFERENCES_$_.571
+_OBJC_SELECTOR_REFERENCES_.573
+_OBJC_SELECTOR_REFERENCES_.575
+_OBJC_SELECTOR_REFERENCES_.577
+_OBJC_CLASSLIST_REFERENCES_$_.578
+_OBJC_SELECTOR_REFERENCES_.580
+_OBJC_SELECTOR_REFERENCES_.582
+_OBJC_CLASSLIST_REFERENCES_$_.587
+_OBJC_SELECTOR_REFERENCES_.589
+_OBJC_CLASSLIST_REFERENCES_$_.590
+_OBJC_SELECTOR_REFERENCES_.594
+_OBJC_SELECTOR_REFERENCES_.596
+___block_descriptor_20_e22_v8?0"UIAlertAction"4l
+_OBJC_CLASSLIST_REFERENCES_$_.600
+_OBJC_SELECTOR_REFERENCES_.602
+_OBJC_SELECTOR_REFERENCES_.604
+_OBJC_SELECTOR_REFERENCES_.606
+_OBJC_SELECTOR_REFERENCES_.608
+___block_descriptor_24_e4_20s_e7_v8?0c4l
+_OBJC_SELECTOR_REFERENCES_.610
+_OBJC_SELECTOR_REFERENCES_.612
+_OBJC_CLASSLIST_REFERENCES_$_.613
+_OBJC_SELECTOR_REFERENCES_.615
+___block_descriptor_24_e4_20w_e16_v8?0"NSArray"4l
+___block_descriptor_24_e4_20w_e16_v8?0"NSError"4l
+_OBJC_SELECTOR_REFERENCES_.619
+_OBJC_SELECTOR_REFERENCES_.621
+_OBJC_SELECTOR_REFERENCES_.623
+_OBJC_SELECTOR_REFERENCES_.625
+_OBJC_SELECTOR_REFERENCES_.627
+_OBJC_SELECTOR_REFERENCES_.629
+_OBJC_SELECTOR_REFERENCES_.631
+_OBJC_SELECTOR_REFERENCES_.633
+_OBJC_SELECTOR_REFERENCES_.637
+_OBJC_SELECTOR_REFERENCES_.639
+___block_descriptor_25_e4_20w_e7_v8?0c4l
+_OBJC_SELECTOR_REFERENCES_.641
+___block_descriptor_24_e4_20w_e7_v8?0c4l
+_OBJC_SELECTOR_REFERENCES_.644
+___block_descriptor_24_e4_20w_e19_v12?0"UIImage"48l
+_OBJC_SELECTOR_REFERENCES_.648
+_OBJC_SELECTOR_REFERENCES_.650
+___block_descriptor_24_e4_20s_e17_v8?0"NSString"4l
+_OBJC_CLASSLIST_REFERENCES_$_.660
+_OBJC_SELECTOR_REFERENCES_.662
+_OBJC_SELECTOR_REFERENCES_.664
+_OBJC_CLASSLIST_REFERENCES_$_.665
+___block_descriptor_33_e4_20s24w28w_e36_v16?0"UIImage"4"NSDictionary"8c12l
+_OBJC_SELECTOR_REFERENCES_.690
+_OBJC_SELECTOR_REFERENCES_.695
+_OBJC_SELECTOR_REFERENCES_.697
+_OBJC_SELECTOR_REFERENCES_.699
+_OBJC_SELECTOR_REFERENCES_.701
+_OBJC_SELECTOR_REFERENCES_.703
+_OBJC_SELECTOR_REFERENCES_.705
+_OBJC_SELECTOR_REFERENCES_.707
+_OBJC_SELECTOR_REFERENCES_.709
+_OBJC_SELECTOR_REFERENCES_.711
+_OBJC_SELECTOR_REFERENCES_.713
+_OBJC_SELECTOR_REFERENCES_.715
+_OBJC_SELECTOR_REFERENCES_.717
+_OBJC_SELECTOR_REFERENCES_.719
+_OBJC_SELECTOR_REFERENCES_.721
+_OBJC_SELECTOR_REFERENCES_.723
+_OBJC_SELECTOR_REFERENCES_.725
+_OBJC_SELECTOR_REFERENCES_.727
+_OBJC_SELECTOR_REFERENCES_.729
+_OBJC_SELECTOR_REFERENCES_.731
+___block_descriptor_28_e4_20s24s_e39_v20?0{CGRect={CGPoint=ff}{CGSize=ff}}4l
+_OBJC_SELECTOR_REFERENCES_.735
+_OBJC_SELECTOR_REFERENCES_.737
+_OBJC_SELECTOR_REFERENCES_.739
+_OBJC_SELECTOR_REFERENCES_.745
+_OBJC_SELECTOR_REFERENCES_.747
+_OBJC_IVAR_$_TZPhotoPickerController._columnNumber
+_OBJC_IVAR_$_TZPhotoPickerController._previousPreheatRect
+_OBJC_IVAR_$_TZPhotoPickerController._location
+_OBJC_IVAR_$_TZPhotoPickerController._operationQueue
+_OBJC_IVAR_$_TZPhotoPickerController._isSavingMedia
+_OBJC_IVAR_$_TZPhotoPickerController._isFetchingMedia
+__OBJC_$_PROTOCOL_REFS_UIImagePickerControllerDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UIImagePickerControllerDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_UIImagePickerControllerDelegate
+__OBJC_PROTOCOL_$_UIImagePickerControllerDelegate
+__OBJC_LABEL_PROTOCOL_$_UIImagePickerControllerDelegate
+__OBJC_$_PROTOCOL_REFS_UINavigationControllerDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UINavigationControllerDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_UINavigationControllerDelegate
+__OBJC_PROTOCOL_$_UINavigationControllerDelegate
+__OBJC_LABEL_PROTOCOL_$_UINavigationControllerDelegate
+__OBJC_CLASS_PROTOCOLS_$_TZPhotoPickerController
+__OBJC_METACLASS_RO_$_TZPhotoPickerController
+__OBJC_$_INSTANCE_METHODS_TZPhotoPickerController
+__OBJC_$_INSTANCE_VARIABLES_TZPhotoPickerController
+__OBJC_$_PROP_LIST_TZPhotoPickerController
+__OBJC_CLASS_RO_$_TZPhotoPickerController
+_OBJC_CLASSLIST_REFERENCES_$_.1011
+_OBJC_SELECTOR_REFERENCES_.1014
+__OBJC_METACLASS_RO_$_TZCollectionView
+__OBJC_$_INSTANCE_METHODS_TZCollectionView
+__OBJC_CLASS_RO_$_TZCollectionView
+/Users/yangjunyi/Downloads/TZImagePickerController/Carthage/Checkouts/TZImagePickerController/TZImagePickerController/TZImagePickerController/TZPhotoPickerController.m
+TZImagePickerController/TZImagePickerController/TZPhotoPickerController.m
+TZImagePickerController/TZImagePickerController/TZPhotoPickerController.h
+__45-[TZPhotoPickerController updateCachedAssets]_block_invoke.733
+__45-[TZPhotoPickerController updateCachedAssets]_block_invoke
+__49-[TZPhotoPickerController photoLibraryDidChange:]_block_invoke
+__79-[TZPhotoPickerController imagePickerController:didFinishPickingMediaWithInfo:]_block_invoke.693
+__79-[TZPhotoPickerController imagePickerController:didFinishPickingMediaWithInfo:]_block_invoke
+__destroy_helper_block_e4_20s24w28w
+__copy_helper_block_e4_20s24w28w
+__49-[TZPhotoPickerController callDelegate:isSelect:]_block_invoke
+__62-[TZPhotoPickerController prepareScrollCollectionViewToBottom]_block_invoke_2
+__62-[TZPhotoPickerController prepareScrollCollectionViewToBottom]_block_invoke
+__48-[TZPhotoPickerController getSelectedPhotoBytes]_block_invoke
+__82-[TZPhotoPickerController pushPhotoPrevireViewController:needCheckSelectedModels:]_block_invoke.645
+__82-[TZPhotoPickerController pushPhotoPrevireViewController:needCheckSelectedModels:]_block_invoke.642
+__82-[TZPhotoPickerController pushPhotoPrevireViewController:needCheckSelectedModels:]_block_invoke
+__52-[TZPhotoPickerController pushImagePickerController]_block_invoke.616
+__52-[TZPhotoPickerController pushImagePickerController]_block_invoke
+__36-[TZPhotoPickerController takePhoto]_block_invoke_3
+__36-[TZPhotoPickerController takePhoto]_block_invoke_2
+__36-[TZPhotoPickerController takePhoto]_block_invoke
+__destroy_helper_block_e4_20s24w28w32w
+__copy_helper_block_e4_20s24w28w32w
+__65-[TZPhotoPickerController collectionView:cellForItemAtIndexPath:]_block_invoke
+__destroy_helper_block_e4_20s24s28s32s
+__copy_helper_block_e4_20s24s28s32s
+__58-[TZPhotoPickerController didGetAllPhotos:assets:infoArr:]_block_invoke
+__destroy_helper_block_e4_20s24r28r
+__copy_helper_block_e4_20s24r28r
+__42-[TZPhotoPickerController doneButtonClick]_block_invoke.433
+__destroy_helper_block_e4_20s24s28s32s36s40s44r48r
+__copy_helper_block_e4_20s24s28s32s36s40s44r48r
+__destroy_helper_block_e4_20s24s28s32s36r
+__copy_helper_block_e4_20s24s28s32s36r
+__42-[TZPhotoPickerController doneButtonClick]_block_invoke_2
+__42-[TZPhotoPickerController doneButtonClick]_block_invoke
+__Block_byref_object_dispose_
+__Block_byref_object_copy_
+__46-[TZPhotoPickerController configBottomToolBar]_block_invoke
+__39-[TZPhotoPickerController initSubviews]_block_invoke
+__43-[TZPhotoPickerController fetchAssetModels]_block_invoke.147
+__43-[TZPhotoPickerController fetchAssetModels]_block_invoke_2
+__43-[TZPhotoPickerController fetchAssetModels]_block_invoke
+-[TZAssetCell initWithFrame:]
+-[TZAssetCell setModel:]
+___24-[TZAssetCell setModel:]_block_invoke
+-[TZAssetCell setIndex:]
+-[TZAssetCell setShowSelectBtn:]
+-[TZAssetCell setType:]
+-[TZAssetCell setAllowPreview:]
+-[TZAssetCell selectPhotoButtonClick:]
+-[TZAssetCell didTapImageView]
+-[TZAssetCell hideProgressView]
+-[TZAssetCell requestBigImage]
+___30-[TZAssetCell requestBigImage]_block_invoke
+___30-[TZAssetCell requestBigImage]_block_invoke.126
+___30-[TZAssetCell requestBigImage]_block_invoke.137
+___30-[TZAssetCell requestBigImage]_block_invoke_2
+-[TZAssetCell cancelBigImageRequest]
+-[TZAssetCell reload:]
+-[TZAssetCell selectPhotoButton]
+-[TZAssetCell imageView]
+-[TZAssetCell selectImageView]
+-[TZAssetCell bottomView]
+-[TZAssetCell cannotSelectLayerButton]
+-[TZAssetCell videoImgView]
+-[TZAssetCell timeLength]
+-[TZAssetCell indexLabel]
+-[TZAssetCell progressView]
+-[TZAssetCell layoutSubviews]
+-[TZAssetCell dealloc]
+-[TZAssetCell setSelectPhotoButton:]
+-[TZAssetCell setCannotSelectLayerButton:]
+-[TZAssetCell model]
+-[TZAssetCell index]
+-[TZAssetCell didSelectPhotoBlock]
+-[TZAssetCell setDidSelectPhotoBlock:]
+-[TZAssetCell type]
+-[TZAssetCell allowPickingGif]
+-[TZAssetCell setAllowPickingGif:]
+-[TZAssetCell allowPickingMultipleVideo]
+-[TZAssetCell setAllowPickingMultipleVideo:]
+-[TZAssetCell representedAssetIdentifier]
+-[TZAssetCell setRepresentedAssetIdentifier:]
+-[TZAssetCell imageRequestID]
+-[TZAssetCell setImageRequestID:]
+-[TZAssetCell photoSelImage]
+-[TZAssetCell setPhotoSelImage:]
+-[TZAssetCell photoDefImage]
+-[TZAssetCell setPhotoDefImage:]
+-[TZAssetCell showSelectBtn]
+-[TZAssetCell allowPreview]
+-[TZAssetCell assetCellDidSetModelBlock]
+-[TZAssetCell setAssetCellDidSetModelBlock:]
+-[TZAssetCell assetCellDidLayoutSubviewsBlock]
+-[TZAssetCell setAssetCellDidLayoutSubviewsBlock:]
+-[TZAssetCell setImageView:]
+-[TZAssetCell setSelectImageView:]
+-[TZAssetCell setIndexLabel:]
+-[TZAssetCell setBottomView:]
+-[TZAssetCell setTimeLength:]
+-[TZAssetCell tapGesture]
+-[TZAssetCell setTapGesture:]
+-[TZAssetCell setVideoImgView:]
+-[TZAssetCell setProgressView:]
+-[TZAssetCell bigImageRequestID]
+-[TZAssetCell setBigImageRequestID:]
+-[TZAssetCell .cxx_destruct]
+-[TZAlbumCell initWithStyle:reuseIdentifier:]
+-[TZAlbumCell setModel:]
+___24-[TZAlbumCell setModel:]_block_invoke
+-[TZAlbumCell layoutSubviews]
+-[TZAlbumCell layoutSublayersOfLayer:]
+-[TZAlbumCell posterImageView]
+-[TZAlbumCell titleLabel]
+-[TZAlbumCell selectedCountButton]
+-[TZAlbumCell model]
+-[TZAlbumCell setSelectedCountButton:]
+-[TZAlbumCell albumCellDidSetModelBlock]
+-[TZAlbumCell setAlbumCellDidSetModelBlock:]
+-[TZAlbumCell albumCellDidLayoutSubviewsBlock]
+-[TZAlbumCell setAlbumCellDidLayoutSubviewsBlock:]
+-[TZAlbumCell setPosterImageView:]
+-[TZAlbumCell setTitleLabel:]
+-[TZAlbumCell .cxx_destruct]
+-[TZAssetCameraCell initWithFrame:]
+-[TZAssetCameraCell layoutSubviews]
+-[TZAssetCameraCell imageView]
+-[TZAssetCameraCell setImageView:]
+-[TZAssetCameraCell .cxx_destruct]
+_OBJC_IVAR_$_TZAssetCell._model
+_OBJC_CLASSLIST_REFERENCES_$_.13
+_OBJC_CLASSLIST_REFERENCES_$_.28
+___block_descriptor_28_e4_20s24s_e36_v16?0"UIImage"4"NSDictionary"8c12l
+_OBJC_IVAR_$_TZAssetCell._selectImageView
+_OBJC_IVAR_$_TZAssetCell._imageView
+_OBJC_IVAR_$_TZAssetCell._indexLabel
+_OBJC_IVAR_$_TZAssetCell._bottomView
+_OBJC_IVAR_$_TZAssetCell._timeLength
+_OBJC_IVAR_$_TZAssetCell._videoImgView
+_OBJC_IVAR_$_TZAssetCell._index
+_OBJC_CLASSLIST_REFERENCES_$_.72
+_OBJC_IVAR_$_TZAssetCell._showSelectBtn
+_OBJC_IVAR_$_TZAssetCell._type
+_OBJC_IVAR_$_TZAssetCell._selectPhotoButton
+_OBJC_SELECTOR_REFERENCES_.90
+_OBJC_IVAR_$_TZAssetCell._allowPreview
+_OBJC_IVAR_$_TZAssetCell._tapGesture
+_OBJC_CLASSLIST_REFERENCES_$_.109
+_OBJC_SELECTOR_REFERENCES_.111
+_OBJC_SELECTOR_REFERENCES_.113
+_OBJC_IVAR_$_TZAssetCell._progressView
+_OBJC_SELECTOR_REFERENCES_.115
+_OBJC_IVAR_$_TZAssetCell._bigImageRequestID
+_OBJC_CLASSLIST_REFERENCES_$_.118
+___block_descriptor_24_e4_20s_e48_v20?0"NSData"4"NSString"8i12"NSDictionary"16l
+_OBJC_CLASSLIST_REFERENCES_$_.129
+_OBJC_SELECTOR_REFERENCES_.143
+_OBJC_CLASSLIST_REFERENCES_$_.146
+_OBJC_SELECTOR_REFERENCES_.152
+_OBJC_SELECTOR_REFERENCES_.154
+_OBJC_SELECTOR_REFERENCES_.156
+_OBJC_SELECTOR_REFERENCES_.158
+_OBJC_SELECTOR_REFERENCES_.162
+_OBJC_SELECTOR_REFERENCES_.166
+_OBJC_CLASSLIST_REFERENCES_$_.171
+_OBJC_SELECTOR_REFERENCES_.175
+_OBJC_CLASSLIST_REFERENCES_$_.180
+_OBJC_SELECTOR_REFERENCES_.184
+_OBJC_CLASSLIST_REFERENCES_$_.185
+_OBJC_IVAR_$_TZAssetCell._cannotSelectLayerButton
+_OBJC_CLASSLIST_REFERENCES_$_.199
+_OBJC_SELECTOR_REFERENCES_.203
+_OBJC_CLASSLIST_REFERENCES_$_.204
+_OBJC_CLASSLIST_REFERENCES_$_.205
+_OBJC_SELECTOR_REFERENCES_.207
+_OBJC_SELECTOR_REFERENCES_.209
+_OBJC_SELECTOR_REFERENCES_.211
+_OBJC_CLASSLIST_REFERENCES_$_.218
+_OBJC_SELECTOR_REFERENCES_.222
+_OBJC_SELECTOR_REFERENCES_.224
+_OBJC_IVAR_$_TZAssetCell._didSelectPhotoBlock
+_OBJC_IVAR_$_TZAssetCell._allowPickingGif
+_OBJC_IVAR_$_TZAssetCell._allowPickingMultipleVideo
+_OBJC_IVAR_$_TZAssetCell._representedAssetIdentifier
+_OBJC_IVAR_$_TZAssetCell._imageRequestID
+_OBJC_IVAR_$_TZAssetCell._photoSelImage
+_OBJC_IVAR_$_TZAssetCell._photoDefImage
+_OBJC_IVAR_$_TZAssetCell._assetCellDidSetModelBlock
+_OBJC_IVAR_$_TZAssetCell._assetCellDidLayoutSubviewsBlock
+__OBJC_METACLASS_RO_$_TZAssetCell
+__OBJC_$_INSTANCE_METHODS_TZAssetCell
+__OBJC_$_INSTANCE_VARIABLES_TZAssetCell
+__OBJC_$_PROP_LIST_TZAssetCell
+__OBJC_CLASS_RO_$_TZAssetCell
+_OBJC_SELECTOR_REFERENCES_.368
+_OBJC_IVAR_$_TZAlbumCell._model
+_OBJC_CLASSLIST_REFERENCES_$_.375
+_OBJC_CLASSLIST_REFERENCES_$_.378
+_OBJC_SELECTOR_REFERENCES_.380
+_OBJC_SELECTOR_REFERENCES_.382
+_OBJC_CLASSLIST_REFERENCES_$_.383
+___block_descriptor_24_e4_20s_e16_v8?0"UIImage"4l
+_OBJC_IVAR_$_TZAlbumCell._posterImageView
+_OBJC_IVAR_$_TZAlbumCell._titleLabel
+_OBJC_IVAR_$_TZAlbumCell._selectedCountButton
+_OBJC_IVAR_$_TZAlbumCell._albumCellDidSetModelBlock
+_OBJC_IVAR_$_TZAlbumCell._albumCellDidLayoutSubviewsBlock
+__OBJC_METACLASS_RO_$_TZAlbumCell
+__OBJC_$_INSTANCE_METHODS_TZAlbumCell
+__OBJC_$_INSTANCE_VARIABLES_TZAlbumCell
+__OBJC_$_PROP_LIST_TZAlbumCell
+__OBJC_CLASS_RO_$_TZAlbumCell
+_OBJC_IVAR_$_TZAssetCameraCell._imageView
+_OBJC_SELECTOR_REFERENCES_.451
+__OBJC_METACLASS_RO_$_TZAssetCameraCell
+__OBJC_$_INSTANCE_METHODS_TZAssetCameraCell
+__OBJC_$_INSTANCE_VARIABLES_TZAssetCameraCell
+__OBJC_$_PROP_LIST_TZAssetCameraCell
+__OBJC_CLASS_RO_$_TZAssetCameraCell
+/Users/yangjunyi/Downloads/TZImagePickerController/Carthage/Checkouts/TZImagePickerController/TZImagePickerController/TZImagePickerController/TZAssetCell.m
+TZImagePickerController/TZImagePickerController/TZAssetCell.m
+TZImagePickerController/TZImagePickerController/TZAssetCell.h
+__24-[TZAlbumCell setModel:]_block_invoke
+__30-[TZAssetCell requestBigImage]_block_invoke_2
+__30-[TZAssetCell requestBigImage]_block_invoke.137
+__30-[TZAssetCell requestBigImage]_block_invoke.126
+__30-[TZAssetCell requestBigImage]_block_invoke
+__24-[TZAssetCell setModel:]_block_invoke
++[TZAssetModel modelWithAsset:type:]
++[TZAssetModel modelWithAsset:type:timeLength:]
+-[TZAssetModel asset]
+-[TZAssetModel setAsset:]
+-[TZAssetModel isSelected]
+-[TZAssetModel setIsSelected:]
+-[TZAssetModel type]
+-[TZAssetModel setType:]
+-[TZAssetModel timeLength]
+-[TZAssetModel setTimeLength:]
+-[TZAssetModel iCloudFailed]
+-[TZAssetModel setICloudFailed:]
+-[TZAssetModel .cxx_destruct]
+-[TZAlbumModel setResult:needFetchAssets:]
+___42-[TZAlbumModel setResult:needFetchAssets:]_block_invoke
+-[TZAlbumModel refreshFetchResult]
+-[TZAlbumModel setSelectedModels:]
+-[TZAlbumModel checkSelectedModels]
+-[TZAlbumModel name]
+-[TZAlbumModel setName:]
+-[TZAlbumModel count]
+-[TZAlbumModel setCount:]
+-[TZAlbumModel result]
+-[TZAlbumModel setResult:]
+-[TZAlbumModel collection]
+-[TZAlbumModel setCollection:]
+-[TZAlbumModel options]
+-[TZAlbumModel setOptions:]
+-[TZAlbumModel models]
+-[TZAlbumModel setModels:]
+-[TZAlbumModel selectedModels]
+-[TZAlbumModel selectedCount]
+-[TZAlbumModel setSelectedCount:]
+-[TZAlbumModel isCameraRoll]
+-[TZAlbumModel setIsCameraRoll:]
+-[TZAlbumModel .cxx_destruct]
+__OBJC_$_CLASS_METHODS_TZAssetModel
+__OBJC_METACLASS_RO_$_TZAssetModel
+__OBJC_$_INSTANCE_METHODS_TZAssetModel
+_OBJC_IVAR_$_TZAssetModel._isSelected
+_OBJC_IVAR_$_TZAssetModel._iCloudFailed
+_OBJC_IVAR_$_TZAssetModel._asset
+_OBJC_IVAR_$_TZAssetModel._type
+_OBJC_IVAR_$_TZAssetModel._timeLength
+__OBJC_$_INSTANCE_VARIABLES_TZAssetModel
+__OBJC_$_PROP_LIST_TZAssetModel
+__OBJC_CLASS_RO_$_TZAssetModel
+_OBJC_CLASSLIST_REFERENCES_$_.68
+_OBJC_SELECTOR_REFERENCES_.77
+__OBJC_METACLASS_RO_$_TZAlbumModel
+__OBJC_$_INSTANCE_METHODS_TZAlbumModel
+_OBJC_IVAR_$_TZAlbumModel._isCameraRoll
+_OBJC_IVAR_$_TZAlbumModel._name
+_OBJC_IVAR_$_TZAlbumModel._count
+_OBJC_IVAR_$_TZAlbumModel._result
+_OBJC_IVAR_$_TZAlbumModel._collection
+_OBJC_IVAR_$_TZAlbumModel._options
+_OBJC_IVAR_$_TZAlbumModel._models
+_OBJC_IVAR_$_TZAlbumModel._selectedModels
+_OBJC_IVAR_$_TZAlbumModel._selectedCount
+__OBJC_$_INSTANCE_VARIABLES_TZAlbumModel
+__OBJC_$_PROP_LIST_TZAlbumModel
+__OBJC_CLASS_RO_$_TZAlbumModel
+/Users/yangjunyi/Downloads/TZImagePickerController/Carthage/Checkouts/TZImagePickerController/TZImagePickerController/TZImagePickerController/TZAssetModel.m
+TZImagePickerController/TZImagePickerController/TZAssetModel.m
+TZImagePickerController/TZImagePickerController/TZAssetModel.h
+__42-[TZAlbumModel setResult:needFetchAssets:]_block_invoke
+-[TZPhotoPreviewController viewDidLoad]
+-[TZPhotoPreviewController setIsSelectOriginalPhoto:]
+-[TZPhotoPreviewController setPhotos:]
+-[TZPhotoPreviewController viewWillAppear:]
+-[TZPhotoPreviewController viewWillDisappear:]
+-[TZPhotoPreviewController prefersStatusBarHidden]
+-[TZPhotoPreviewController configCustomNaviBar]
+-[TZPhotoPreviewController configBottomToolBar]
+-[TZPhotoPreviewController configCollectionView]
+-[TZPhotoPreviewController configCropView]
+-[TZPhotoPreviewController viewDidLayoutSubviews]
+-[TZPhotoPreviewController didChangeStatusBarOrientationNotification:]
+-[TZPhotoPreviewController select:]
+-[TZPhotoPreviewController select:refreshCount:]
+-[TZPhotoPreviewController backButtonClick]
+-[TZPhotoPreviewController doneButtonClick]
+-[TZPhotoPreviewController originalPhotoButtonClick]
+-[TZPhotoPreviewController didTapPreviewCell]
+-[TZPhotoPreviewController scrollViewDidScroll:]
+-[TZPhotoPreviewController collectionView:numberOfItemsInSection:]
+-[TZPhotoPreviewController collectionView:cellForItemAtIndexPath:]
+___66-[TZPhotoPreviewController collectionView:cellForItemAtIndexPath:]_block_invoke
+___copy_helper_block_e4_20s24w
+___66-[TZPhotoPreviewController collectionView:cellForItemAtIndexPath:]_block_invoke.405
+___66-[TZPhotoPreviewController collectionView:cellForItemAtIndexPath:]_block_invoke_2
+___66-[TZPhotoPreviewController collectionView:cellForItemAtIndexPath:]_block_invoke_3
+___copy_helper_block_e4_20w24w28w
+___destroy_helper_block_e4_20w24w28w
+___66-[TZPhotoPreviewController collectionView:cellForItemAtIndexPath:]_block_invoke.426
+___66-[TZPhotoPreviewController collectionView:cellForItemAtIndexPath:]_block_invoke_2.429
+-[TZPhotoPreviewController collectionView:willDisplayCell:forItemAtIndexPath:]
+-[TZPhotoPreviewController collectionView:didEndDisplayingCell:forItemAtIndexPath:]
+-[TZPhotoPreviewController dealloc]
+-[TZPhotoPreviewController refreshNaviBarAndBottomBarState]
+-[TZPhotoPreviewController refreshSelectButtonImageViewContentMode]
+___67-[TZPhotoPreviewController refreshSelectButtonImageViewContentMode]_block_invoke
+-[TZPhotoPreviewController didICloudSyncStatusChanged:]
+___55-[TZPhotoPreviewController didICloudSyncStatusChanged:]_block_invoke
+-[TZPhotoPreviewController showPhotoBytes]
+___42-[TZPhotoPreviewController showPhotoBytes]_block_invoke
+-[TZPhotoPreviewController currentIndex]
+-[TZPhotoPreviewController setAsset:isSelect:]
+-[TZPhotoPreviewController callDelegate:isSelect:]
+___50-[TZPhotoPreviewController callDelegate:isSelect:]_block_invoke
+-[TZPhotoPreviewController models]
+-[TZPhotoPreviewController setModels:]
+-[TZPhotoPreviewController photos]
+-[TZPhotoPreviewController setCurrentIndex:]
+-[TZPhotoPreviewController isSelectOriginalPhoto]
+-[TZPhotoPreviewController isCropImage]
+-[TZPhotoPreviewController setIsCropImage:]
+-[TZPhotoPreviewController backButtonClickBlock]
+-[TZPhotoPreviewController setBackButtonClickBlock:]
+-[TZPhotoPreviewController doneButtonClickBlock]
+-[TZPhotoPreviewController setDoneButtonClickBlock:]
+-[TZPhotoPreviewController doneButtonClickBlockCropMode]
+-[TZPhotoPreviewController setDoneButtonClickBlockCropMode:]
+-[TZPhotoPreviewController doneButtonClickBlockWithPreviewType]
+-[TZPhotoPreviewController setDoneButtonClickBlockWithPreviewType:]
+-[TZPhotoPreviewController isHideNaviBar]
+-[TZPhotoPreviewController setIsHideNaviBar:]
+-[TZPhotoPreviewController cropBgView]
+-[TZPhotoPreviewController setCropBgView:]
+-[TZPhotoPreviewController cropView]
+-[TZPhotoPreviewController setCropView:]
+-[TZPhotoPreviewController progress]
+-[TZPhotoPreviewController setProgress:]
+-[TZPhotoPreviewController alertView]
+-[TZPhotoPreviewController setAlertView:]
+-[TZPhotoPreviewController iCloudErrorView]
+-[TZPhotoPreviewController setICloudErrorView:]
+-[TZPhotoPreviewController .cxx_destruct]
+_OBJC_IVAR_$_TZPhotoPreviewController._didSetIsSelectOriginalPhoto
+_OBJC_IVAR_$_TZPhotoPreviewController._isSelectOriginalPhoto
+_OBJC_IVAR_$_TZPhotoPreviewController._assetsTemp
+_OBJC_IVAR_$_TZPhotoPreviewController._photos
+_OBJC_CLASSLIST_REFERENCES_$_.39
+_OBJC_IVAR_$_TZPhotoPreviewController._photosTemp
+_OBJC_IVAR_$_TZPhotoPreviewController._currentIndex
+_OBJC_IVAR_$_TZPhotoPreviewController._collectionView
+_OBJC_SELECTOR_REFERENCES_.56
+_OBJC_SELECTOR_REFERENCES_.58
+_OBJC_SELECTOR_REFERENCES_.60
+_OBJC_CLASSLIST_REFERENCES_$_.61
+_OBJC_IVAR_$_TZPhotoPreviewController._naviBar
+_OBJC_CLASSLIST_REFERENCES_$_.64
+_OBJC_CLASSLIST_REFERENCES_$_.69
+_OBJC_IVAR_$_TZPhotoPreviewController._backButton
+_OBJC_CLASSLIST_REFERENCES_$_.70
+_OBJC_IVAR_$_TZPhotoPreviewController._selectButton
+_OBJC_CLASSLIST_REFERENCES_$_.99
+_OBJC_IVAR_$_TZPhotoPreviewController._indexLabel
+_OBJC_CLASSLIST_REFERENCES_$_.104
+_OBJC_IVAR_$_TZPhotoPreviewController._toolBar
+_OBJC_IVAR_$_TZPhotoPreviewController._originalPhotoButton
+_OBJC_CLASSLIST_REFERENCES_$_.119
+_OBJC_IVAR_$_TZPhotoPreviewController._originalPhotoLabel
+_OBJC_IVAR_$_TZPhotoPreviewController._doneButton
+_OBJC_IVAR_$_TZPhotoPreviewController._numberImageView
+_OBJC_IVAR_$_TZPhotoPreviewController._numberLabel
+_OBJC_CLASSLIST_REFERENCES_$_.160
+_OBJC_CLASSLIST_REFERENCES_$_.167
+_OBJC_IVAR_$_TZPhotoPreviewController._layout
+_OBJC_CLASSLIST_REFERENCES_$_.170
+_OBJC_SELECTOR_REFERENCES_.186
+_OBJC_SELECTOR_REFERENCES_.188
+_OBJC_CLASSLIST_REFERENCES_$_.200
+_OBJC_CLASSLIST_REFERENCES_$_.203
+_OBJC_IVAR_$_TZPhotoPreviewController._cropView
+_OBJC_IVAR_$_TZPhotoPreviewController._cropBgView
+_OBJC_SELECTOR_REFERENCES_.248
+_OBJC_CLASSLIST_REFERENCES_$_.249
+_OBJC_IVAR_$_TZPhotoPreviewController._offsetItemCount
+_OBJC_CLASSLIST_REFERENCES_$_.272
+_OBJC_SELECTOR_REFERENCES_.274
+_OBJC_SELECTOR_REFERENCES_.276
+_OBJC_SELECTOR_REFERENCES_.278
+_OBJC_SELECTOR_REFERENCES_.280
+_OBJC_SELECTOR_REFERENCES_.282
+_OBJC_SELECTOR_REFERENCES_.284
+_OBJC_SELECTOR_REFERENCES_.286
+_OBJC_SELECTOR_REFERENCES_.288
+_OBJC_IVAR_$_TZPhotoPreviewController._models
+_OBJC_SELECTOR_REFERENCES_.290
+_OBJC_CLASSLIST_REFERENCES_$_.293
+_OBJC_SELECTOR_REFERENCES_.301
+_OBJC_SELECTOR_REFERENCES_.321
+_OBJC_SELECTOR_REFERENCES_.323
+_OBJC_CLASSLIST_REFERENCES_$_.340
+_OBJC_IVAR_$_TZPhotoPreviewController._progress
+_OBJC_IVAR_$_TZPhotoPreviewController._alertView
+_OBJC_CLASSLIST_REFERENCES_$_.355
+___block_descriptor_28_e4_20s24w_e10_v12?04c8l
+_OBJC_SELECTOR_REFERENCES_.409
+_OBJC_SELECTOR_REFERENCES_.415
+___block_descriptor_32_e4_20w24w28w_e8_v12?0d4l
+_OBJC_SELECTOR_REFERENCES_.428
+_OBJC_SELECTOR_REFERENCES_.439
+_OBJC_SELECTOR_REFERENCES_.441
+_OBJC_SELECTOR_REFERENCES_.443
+_OBJC_SELECTOR_REFERENCES_.445
+_OBJC_SELECTOR_REFERENCES_.447
+_OBJC_SELECTOR_REFERENCES_.449
+_OBJC_SELECTOR_REFERENCES_.453
+_OBJC_SELECTOR_REFERENCES_.455
+_OBJC_IVAR_$_TZPhotoPreviewController._isHideNaviBar
+_OBJC_IVAR_$_TZPhotoPreviewController._isCropImage
+_OBJC_SELECTOR_REFERENCES_.457
+_OBJC_SELECTOR_REFERENCES_.459
+_OBJC_SELECTOR_REFERENCES_.476
+_OBJC_SELECTOR_REFERENCES_.487
+_OBJC_IVAR_$_TZPhotoPreviewController._backButtonClickBlock
+_OBJC_IVAR_$_TZPhotoPreviewController._doneButtonClickBlock
+_OBJC_IVAR_$_TZPhotoPreviewController._doneButtonClickBlockCropMode
+_OBJC_IVAR_$_TZPhotoPreviewController._doneButtonClickBlockWithPreviewType
+_OBJC_IVAR_$_TZPhotoPreviewController._iCloudErrorView
+__OBJC_CLASS_PROTOCOLS_$_TZPhotoPreviewController
+__OBJC_METACLASS_RO_$_TZPhotoPreviewController
+__OBJC_$_INSTANCE_METHODS_TZPhotoPreviewController
+__OBJC_$_INSTANCE_VARIABLES_TZPhotoPreviewController
+__OBJC_$_PROP_LIST_TZPhotoPreviewController
+__OBJC_CLASS_RO_$_TZPhotoPreviewController
+/Users/yangjunyi/Downloads/TZImagePickerController/Carthage/Checkouts/TZImagePickerController/TZImagePickerController/TZImagePickerController/TZPhotoPreviewController.m
+TZImagePickerController/TZImagePickerController/TZPhotoPreviewController.m
+TZImagePickerController/TZImagePickerController/TZPhotoPreviewController.h
+__50-[TZPhotoPreviewController callDelegate:isSelect:]_block_invoke
+__42-[TZPhotoPreviewController showPhotoBytes]_block_invoke
+__55-[TZPhotoPreviewController didICloudSyncStatusChanged:]_block_invoke
+__67-[TZPhotoPreviewController refreshSelectButtonImageViewContentMode]_block_invoke
+__66-[TZPhotoPreviewController collectionView:cellForItemAtIndexPath:]_block_invoke_2.429
+__66-[TZPhotoPreviewController collectionView:cellForItemAtIndexPath:]_block_invoke.426
+__destroy_helper_block_e4_20w24w28w
+__copy_helper_block_e4_20w24w28w
+__66-[TZPhotoPreviewController collectionView:cellForItemAtIndexPath:]_block_invoke_3
+__66-[TZPhotoPreviewController collectionView:cellForItemAtIndexPath:]_block_invoke_2
+__66-[TZPhotoPreviewController collectionView:cellForItemAtIndexPath:]_block_invoke.405
+__copy_helper_block_e4_20s24w
+__66-[TZPhotoPreviewController collectionView:cellForItemAtIndexPath:]_block_invoke
+-[UIView(TZLayout) tz_left]
+-[UIView(TZLayout) setTz_left:]
+-[UIView(TZLayout) tz_top]
+-[UIView(TZLayout) setTz_top:]
+-[UIView(TZLayout) tz_right]
+-[UIView(TZLayout) setTz_right:]
+-[UIView(TZLayout) tz_bottom]
+-[UIView(TZLayout) setTz_bottom:]
+-[UIView(TZLayout) tz_width]
+-[UIView(TZLayout) setTz_width:]
+-[UIView(TZLayout) tz_height]
+-[UIView(TZLayout) setTz_height:]
+-[UIView(TZLayout) tz_centerX]
+-[UIView(TZLayout) setTz_centerX:]
+-[UIView(TZLayout) tz_centerY]
+-[UIView(TZLayout) setTz_centerY:]
+-[UIView(TZLayout) tz_origin]
+-[UIView(TZLayout) setTz_origin:]
+-[UIView(TZLayout) tz_size]
+-[UIView(TZLayout) setTz_size:]
++[UIView(TZLayout) showOscillatoryAnimationWithLayer:type:]
+___59+[UIView(TZLayout) showOscillatoryAnimationWithLayer:type:]_block_invoke
+___59+[UIView(TZLayout) showOscillatoryAnimationWithLayer:type:]_block_invoke.13
+___59+[UIView(TZLayout) showOscillatoryAnimationWithLayer:type:]_block_invoke_2
+___59+[UIView(TZLayout) showOscillatoryAnimationWithLayer:type:]_block_invoke_3
+___59+[UIView(TZLayout) showOscillatoryAnimationWithLayer:type:]_block_invoke_4
+___block_descriptor_28_e4_20s24s_e7_v8?0c4l
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UIView_$_TZLayout
+__OBJC_$_CATEGORY_CLASS_METHODS_UIView_$_TZLayout
+__OBJC_$_PROP_LIST_UIView_$_TZLayout
+__OBJC_$_CATEGORY_UIView_$_TZLayout
+/Users/yangjunyi/Downloads/TZImagePickerController/Carthage/Checkouts/TZImagePickerController/TZImagePickerController/TZImagePickerController/UIView+TZLayout.m
+TZImagePickerController/TZImagePickerController/UIView+TZLayout.m
+__59+[UIView(TZLayout) showOscillatoryAnimationWithLayer:type:]_block_invoke_4
+__59+[UIView(TZLayout) showOscillatoryAnimationWithLayer:type:]_block_invoke_3
+__59+[UIView(TZLayout) showOscillatoryAnimationWithLayer:type:]_block_invoke_2
+__59+[UIView(TZLayout) showOscillatoryAnimationWithLayer:type:]_block_invoke.13
+__59+[UIView(TZLayout) showOscillatoryAnimationWithLayer:type:]_block_invoke
+-[TZAssetPreviewCell initWithFrame:]
+-[TZAssetPreviewCell configSubviews]
+-[TZAssetPreviewCell photoPreviewCollectionViewDidScroll]
+-[TZAssetPreviewCell dealloc]
+-[TZAssetPreviewCell model]
+-[TZAssetPreviewCell setModel:]
+-[TZAssetPreviewCell singleTapGestureBlock]
+-[TZAssetPreviewCell setSingleTapGestureBlock:]
+-[TZAssetPreviewCell .cxx_destruct]
+-[TZPhotoPreviewCell configSubviews]
+___36-[TZPhotoPreviewCell configSubviews]_block_invoke
+___36-[TZPhotoPreviewCell configSubviews]_block_invoke.44
+-[TZPhotoPreviewCell setModel:]
+-[TZPhotoPreviewCell recoverSubviews]
+-[TZPhotoPreviewCell setAllowCrop:]
+-[TZPhotoPreviewCell setScaleAspectFillCrop:]
+-[TZPhotoPreviewCell setCropRect:]
+-[TZPhotoPreviewCell layoutSubviews]
+-[TZPhotoPreviewCell imageProgressUpdateBlock]
+-[TZPhotoPreviewCell setImageProgressUpdateBlock:]
+-[TZPhotoPreviewCell previewView]
+-[TZPhotoPreviewCell setPreviewView:]
+-[TZPhotoPreviewCell allowCrop]
+-[TZPhotoPreviewCell cropRect]
+-[TZPhotoPreviewCell scaleAspectFillCrop]
+-[TZPhotoPreviewCell .cxx_destruct]
+-[TZPhotoPreviewView initWithFrame:]
+-[TZPhotoPreviewView configProgressView]
+-[TZPhotoPreviewView setModel:]
+___31-[TZPhotoPreviewView setModel:]_block_invoke
+___31-[TZPhotoPreviewView setModel:]_block_invoke_2
+___31-[TZPhotoPreviewView setModel:]_block_invoke_3
+___31-[TZPhotoPreviewView setModel:]_block_invoke.209
+-[TZPhotoPreviewView setAsset:]
+___31-[TZPhotoPreviewView setAsset:]_block_invoke
+___31-[TZPhotoPreviewView setAsset:]_block_invoke_2
+-[TZPhotoPreviewView recoverSubviews]
+-[TZPhotoPreviewView resizeSubviews]
+-[TZPhotoPreviewView configMaximumZoomScale]
+-[TZPhotoPreviewView refreshScrollViewContentSize]
+-[TZPhotoPreviewView layoutSubviews]
+-[TZPhotoPreviewView doubleTap:]
+-[TZPhotoPreviewView singleTap:]
+-[TZPhotoPreviewView viewForZoomingInScrollView:]
+-[TZPhotoPreviewView scrollViewWillBeginZooming:withView:]
+-[TZPhotoPreviewView scrollViewDidZoom:]
+-[TZPhotoPreviewView scrollViewDidEndZooming:withView:atScale:]
+-[TZPhotoPreviewView refreshImageContainerViewCenter]
+-[TZPhotoPreviewView imageView]
+-[TZPhotoPreviewView setImageView:]
+-[TZPhotoPreviewView scrollView]
+-[TZPhotoPreviewView setScrollView:]
+-[TZPhotoPreviewView imageContainerView]
+-[TZPhotoPreviewView setImageContainerView:]
+-[TZPhotoPreviewView progressView]
+-[TZPhotoPreviewView setProgressView:]
+-[TZPhotoPreviewView iCloudErrorIcon]
+-[TZPhotoPreviewView setICloudErrorIcon:]
+-[TZPhotoPreviewView iCloudErrorLabel]
+-[TZPhotoPreviewView setICloudErrorLabel:]
+-[TZPhotoPreviewView iCloudSyncFailedHandle]
+-[TZPhotoPreviewView setICloudSyncFailedHandle:]
+-[TZPhotoPreviewView allowCrop]
+-[TZPhotoPreviewView setAllowCrop:]
+-[TZPhotoPreviewView cropRect]
+-[TZPhotoPreviewView setCropRect:]
+-[TZPhotoPreviewView scaleAspectFillCrop]
+-[TZPhotoPreviewView setScaleAspectFillCrop:]
+-[TZPhotoPreviewView model]
+-[TZPhotoPreviewView asset]
+-[TZPhotoPreviewView singleTapGestureBlock]
+-[TZPhotoPreviewView setSingleTapGestureBlock:]
+-[TZPhotoPreviewView imageProgressUpdateBlock]
+-[TZPhotoPreviewView setImageProgressUpdateBlock:]
+-[TZPhotoPreviewView imageRequestID]
+-[TZPhotoPreviewView setImageRequestID:]
+-[TZPhotoPreviewView isRequestingGIF]
+-[TZPhotoPreviewView setIsRequestingGIF:]
+-[TZPhotoPreviewView .cxx_destruct]
+-[TZVideoPreviewCell configSubviews]
+-[TZVideoPreviewCell configPlayButton]
+-[TZVideoPreviewCell setModel:]
+-[TZVideoPreviewCell setVideoURL:]
+-[TZVideoPreviewCell configMoviePlayer]
+___39-[TZVideoPreviewCell configMoviePlayer]_block_invoke
+___39-[TZVideoPreviewCell configMoviePlayer]_block_invoke.445
+___39-[TZVideoPreviewCell configMoviePlayer]_block_invoke_2
+-[TZVideoPreviewCell configPlayerWithItem:]
+-[TZVideoPreviewCell layoutSubviews]
+-[TZVideoPreviewCell photoPreviewCollectionViewDidScroll]
+-[TZVideoPreviewCell appWillResignActiveNotification]
+-[TZVideoPreviewCell playButtonClick]
+-[TZVideoPreviewCell pausePlayerAndShowNaviBar]
+-[TZVideoPreviewCell player]
+-[TZVideoPreviewCell setPlayer:]
+-[TZVideoPreviewCell playerLayer]
+-[TZVideoPreviewCell setPlayerLayer:]
+-[TZVideoPreviewCell playButton]
+-[TZVideoPreviewCell setPlayButton:]
+-[TZVideoPreviewCell cover]
+-[TZVideoPreviewCell setCover:]
+-[TZVideoPreviewCell videoURL]
+-[TZVideoPreviewCell iCloudErrorIcon]
+-[TZVideoPreviewCell setICloudErrorIcon:]
+-[TZVideoPreviewCell iCloudErrorLabel]
+-[TZVideoPreviewCell setICloudErrorLabel:]
+-[TZVideoPreviewCell iCloudSyncFailedHandle]
+-[TZVideoPreviewCell setICloudSyncFailedHandle:]
+-[TZVideoPreviewCell .cxx_destruct]
+-[TZGifPreviewCell configSubviews]
+-[TZGifPreviewCell configPreviewView]
+___37-[TZGifPreviewCell configPreviewView]_block_invoke
+-[TZGifPreviewCell setModel:]
+-[TZGifPreviewCell layoutSubviews]
+-[TZGifPreviewCell signleTapAction]
+-[TZGifPreviewCell previewView]
+-[TZGifPreviewCell setPreviewView:]
+-[TZGifPreviewCell .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.7
+_OBJC_SELECTOR_REFERENCES_.9
+_OBJC_IVAR_$_TZAssetPreviewCell._model
+_OBJC_IVAR_$_TZAssetPreviewCell._singleTapGestureBlock
+__OBJC_METACLASS_RO_$_TZAssetPreviewCell
+__OBJC_$_INSTANCE_METHODS_TZAssetPreviewCell
+__OBJC_$_INSTANCE_VARIABLES_TZAssetPreviewCell
+__OBJC_$_PROP_LIST_TZAssetPreviewCell
+__OBJC_CLASS_RO_$_TZAssetPreviewCell
+_OBJC_CLASSLIST_REFERENCES_$_.36
+___block_descriptor_24_e4_20w_e8_v12?0d4l
+_OBJC_IVAR_$_TZPhotoPreviewCell._previewView
+_OBJC_IVAR_$_TZPhotoPreviewCell._allowCrop
+_OBJC_IVAR_$_TZPhotoPreviewCell._scaleAspectFillCrop
+_OBJC_IVAR_$_TZPhotoPreviewCell._cropRect
+_OBJC_IVAR_$_TZPhotoPreviewCell._imageProgressUpdateBlock
+__OBJC_METACLASS_RO_$_TZPhotoPreviewCell
+__OBJC_$_INSTANCE_METHODS_TZPhotoPreviewCell
+__OBJC_$_INSTANCE_VARIABLES_TZPhotoPreviewCell
+__OBJC_$_PROP_LIST_TZPhotoPreviewCell
+__OBJC_CLASS_RO_$_TZPhotoPreviewCell
+_OBJC_IVAR_$_TZPhotoPreviewView._scrollView
+_OBJC_CLASSLIST_REFERENCES_$_.127
+_OBJC_IVAR_$_TZPhotoPreviewView._imageContainerView
+_OBJC_CLASSLIST_REFERENCES_$_.132
+_OBJC_IVAR_$_TZPhotoPreviewView._imageView
+_OBJC_IVAR_$_TZPhotoPreviewView._iCloudErrorIcon
+_OBJC_CLASSLIST_REFERENCES_$_.144
+_OBJC_IVAR_$_TZPhotoPreviewView._iCloudErrorLabel
+_OBJC_CLASSLIST_REFERENCES_$_.145
+_OBJC_CLASSLIST_REFERENCES_$_.154
+_OBJC_CLASSLIST_REFERENCES_$_.161
+_OBJC_CLASSLIST_REFERENCES_$_.176
+_OBJC_IVAR_$_TZPhotoPreviewView._progressView
+_OBJC_IVAR_$_TZPhotoPreviewView._model
+_OBJC_CLASSLIST_REFERENCES_$_.194
+_OBJC_SELECTOR_REFERENCES_.196
+___block_descriptor_44_e8_20s36s40s_e5_v4?0l
+___block_descriptor_28_e4_20s24s_e41_v24?0d4"NSError"12^c16"NSDictionary"20l
+_OBJC_CLASSLIST_REFERENCES_$_.210
+___block_descriptor_24_e4_20s_e35_v16?0"NSData"4"NSDictionary"8c12l
+_OBJC_IVAR_$_TZPhotoPreviewView._asset
+_OBJC_CLASSLIST_REFERENCES_$_.227
+_OBJC_SELECTOR_REFERENCES_.250
+_OBJC_SELECTOR_REFERENCES_.268
+_OBJC_SELECTOR_REFERENCES_.270
+_OBJC_SELECTOR_REFERENCES_.272
+_OBJC_IVAR_$_TZPhotoPreviewView._allowCrop
+_OBJC_CLASSLIST_REFERENCES_$_.275
+_OBJC_IVAR_$_TZPhotoPreviewView._cropRect
+_OBJC_IVAR_$_TZPhotoPreviewView._iCloudSyncFailedHandle
+_OBJC_IVAR_$_TZPhotoPreviewView._scaleAspectFillCrop
+_OBJC_IVAR_$_TZPhotoPreviewView._singleTapGestureBlock
+_OBJC_IVAR_$_TZPhotoPreviewView._imageProgressUpdateBlock
+_OBJC_IVAR_$_TZPhotoPreviewView._imageRequestID
+_OBJC_IVAR_$_TZPhotoPreviewView._isRequestingGIF
+__OBJC_CLASS_PROTOCOLS_$_TZPhotoPreviewView
+__OBJC_METACLASS_RO_$_TZPhotoPreviewView
+__OBJC_$_INSTANCE_METHODS_TZPhotoPreviewView
+__OBJC_$_INSTANCE_VARIABLES_TZPhotoPreviewView
+__OBJC_$_PROP_LIST_TZPhotoPreviewView
+__OBJC_CLASS_RO_$_TZPhotoPreviewView
+_OBJC_IVAR_$_TZVideoPreviewCell._iCloudErrorIcon
+_OBJC_IVAR_$_TZVideoPreviewCell._iCloudErrorLabel
+_OBJC_IVAR_$_TZVideoPreviewCell._playButton
+_OBJC_CLASSLIST_REFERENCES_$_.420
+_OBJC_SELECTOR_REFERENCES_.426
+_OBJC_SELECTOR_REFERENCES_.430
+_OBJC_SELECTOR_REFERENCES_.432
+_OBJC_IVAR_$_TZVideoPreviewCell._videoURL
+_OBJC_IVAR_$_TZVideoPreviewCell._player
+_OBJC_IVAR_$_TZVideoPreviewCell._playerLayer
+_OBJC_CLASSLIST_REFERENCES_$_.451
+_OBJC_CLASSLIST_REFERENCES_$_.456
+_OBJC_CLASSLIST_REFERENCES_$_.461
+_OBJC_SELECTOR_REFERENCES_.479
+_OBJC_SELECTOR_REFERENCES_.481
+_OBJC_SELECTOR_REFERENCES_.483
+_OBJC_SELECTOR_REFERENCES_.485
+_OBJC_SELECTOR_REFERENCES_.491
+_OBJC_SELECTOR_REFERENCES_.493
+_OBJC_SELECTOR_REFERENCES_.495
+_OBJC_CLASSLIST_REFERENCES_$_.496
+_OBJC_IVAR_$_TZVideoPreviewCell._cover
+_OBJC_IVAR_$_TZVideoPreviewCell._iCloudSyncFailedHandle
+__OBJC_METACLASS_RO_$_TZVideoPreviewCell
+__OBJC_$_INSTANCE_METHODS_TZVideoPreviewCell
+__OBJC_$_INSTANCE_VARIABLES_TZVideoPreviewCell
+__OBJC_$_PROP_LIST_TZVideoPreviewCell
+__OBJC_CLASS_RO_$_TZVideoPreviewCell
+_OBJC_IVAR_$_TZGifPreviewCell._previewView
+__OBJC_METACLASS_RO_$_TZGifPreviewCell
+__OBJC_$_INSTANCE_METHODS_TZGifPreviewCell
+__OBJC_$_INSTANCE_VARIABLES_TZGifPreviewCell
+__OBJC_$_PROP_LIST_TZGifPreviewCell
+__OBJC_CLASS_RO_$_TZGifPreviewCell
+/Users/yangjunyi/Downloads/TZImagePickerController/Carthage/Checkouts/TZImagePickerController/TZImagePickerController/TZImagePickerController/TZPhotoPreviewCell.m
+TZImagePickerController/TZImagePickerController/TZPhotoPreviewCell.m
+TZImagePickerController/TZImagePickerController/TZPhotoPreviewCell.h
+__37-[TZGifPreviewCell configPreviewView]_block_invoke
+__39-[TZVideoPreviewCell configMoviePlayer]_block_invoke_2
+__39-[TZVideoPreviewCell configMoviePlayer]_block_invoke.445
+__39-[TZVideoPreviewCell configMoviePlayer]_block_invoke
+__31-[TZPhotoPreviewView setAsset:]_block_invoke_2
+__31-[TZPhotoPreviewView setAsset:]_block_invoke
+__31-[TZPhotoPreviewView setModel:]_block_invoke.209
+__31-[TZPhotoPreviewView setModel:]_block_invoke_3
+__31-[TZPhotoPreviewView setModel:]_block_invoke_2
+__31-[TZPhotoPreviewView setModel:]_block_invoke
+__36-[TZPhotoPreviewCell configSubviews]_block_invoke.44
+__36-[TZPhotoPreviewCell configSubviews]_block_invoke
+-[TZVideoPlayerController viewDidLoad]
+-[TZVideoPlayerController viewWillAppear:]
+-[TZVideoPlayerController viewWillDisappear:]
+-[TZVideoPlayerController configMoviePlayer]
+___44-[TZVideoPlayerController configMoviePlayer]_block_invoke
+___44-[TZVideoPlayerController configMoviePlayer]_block_invoke.61
+___44-[TZVideoPlayerController configMoviePlayer]_block_invoke_2
+-[TZVideoPlayerController addProgressObserver]
+___46-[TZVideoPlayerController addProgressObserver]_block_invoke
+-[TZVideoPlayerController configPlayButton]
+-[TZVideoPlayerController configBottomToolBar]
+-[TZVideoPlayerController preferredStatusBarStyle]
+-[TZVideoPlayerController viewDidLayoutSubviews]
+-[TZVideoPlayerController playButtonClick]
+-[TZVideoPlayerController editButtonClick]
+-[TZVideoPlayerController doneButtonClick]
+___42-[TZVideoPlayerController doneButtonClick]_block_invoke
+___42-[TZVideoPlayerController doneButtonClick]_block_invoke.221
+-[TZVideoPlayerController dismissAndCallDelegateMethod]
+___55-[TZVideoPlayerController dismissAndCallDelegateMethod]_block_invoke
+-[TZVideoPlayerController callDelegateMethod]
+-[TZVideoPlayerController pausePlayerAndShowNaviBar]
+-[TZVideoPlayerController iCloudErrorView]
+-[TZVideoPlayerController dealloc]
+-[TZVideoPlayerController model]
+-[TZVideoPlayerController setModel:]
+-[TZVideoPlayerController needShowStatusBar]
+-[TZVideoPlayerController setNeedShowStatusBar:]
+-[TZVideoPlayerController setICloudErrorView:]
+-[TZVideoPlayerController .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.24
+_OBJC_IVAR_$_TZVideoPlayerController._originStatusBarStyle
+_OBJC_CLASSLIST_REFERENCES_$_.43
+_OBJC_IVAR_$_TZVideoPlayerController._model
+_OBJC_CLASSLIST_REFERENCES_$_.48
+_OBJC_IVAR_$_TZVideoPlayerController._cover
+_OBJC_IVAR_$_TZVideoPlayerController._doneButton
+_OBJC_IVAR_$_TZVideoPlayerController._editButton
+_OBJC_IVAR_$_TZVideoPlayerController._player
+_OBJC_CLASSLIST_REFERENCES_$_.65
+_OBJC_IVAR_$_TZVideoPlayerController._playerLayer
+_OBJC_SELECTOR_REFERENCES_.81
+_OBJC_IVAR_$_TZVideoPlayerController._progress
+___block_descriptor_28_e4_20s24s_e15_v28?0{?=qiIq}4l
+_OBJC_CLASSLIST_REFERENCES_$_.95
+_OBJC_IVAR_$_TZVideoPlayerController._playButton
+_OBJC_SELECTOR_REFERENCES_.107
+_OBJC_SELECTOR_REFERENCES_.109
+_OBJC_CLASSLIST_REFERENCES_$_.112
+_OBJC_IVAR_$_TZVideoPlayerController._toolBar
+_OBJC_SELECTOR_REFERENCES_.192
+_OBJC_SELECTOR_REFERENCES_.194
+_OBJC_IVAR_$_TZVideoPlayerController._playButtonNormalImage
+_OBJC_CLASSLIST_REFERENCES_$_.195
+_OBJC_SELECTOR_REFERENCES_.205
+_OBJC_IVAR_$_TZVideoPlayerController._outputPath
+_OBJC_IVAR_$_TZVideoPlayerController._errorMsg
+_OBJC_IVAR_$_TZVideoPlayerController._iCloudErrorView
+_OBJC_CLASSLIST_REFERENCES_$_.245
+_OBJC_IVAR_$_TZVideoPlayerController._needShowStatusBar
+__OBJC_METACLASS_RO_$_TZVideoPlayerController
+__OBJC_$_INSTANCE_METHODS_TZVideoPlayerController
+__OBJC_$_INSTANCE_VARIABLES_TZVideoPlayerController
+__OBJC_$_PROP_LIST_TZVideoPlayerController
+__OBJC_CLASS_RO_$_TZVideoPlayerController
+/Users/yangjunyi/Downloads/TZImagePickerController/Carthage/Checkouts/TZImagePickerController/TZImagePickerController/TZImagePickerController/TZVideoPlayerController.m
+TZImagePickerController/TZImagePickerController/TZVideoPlayerController.m
+TZImagePickerController/TZImagePickerController/TZVideoPlayerController.h
+__55-[TZVideoPlayerController dismissAndCallDelegateMethod]_block_invoke
+__42-[TZVideoPlayerController doneButtonClick]_block_invoke.221
+__42-[TZVideoPlayerController doneButtonClick]_block_invoke
+__46-[TZVideoPlayerController addProgressObserver]_block_invoke
+__44-[TZVideoPlayerController configMoviePlayer]_block_invoke_2
+__44-[TZVideoPlayerController configMoviePlayer]_block_invoke.61
+__44-[TZVideoPlayerController configMoviePlayer]_block_invoke
+-[TZGifPhotoPreviewController viewDidLoad]
+-[TZGifPhotoPreviewController viewWillAppear:]
+-[TZGifPhotoPreviewController viewWillDisappear:]
+-[TZGifPhotoPreviewController configPreviewView]
+___48-[TZGifPhotoPreviewController configPreviewView]_block_invoke
+-[TZGifPhotoPreviewController configBottomToolBar]
+___50-[TZGifPhotoPreviewController configBottomToolBar]_block_invoke
+-[TZGifPhotoPreviewController preferredStatusBarStyle]
+-[TZGifPhotoPreviewController viewDidLayoutSubviews]
+-[TZGifPhotoPreviewController signleTapAction]
+-[TZGifPhotoPreviewController doneButtonClick]
+___46-[TZGifPhotoPreviewController doneButtonClick]_block_invoke
+___46-[TZGifPhotoPreviewController doneButtonClick]_block_invoke.143
+-[TZGifPhotoPreviewController callDelegateMethod]
+-[TZGifPhotoPreviewController model]
+-[TZGifPhotoPreviewController setModel:]
+-[TZGifPhotoPreviewController needShowStatusBar]
+-[TZGifPhotoPreviewController setNeedShowStatusBar:]
+-[TZGifPhotoPreviewController .cxx_destruct]
+_OBJC_IVAR_$_TZGifPhotoPreviewController._originStatusBarStyle
+_OBJC_CLASSLIST_REFERENCES_$_.41
+_OBJC_IVAR_$_TZGifPhotoPreviewController._previewView
+_OBJC_IVAR_$_TZGifPhotoPreviewController._toolBar
+_OBJC_CLASSLIST_REFERENCES_$_.58
+_OBJC_IVAR_$_TZGifPhotoPreviewController._doneButton
+_OBJC_CLASSLIST_REFERENCES_$_.94
+_OBJC_IVAR_$_TZGifPhotoPreviewController._model
+_OBJC_CLASSLIST_REFERENCES_$_.107
+_OBJC_CLASSLIST_REFERENCES_$_.120
+_OBJC_IVAR_$_TZGifPhotoPreviewController._needShowStatusBar
+_OBJC_IVAR_$_TZGifPhotoPreviewController._progress
+__OBJC_METACLASS_RO_$_TZGifPhotoPreviewController
+__OBJC_$_INSTANCE_METHODS_TZGifPhotoPreviewController
+__OBJC_$_INSTANCE_VARIABLES_TZGifPhotoPreviewController
+__OBJC_$_PROP_LIST_TZGifPhotoPreviewController
+__OBJC_CLASS_RO_$_TZGifPhotoPreviewController
+/Users/yangjunyi/Downloads/TZImagePickerController/Carthage/Checkouts/TZImagePickerController/TZImagePickerController/TZImagePickerController/TZGifPhotoPreviewController.m
+TZImagePickerController/TZImagePickerController/TZGifPhotoPreviewController.m
+TZImagePickerController/TZImagePickerController/TZGifPhotoPreviewController.h
+__46-[TZGifPhotoPreviewController doneButtonClick]_block_invoke.143
+__46-[TZGifPhotoPreviewController doneButtonClick]_block_invoke
+__50-[TZGifPhotoPreviewController configBottomToolBar]_block_invoke
+__48-[TZGifPhotoPreviewController configPreviewView]_block_invoke
+-[TZProgressView init]
+-[TZProgressView drawRect:]
+-[TZProgressView setProgress:]
+-[TZProgressView progress]
+-[TZProgressView progressLayer]
+-[TZProgressView setProgressLayer:]
+-[TZProgressView .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.5
+_OBJC_SELECTOR_REFERENCES_.7
+_OBJC_IVAR_$_TZProgressView._progressLayer
+_OBJC_IVAR_$_TZProgressView._progress
+_OBJC_SELECTOR_REFERENCES_.35
+__OBJC_METACLASS_RO_$_TZProgressView
+__OBJC_$_INSTANCE_METHODS_TZProgressView
+__OBJC_$_INSTANCE_VARIABLES_TZProgressView
+__OBJC_$_PROP_LIST_TZProgressView
+__OBJC_CLASS_RO_$_TZProgressView
+/Users/yangjunyi/Downloads/TZImagePickerController/Carthage/Checkouts/TZImagePickerController/TZImagePickerController/TZImagePickerController/TZProgressView.m
+TZImagePickerController/TZImagePickerController/TZProgressView.m
+TZImagePickerController/TZImagePickerController/TZProgressView.h
++[TZImageManager manager]
+___25+[TZImageManager manager]_block_invoke
+___copy_helper_block_e4_
+___destroy_helper_block_e4_
++[TZImageManager deallocManager]
+-[TZImageManager setPhotoWidth:]
+-[TZImageManager setColumnNumber:]
+-[TZImageManager configTZScreenWidth]
+-[TZImageManager authorizationStatusAuthorized]
+-[TZImageManager requestAuthorizationWithCompletion:]
+___53-[TZImageManager requestAuthorizationWithCompletion:]_block_invoke
+___53-[TZImageManager requestAuthorizationWithCompletion:]_block_invoke_2
+___copy_helper_block_e4_20b
+___53-[TZImageManager requestAuthorizationWithCompletion:]_block_invoke.14
+___53-[TZImageManager requestAuthorizationWithCompletion:]_block_invoke_2.15
+-[TZImageManager getCameraRollAlbum:allowPickingImage:needFetchAssets:completion:]
+-[TZImageManager getCameraRollAlbumWithFetchAssets:completion:]
+-[TZImageManager getAllAlbums:allowPickingImage:needFetchAssets:completion:]
+-[TZImageManager getAllAlbumsWithFetchAssets:completion:]
+-[TZImageManager getAssetsFromFetchResult:allowPickingVideo:allowPickingImage:completion:]
+-[TZImageManager getAssetsFromFetchResult:completion:]
+___54-[TZImageManager getAssetsFromFetchResult:completion:]_block_invoke
+-[TZImageManager getAssetFromFetchResult:atIndex:allowPickingVideo:allowPickingImage:completion:]
+-[TZImageManager getAssetFromFetchResult:atIndex:completion:]
+-[TZImageManager assetModelWithAsset:allowPickingVideo:allowPickingImage:]
+-[TZImageManager getAssetType:]
+-[TZImageManager getNewTimeFromDurationSecond:]
+-[TZImageManager getPhotosBytesWithArray:completion:]
+___53-[TZImageManager getPhotosBytesWithArray:completion:]_block_invoke
+___copy_helper_block_e4_20s24s28s32b36r40r
+___destroy_helper_block_e4_20s24s28s32s36r40r
+-[TZImageManager getBytesFromDataLength:]
+-[TZImageManager getPhotoWithAsset:completion:]
+-[TZImageManager getPhotoWithAsset:photoWidth:completion:]
+-[TZImageManager getPhotoWithAsset:completion:progressHandler:networkAccessAllowed:]
+-[TZImageManager requestImageDataForAsset:completion:progressHandler:]
+___70-[TZImageManager requestImageDataForAsset:completion:progressHandler:]_block_invoke
+___70-[TZImageManager requestImageDataForAsset:completion:progressHandler:]_block_invoke_2
+___copy_helper_block_e8_20b36s40s
+___70-[TZImageManager requestImageDataForAsset:completion:progressHandler:]_block_invoke.185
+-[TZImageManager getPhotoWithAsset:photoWidth:completion:progressHandler:networkAccessAllowed:]
+___95-[TZImageManager getPhotoWithAsset:photoWidth:completion:progressHandler:networkAccessAllowed:]_block_invoke
+___95-[TZImageManager getPhotoWithAsset:photoWidth:completion:progressHandler:networkAccessAllowed:]_block_invoke_2
+___95-[TZImageManager getPhotoWithAsset:photoWidth:completion:progressHandler:networkAccessAllowed:]_block_invoke_3
+___95-[TZImageManager getPhotoWithAsset:photoWidth:completion:progressHandler:networkAccessAllowed:]_block_invoke_4
+___copy_helper_block_e4_20s24s28b
+___copy_helper_block_e4_20s24b28b32s
+-[TZImageManager getPostImageWithAlbumModel:completion:]
+___56-[TZImageManager getPostImageWithAlbumModel:completion:]_block_invoke
+-[TZImageManager getOriginalPhotoWithAsset:completion:]
+___55-[TZImageManager getOriginalPhotoWithAsset:completion:]_block_invoke
+-[TZImageManager getOriginalPhotoWithAsset:newCompletion:]
+-[TZImageManager getOriginalPhotoWithAsset:progressHandler:newCompletion:]
+___74-[TZImageManager getOriginalPhotoWithAsset:progressHandler:newCompletion:]_block_invoke
+___copy_helper_block_e4_20s24b
+-[TZImageManager getOriginalPhotoDataWithAsset:completion:]
+-[TZImageManager getOriginalPhotoDataWithAsset:progressHandler:completion:]
+___75-[TZImageManager getOriginalPhotoDataWithAsset:progressHandler:completion:]_block_invoke
+-[TZImageManager getImageWithVideoURL:]
+-[TZImageManager savePhotoWithImage:completion:]
+-[TZImageManager savePhotoWithImage:location:completion:]
+___57-[TZImageManager savePhotoWithImage:location:completion:]_block_invoke
+___copy_helper_block_e4_20s24s28r
+___destroy_helper_block_e4_20s24s28r
+___57-[TZImageManager savePhotoWithImage:location:completion:]_block_invoke.258
+___57-[TZImageManager savePhotoWithImage:location:completion:]_block_invoke_2
+___copy_helper_block_e4_20b24s28s32r
+___destroy_helper_block_e4_20s24s28s32r
+___copy_helper_block_e4_20b24s28r
+-[TZImageManager savePhotoWithImage:meta:location:completion:]
+___62-[TZImageManager savePhotoWithImage:meta:location:completion:]_block_invoke
+___62-[TZImageManager savePhotoWithImage:meta:location:completion:]_block_invoke_2
+___62-[TZImageManager savePhotoWithImage:meta:location:completion:]_block_invoke_3
+___copy_helper_block_e4_20s24b28s32r
+-[TZImageManager fetchAssetByIocalIdentifier:retryCount:completion:]
+___68-[TZImageManager fetchAssetByIocalIdentifier:retryCount:completion:]_block_invoke
+-[TZImageManager saveVideoWithUrl:completion:]
+-[TZImageManager saveVideoWithUrl:location:completion:]
+___55-[TZImageManager saveVideoWithUrl:location:completion:]_block_invoke
+___55-[TZImageManager saveVideoWithUrl:location:completion:]_block_invoke_2
+___55-[TZImageManager saveVideoWithUrl:location:completion:]_block_invoke_3
+-[TZImageManager getVideoWithAsset:completion:]
+-[TZImageManager getVideoWithAsset:progressHandler:completion:]
+___63-[TZImageManager getVideoWithAsset:progressHandler:completion:]_block_invoke
+___63-[TZImageManager getVideoWithAsset:progressHandler:completion:]_block_invoke_2
+___63-[TZImageManager getVideoWithAsset:progressHandler:completion:]_block_invoke_3
+-[TZImageManager getVideoOutputPathWithAsset:success:failure:]
+-[TZImageManager getVideoOutputPathWithAsset:presetName:success:failure:]
+-[TZImageManager startExportVideoWithVideoAsset:presetName:success:failure:]
+-[TZImageManager getVideoOutputPathWithAsset:presetName:timeRange:success:failure:]
+___83-[TZImageManager getVideoOutputPathWithAsset:presetName:timeRange:success:failure:]_block_invoke
+___copy_helper_block_e4_20s24s28b32b
+-[TZImageManager startExportVideoWithVideoAsset:timeRange:presetName:success:failure:]
+___86-[TZImageManager startExportVideoWithVideoAsset:timeRange:presetName:success:failure:]_block_invoke
+___copy_helper_block_e4_20s24s28s32b36b
+___destroy_helper_block_e4_20s24s28s32s36s
+-[TZImageManager requestVideoOutputPathWithAsset:presetName:success:failure:]
+-[TZImageManager requestVideoOutputPathWithAsset:presetName:timeRange:success:failure:]
+___87-[TZImageManager requestVideoOutputPathWithAsset:presetName:timeRange:success:failure:]_block_invoke
+___87-[TZImageManager requestVideoOutputPathWithAsset:presetName:timeRange:success:failure:]_block_invoke_2
+___copy_helper_block_e4_20s24b28b
+-[TZImageManager requestVideoURLWithAsset:success:failure:]
+___59-[TZImageManager requestVideoURLWithAsset:success:failure:]_block_invoke
+___copy_helper_block_e4_20b24b
+-[TZImageManager handleVideoExportResult:outputPath:success:failure:]
+___69-[TZImageManager handleVideoExportResult:outputPath:success:failure:]_block_invoke
+___copy_helper_block_e4_20s24b28s32b
+-[TZImageManager getVideoRequestOptions]
+-[TZImageManager getVideoOutputPath]
+-[TZImageManager isCameraRollAlbum:]
+-[TZImageManager isPhotoSelectableWithAsset:]
+-[TZImageManager isAssetCannotBeSelected:]
+-[TZImageManager modelWithResult:collection:isCameraRoll:needFetchAssets:options:]
+-[TZImageManager scaleImage:toSize:]
+-[TZImageManager isVideo:]
+-[TZImageManager createModelWithAsset:]
+-[TZImageManager fixedCompositionWithAsset:]
+-[TZImageManager degressFromVideoFileWithAsset:]
+-[TZImageManager fixOrientation:]
+-[TZImageManager cachingImageManager]
+-[TZImageManager setCachingImageManager:]
+-[TZImageManager pickerDelegate]
+-[TZImageManager setPickerDelegate:]
+-[TZImageManager shouldFixOrientation]
+-[TZImageManager setShouldFixOrientation:]
+-[TZImageManager isPreviewNetworkImage]
+-[TZImageManager setIsPreviewNetworkImage:]
+-[TZImageManager photoPreviewMaxWidth]
+-[TZImageManager setPhotoPreviewMaxWidth:]
+-[TZImageManager photoWidth]
+-[TZImageManager columnNumber]
+-[TZImageManager sortAscendingByModificationDate]
+-[TZImageManager setSortAscendingByModificationDate:]
+-[TZImageManager minPhotoWidthSelectable]
+-[TZImageManager setMinPhotoWidthSelectable:]
+-[TZImageManager minPhotoHeightSelectable]
+-[TZImageManager setMinPhotoHeightSelectable:]
+-[TZImageManager hideWhenCanNotSelect]
+-[TZImageManager setHideWhenCanNotSelect:]
+-[TZImageManager .cxx_destruct]
+_onceToken
+_manager
+___block_descriptor_24_e4__e5_v4?0l
+___block_descriptor_24_e4_20bs_e5_v4?0l
+___block_descriptor_24_e4_20bs_e7_v8?0i4l
+_OBJC_CLASSLIST_REFERENCES_$_.31
+_OBJC_CLASSLIST_REFERENCES_$_.71
+___block_descriptor_32_e4_20s24s28s_e23_v16?0"PHAsset"4I8^c12l
+_OBJC_CLASSLIST_REFERENCES_$_.114
+_OBJC_CLASSLIST_REFERENCES_$_.150
+_OBJC_CLASSLIST_REFERENCES_$_.159
+___block_descriptor_44_e4_20s24s28s32bs36r40r_e48_v20?0"NSData"4"NSString"8i12"NSDictionary"16l
+___block_descriptor_48_e8_20bs36s40s_e5_v4?0l
+___block_descriptor_24_e4_20bs_e41_v24?0d4"NSError"12^c16"NSDictionary"20l
+___block_descriptor_24_e4_20bs_e48_v20?0"NSData"4"NSString"8i12"NSDictionary"16l
+___block_descriptor_40_e4_20s24s28bs_e48_v20?0"NSData"4"NSString"8i12"NSDictionary"16l
+___block_descriptor_45_e4_20s24bs28bs32s_e33_v12?0"UIImage"4"NSDictionary"8l
+_OBJC_CLASSLIST_REFERENCES_$_.212
+___block_descriptor_24_e4_20bs_e36_v16?0"UIImage"4"NSDictionary"8c12l
+___block_descriptor_28_e4_20s24bs_e48_v20?0"NSData"4"NSString"8i12"NSDictionary"16l
+_OBJC_CLASSLIST_REFERENCES_$_.226
+_OBJC_CLASSLIST_REFERENCES_$_.229
+_OBJC_CLASSLIST_REFERENCES_$_.244
+_OBJC_CLASSLIST_REFERENCES_$_.253
+___block_descriptor_32_e4_20s24s28r_e5_v4?0l
+___block_descriptor_37_e4_20bs24s28s32r_e5_v4?0l
+___block_descriptor_32_e4_20bs24s28r_e19_v12?0c4"NSError"8l
+_OBJC_CLASSLIST_REFERENCES_$_.268
+_OBJC_CLASSLIST_REFERENCES_$_.279
+_OBJC_CLASSLIST_REFERENCES_$_.284
+___block_descriptor_36_e4_20s24bs28s32r_e19_v12?0c4"NSError"8l
+___block_descriptor_36_e4_20s24s28bs_e5_v4?0l
+_OBJC_CLASSLIST_REFERENCES_$_.297
+___block_descriptor_24_e4_20bs_e38_v12?0"AVPlayerItem"4"NSDictionary"8l
+_OBJC_SELECTOR_REFERENCES_.310
+___block_descriptor_84_e4_20s24s28bs32bs_e48_v16?0"AVAsset"4"AVAudioMix"8"NSDictionary"12l
+_OBJC_CLASSLIST_REFERENCES_$_.314
+_OBJC_SELECTOR_REFERENCES_.328
+_OBJC_SELECTOR_REFERENCES_.330
+_OBJC_SELECTOR_REFERENCES_.358
+_OBJC_SELECTOR_REFERENCES_.360
+_OBJC_SELECTOR_REFERENCES_.362
+_OBJC_SELECTOR_REFERENCES_.364
+___block_descriptor_40_e4_20s24s28s32bs36bs_e5_v4?0l
+_OBJC_SELECTOR_REFERENCES_.366
+___block_descriptor_80_e4_20s24bs28bs_e46_v12?0"AVAssetExportSession"4"NSDictionary"8l
+___block_descriptor_28_e4_20bs24bs_e48_v16?0"AVAsset"4"AVAudioMix"8"NSDictionary"12l
+___block_descriptor_36_e4_20s24bs28s32bs_e5_v4?0l
+_OBJC_CLASSLIST_REFERENCES_$_.396
+_OBJC_CLASSLIST_REFERENCES_$_.417
+_OBJC_CLASSLIST_REFERENCES_$_.434
+_OBJC_SELECTOR_REFERENCES_.436
+_OBJC_CLASSLIST_REFERENCES_$_.443
+_OBJC_CLASSLIST_REFERENCES_$_.446
+__OBJC_$_CLASS_METHODS_TZImageManager
+__OBJC_METACLASS_RO_$_TZImageManager
+__OBJC_$_INSTANCE_METHODS_TZImageManager
+_OBJC_IVAR_$_TZImageManager._shouldFixOrientation
+_OBJC_IVAR_$_TZImageManager._isPreviewNetworkImage
+_OBJC_IVAR_$_TZImageManager._sortAscendingByModificationDate
+_OBJC_IVAR_$_TZImageManager._hideWhenCanNotSelect
+_OBJC_IVAR_$_TZImageManager._cachingImageManager
+_OBJC_IVAR_$_TZImageManager._pickerDelegate
+_OBJC_IVAR_$_TZImageManager._photoPreviewMaxWidth
+_OBJC_IVAR_$_TZImageManager._photoWidth
+_OBJC_IVAR_$_TZImageManager._columnNumber
+_OBJC_IVAR_$_TZImageManager._minPhotoWidthSelectable
+_OBJC_IVAR_$_TZImageManager._minPhotoHeightSelectable
+__OBJC_$_INSTANCE_VARIABLES_TZImageManager
+__OBJC_$_PROP_LIST_TZImageManager
+__OBJC_CLASS_RO_$_TZImageManager
+/Users/yangjunyi/Downloads/TZImagePickerController/Carthage/Checkouts/TZImagePickerController/TZImagePickerController/TZImagePickerController/TZImageManager.m
+TZImagePickerController/TZImagePickerController/TZImageManager.m
+TZImagePickerController/TZImagePickerController/TZImageManager.h
+__copy_helper_block_e4_20s24b28s32b
+__69-[TZImageManager handleVideoExportResult:outputPath:success:failure:]_block_invoke
+__copy_helper_block_e4_20b24b
+__59-[TZImageManager requestVideoURLWithAsset:success:failure:]_block_invoke
+__copy_helper_block_e4_20s24b28b
+__87-[TZImageManager requestVideoOutputPathWithAsset:presetName:timeRange:success:failure:]_block_invoke_2
+__87-[TZImageManager requestVideoOutputPathWithAsset:presetName:timeRange:success:failure:]_block_invoke
+__destroy_helper_block_e4_20s24s28s32s36s
+__copy_helper_block_e4_20s24s28s32b36b
+__86-[TZImageManager startExportVideoWithVideoAsset:timeRange:presetName:success:failure:]_block_invoke
+__copy_helper_block_e4_20s24s28b32b
+__83-[TZImageManager getVideoOutputPathWithAsset:presetName:timeRange:success:failure:]_block_invoke
+__63-[TZImageManager getVideoWithAsset:progressHandler:completion:]_block_invoke_3
+__63-[TZImageManager getVideoWithAsset:progressHandler:completion:]_block_invoke_2
+__63-[TZImageManager getVideoWithAsset:progressHandler:completion:]_block_invoke
+__55-[TZImageManager saveVideoWithUrl:location:completion:]_block_invoke_3
+__55-[TZImageManager saveVideoWithUrl:location:completion:]_block_invoke_2
+__55-[TZImageManager saveVideoWithUrl:location:completion:]_block_invoke
+__68-[TZImageManager fetchAssetByIocalIdentifier:retryCount:completion:]_block_invoke
+__copy_helper_block_e4_20s24b28s32r
+__62-[TZImageManager savePhotoWithImage:meta:location:completion:]_block_invoke_3
+__62-[TZImageManager savePhotoWithImage:meta:location:completion:]_block_invoke_2
+__62-[TZImageManager savePhotoWithImage:meta:location:completion:]_block_invoke
+__copy_helper_block_e4_20b24s28r
+__destroy_helper_block_e4_20s24s28s32r
+__copy_helper_block_e4_20b24s28s32r
+__57-[TZImageManager savePhotoWithImage:location:completion:]_block_invoke_2
+__57-[TZImageManager savePhotoWithImage:location:completion:]_block_invoke.258
+__destroy_helper_block_e4_20s24s28r
+__copy_helper_block_e4_20s24s28r
+__57-[TZImageManager savePhotoWithImage:location:completion:]_block_invoke
+__75-[TZImageManager getOriginalPhotoDataWithAsset:progressHandler:completion:]_block_invoke
+__copy_helper_block_e4_20s24b
+__74-[TZImageManager getOriginalPhotoWithAsset:progressHandler:newCompletion:]_block_invoke
+__55-[TZImageManager getOriginalPhotoWithAsset:completion:]_block_invoke
+__56-[TZImageManager getPostImageWithAlbumModel:completion:]_block_invoke
+__copy_helper_block_e4_20s24b28b32s
+__copy_helper_block_e4_20s24s28b
+__95-[TZImageManager getPhotoWithAsset:photoWidth:completion:progressHandler:networkAccessAllowed:]_block_invoke_4
+__95-[TZImageManager getPhotoWithAsset:photoWidth:completion:progressHandler:networkAccessAllowed:]_block_invoke_3
+__95-[TZImageManager getPhotoWithAsset:photoWidth:completion:progressHandler:networkAccessAllowed:]_block_invoke_2
+__95-[TZImageManager getPhotoWithAsset:photoWidth:completion:progressHandler:networkAccessAllowed:]_block_invoke
+__70-[TZImageManager requestImageDataForAsset:completion:progressHandler:]_block_invoke.185
+__copy_helper_block_e8_20b36s40s
+__70-[TZImageManager requestImageDataForAsset:completion:progressHandler:]_block_invoke_2
+__70-[TZImageManager requestImageDataForAsset:completion:progressHandler:]_block_invoke
+__destroy_helper_block_e4_20s24s28s32s36r40r
+__copy_helper_block_e4_20s24s28s32b36r40r
+__53-[TZImageManager getPhotosBytesWithArray:completion:]_block_invoke
+__54-[TZImageManager getAssetsFromFetchResult:completion:]_block_invoke
+__53-[TZImageManager requestAuthorizationWithCompletion:]_block_invoke_2.15
+__53-[TZImageManager requestAuthorizationWithCompletion:]_block_invoke.14
+__copy_helper_block_e4_20b
+__53-[TZImageManager requestAuthorizationWithCompletion:]_block_invoke_2
+__53-[TZImageManager requestAuthorizationWithCompletion:]_block_invoke
+__destroy_helper_block_e4_
+__copy_helper_block_e4_
+__25+[TZImageManager manager]_block_invoke
++[TZImageCropManager overlayClippingWithView:cropRect:containerView:needCircleCrop:]
++[TZImageCropManager cropImageView:toRect:zoomScale:containerView:]
++[TZImageCropManager newTransformedImage:sourceImage:sourceSize:outputWidth:cropSize:imageViewSize:]
++[TZImageCropManager newScaledImage:toSize:]
++[TZImageCropManager circularClipImage:]
++[UIImage(TZGif) sd_tz_animatedGIFWithData:]
++[UIImage(TZGif) sd_frameDurationAtIndex:source:]
+_OBJC_CLASSLIST_REFERENCES_$_.1
+_OBJC_SELECTOR_REFERENCES_.3
+_OBJC_SELECTOR_REFERENCES_.5
+_OBJC_CLASSLIST_REFERENCES_$_.6
+_OBJC_SELECTOR_REFERENCES_.37
+__OBJC_$_CLASS_METHODS_TZImageCropManager
+__OBJC_METACLASS_RO_$_TZImageCropManager
+__OBJC_CLASS_RO_$_TZImageCropManager
+_OBJC_CLASSLIST_REFERENCES_$_.76
+__OBJC_$_CATEGORY_CLASS_METHODS_UIImage_$_TZGif
+__OBJC_$_CATEGORY_UIImage_$_TZGif
+/Users/yangjunyi/Downloads/TZImagePickerController/Carthage/Checkouts/TZImagePickerController/TZImagePickerController/TZImagePickerController/TZImageCropManager.m
+TZImagePickerController/TZImagePickerController/TZImageCropManager.m
++[TZLocationManager manager]
+___28+[TZLocationManager manager]_block_invoke
+-[TZLocationManager startLocation]
+-[TZLocationManager startLocationWithSuccessBlock:failureBlock:]
+-[TZLocationManager startLocationWithGeocoderBlock:]
+-[TZLocationManager startLocationWithSuccessBlock:failureBlock:geocoderBlock:]
+-[TZLocationManager stopUpdatingLocation]
+-[TZLocationManager locationManager:didUpdateLocations:]
+___56-[TZLocationManager locationManager:didUpdateLocations:]_block_invoke
+-[TZLocationManager locationManager:didFailWithError:]
+-[TZLocationManager locationManager]
+-[TZLocationManager setLocationManager:]
+-[TZLocationManager successBlock]
+-[TZLocationManager setSuccessBlock:]
+-[TZLocationManager geocodeBlock]
+-[TZLocationManager setGeocodeBlock:]
+-[TZLocationManager failureBlock]
+-[TZLocationManager setFailureBlock:]
+-[TZLocationManager .cxx_destruct]
+_manager.manager
+_manager.onceToken
+_OBJC_CLASSLIST_REFERENCES_$_.17
+___block_descriptor_24_e4_20s_e28_v12?0"NSArray"4"NSError"8l
+__OBJC_$_CLASS_METHODS_TZLocationManager
+__OBJC_$_PROTOCOL_REFS_CLLocationManagerDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_CLLocationManagerDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_CLLocationManagerDelegate
+__OBJC_PROTOCOL_$_CLLocationManagerDelegate
+__OBJC_LABEL_PROTOCOL_$_CLLocationManagerDelegate
+__OBJC_CLASS_PROTOCOLS_$_TZLocationManager
+__OBJC_METACLASS_RO_$_TZLocationManager
+__OBJC_$_INSTANCE_METHODS_TZLocationManager
+_OBJC_IVAR_$_TZLocationManager._locationManager
+_OBJC_IVAR_$_TZLocationManager._successBlock
+_OBJC_IVAR_$_TZLocationManager._geocodeBlock
+_OBJC_IVAR_$_TZLocationManager._failureBlock
+__OBJC_$_INSTANCE_VARIABLES_TZLocationManager
+__OBJC_$_PROP_LIST_TZLocationManager
+__OBJC_CLASS_RO_$_TZLocationManager
+/Users/yangjunyi/Downloads/TZImagePickerController/Carthage/Checkouts/TZImagePickerController/TZImagePickerController/TZImagePickerController/TZLocationManager.m
+TZImagePickerController/TZImagePickerController/TZLocationManager.m
+__56-[TZLocationManager locationManager:didUpdateLocations:]_block_invoke
+__28+[TZLocationManager manager]_block_invoke
++[NSBundle(TZImagePicker) tz_imagePickerBundle]
++[NSBundle(TZImagePicker) tz_localizedStringForKey:]
++[NSBundle(TZImagePicker) tz_localizedStringForKey:value:]
+_OBJC_CLASSLIST_REFERENCES_$_.14
+__OBJC_$_CATEGORY_CLASS_METHODS_NSBundle_$_TZImagePicker
+__OBJC_$_CATEGORY_NSBundle_$_TZImagePicker
+/Users/yangjunyi/Downloads/TZImagePickerController/Carthage/Checkouts/TZImagePickerController/TZImagePickerController/TZImagePickerController/NSBundle+TZImagePicker.m
+TZImagePickerController/TZImagePickerController/NSBundle+TZImagePicker.m
+__ZL15__ARCLite__loadv
+__ZL30add_image_hook_autoreleasepoolPK11mach_headerl
+__ZL34__arclite_objc_autoreleasePoolPushv
+__ZL33__arclite_objc_autoreleasePoolPopPv
+__ZL19patch_lazy_pointersPK11mach_headerP7patch_tm
+__ZL42__arclite_NSArray_objectAtIndexedSubscriptP7NSArrayP13objc_selectorj
+__ZL53__arclite_NSMutableArray_setObject_atIndexedSubscriptP14NSMutableArrayP13objc_selectorP11objc_objectj
+__ZL46__arclite_NSDictionary_objectForKeyedSubscriptP12NSDictionaryP13objc_selectorP11objc_object
+__ZL47__arclite_NSOrderedSet_objectAtIndexedSubscriptP12NSOrderedSetP13objc_selectorj
+__ZL58__arclite_NSMutableOrderedSet_setObject_atIndexedSubscriptP19NSMutableOrderedSetP13objc_selectorP11objc_objectj
+__ZL58__arclite_NSMutableDictionary__setObject_forKeyedSubscriptP19NSMutableDictionaryP13objc_selectorP11objc_objectS4_
+__ZL18add_image_hook_ARCPK11mach_headerl
+__ZL27__arclite_objc_loadClassrefPP10objc_class
+__ZL36__arclite_object_setInstanceVariableP11objc_objectPKcPv
+__ZL24__arclite_object_setIvarP11objc_objectP9objc_ivarS0_
+__ZL21__arclite_object_copyP11objc_objectm
+__ZL21__arclite_objc_retainP11objc_object
+__ZL26__arclite_objc_retainBlockP11objc_object
+__ZL22__arclite_objc_releaseP11objc_object
+__ZL26__arclite_objc_autoreleaseP11objc_object
+__ZL32__arclite_objc_retainAutoreleaseP11objc_object
+__ZL37__arclite_objc_autoreleaseReturnValueP11objc_object
+__ZL43__arclite_objc_retainAutoreleaseReturnValueP11objc_object
+__ZL44__arclite_objc_retainAutoreleasedReturnValueP11objc_object
+__ZL26__arclite_objc_storeStrongPP11objc_objectS0_
+__ZL22add_image_hook_swiftV1PK11mach_headerl
+__ZL42__arclite_NSUndoManagerProxy_isKindOfClassP11objc_objectP13objc_selectorP10objc_class
+__ZL30__arclite_NSManagedObject_initP11objc_objectP13objc_selector
+__ZL41__arclite_NSManagedObject_allocWithEntityP11objc_objectP13objc_selectorS0_
+__ZL36__arclite_NSManagedObject_allocBatchP11objc_objectP13objc_selectorPS0_S0_j
+__ZL37__arclite_NSKKMS_fastIndexForKnownKeyP11objc_objectP13objc_selectorS0_
+__ZL28__arclite_NSKKMS_indexForKeyP11objc_objectP13objc_selectorS0_
+__ZL29__arclite_NSKKsD_objectForKeyP11objc_objectP13objc_selectorS0_
+__ZL35__arclite_NSKKsD_removeObjectForKeyP11objc_objectP13objc_selectorS0_
+__ZL33__arclite_NSKKsD_setObject_forKeyP11objc_objectP13objc_selectorS0_S0_
+__ZL41__arclite_NSKKsD_addEntriesFromDictionaryP11objc_objectP13objc_selectorP12NSDictionary
+__ZL28__arclite_objc_readClassPairP10objc_classPK15objc_image_info
+__ZL32__arclite_objc_allocateClassPairP10objc_classPKcm
+__ZL32__arclite_object_getIndexedIvarsP11objc_object
+__ZL23__arclite_objc_getClassPKc
+__ZL27__arclite_objc_getMetaClassPKc
+__ZL31__arclite_objc_getRequiredClassPKc
+__ZL26__arclite_objc_lookUpClassPKc
+__ZL26__arclite_objc_getProtocolPKc
+__ZL23__arclite_class_getNameP10objc_class
+__ZL26__arclite_protocol_getNameP8Protocol
+__ZL37__arclite_objc_copyClassNamesForImagePKcPj
+__ZL17transcribeMethodsP10objc_classP15glue_class_ro_t
+__ZL19transcribeProtocolsP10objc_classP15glue_class_ro_t
+__ZL20transcribePropertiesP10objc_classP15glue_class_ro_t
+__ZL14initialize_impP11objc_objectP13objc_selector
+__ZL18allocateMaybeSwiftP18glue_swift_class_tm
+__ZL22copySwiftV1MangledNamePKcb
+__ZL13demangledNamePKcb
+__ZL16scanMangledFieldRPKcS0_S1_Ri
+__ZL30arclite_uninitialized_functionv
+__ZL12cxxConstructP11objc_object
+__ZL20fixStringForCoreDataP11objc_object
+_OBJC_METACLASS_$___ARCLite__
+__ZL24OBJC_CLASS_$___ARCLite__
+__ZL31OBJC_METACLASS_RO_$___ARCLite__
+__non_lazy_classes
+__ZL27OBJC_CLASS_RO_$___ARCLite__
+__ZL11_class_name
+__ZL32OBJC_$_CLASS_METHODS___ARCLite__
+__ZL17_load_method_name
+__ZL17_load_method_type
+__ZL23NSAutoreleasePool_class
+__ZZL30add_image_hook_autoreleasepoolPK11mach_headerlE7patches
+__ZGVZL30add_image_hook_autoreleasepoolPK11mach_headerlE7patches
+__OBJC_$_PROTOCOL_INSTANCE_METHODS___ARCLiteIndexedSubscripting__
+__OBJC_$_PROTOCOL_METHOD_TYPES___ARCLiteIndexedSubscripting__
+__OBJC_PROTOCOL_$___ARCLiteIndexedSubscripting__
+__OBJC_LABEL_PROTOCOL_$___ARCLiteIndexedSubscripting__
+__OBJC_PROTOCOL_REFERENCE_$___ARCLiteIndexedSubscripting__
+__OBJC_$_PROTOCOL_INSTANCE_METHODS___ARCLiteKeyedSubscripting__
+__OBJC_$_PROTOCOL_METHOD_TYPES___ARCLiteKeyedSubscripting__
+__OBJC_PROTOCOL_$___ARCLiteKeyedSubscripting__
+__OBJC_LABEL_PROTOCOL_$___ARCLiteKeyedSubscripting__
+__OBJC_PROTOCOL_REFERENCE_$___ARCLiteKeyedSubscripting__
+__ZZL18add_image_hook_ARCPK11mach_headerlE7patches
+__ZGVZL18add_image_hook_ARCPK11mach_headerlE7patches
+__ZL30NSUndoManagerProxy_targetClass
+__ZL29original_NSManagedObject_init
+__ZL40original_NSManagedObject_allocWithEntity
+__ZL35original_NSManagedObject_allocBatch
+__ZL25NSMutableDictionary_class
+__ZL22NSConstantString_class
+__ZL14NSString_class
+__ZL36original_NSKKMS_fastIndexForKnownKey
+__ZL27original_NSKKMS_indexForKey
+__ZL28original_NSKKsD_objectForKey
+__ZL34original_NSKKsD_removeObjectForKey
+__ZL32original_NSKKsD_setObject_forKey
+__ZL40original_NSKKsD_addEntriesFromDictionary
+__ZZL22add_image_hook_swiftV1PK11mach_headerlE7patches
+__ZGVZL22add_image_hook_swiftV1PK11mach_headerlE7patches
+__ZL31original_objc_allocateClassPair
+__ZL31original_object_getIndexedIvars
+__ZL22original_objc_getClass
+__ZL26original_objc_getMetaClass
+__ZL30original_objc_getRequiredClass
+__ZL25original_objc_lookUpClass
+__ZL25original_objc_getProtocol
+__ZL22original_class_getName
+__ZL25original_protocol_getName
+__ZL36original_objc_copyClassNamesForImage
+__ZL12demangleLock
+__ZL9Demangled
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ --target=armv7-apple-ios4.3 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -Wno-trigraphs -fno-exceptions -fno-rtti -fno-sanitize=vptr -mpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-objc-interface-ivars -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -D NDEBUG=1 -D RC_EDM_ONLY_PDI=1 -D RC_EDM_ONLY_PDI=1 -D OBJC_OLD_DISPATCH_PROTOTYPES=0 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.Internal.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fno-threadsafe-statics -Wno-sign-conversion -Wno-infinite-recursion -Wno-move -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-range-loop-analysis -Wno-semicolon-before-method-body -fembed-bitcode=all -iquote /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-generated-files.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-own-target-headers.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-all-target-headers.hmap -iquote /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-project-headers.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/Symbols/BuiltProducts/include -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/DerivedSources-normal/armv7 -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/DerivedSources/armv7 -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/DerivedSources -F/Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/Symbols/BuiltProducts -iframework /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.Internal.sdk/System/Library/PrivateFrameworks -Wall -Wextra -Wno-gcc-compat -Wno-error=incomplete-umbrella -Wno-error=invalid-ios-deployment-target -Wno-error=deprecated-declarations -Wno-error=documentation -Wno-error=incomplete-umbrella -Wno-error=invalid-ios-deployment-target -Wno-error=deprecated-declarations -Wno-error=documentation -MMD -MT dependencies -MF /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/Objects-normal/armv7/arclite.d --serialize-diagnostics /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/Objects-normal/armv7/arclite.dia -c /Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-76/source/arclite.mm -o /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/Objects-normal/armv7/arclite.o -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -Wno-objc-load-method -Xclang -clang-vendor-feature=+messageToSelfInClassMethodIdReturnType -Xclang -clang-vendor-feature=+disableInferNewAvailabilityFromInit -Xclang -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -Xclang -fno-odr-hash-protocols -Xclang -clang-vendor-feature=+enableAggressiveVLAFolding -Xclang -clang-vendor-feature=+revert09abecef7bbf -Xclang -clang-vendor-feature=+thisNoAlignAttr -Xclang -clang-vendor-feature=+thisNoNullAttr -mlinker-version=762 -march=armv7a
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.Internal.sdk
+iPhoneOS15.4.Internal.sdk
+/Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-76/source/arclite.mm
+/Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-76
+fixStringForCoreData
+source/arclite.mm
+cxxConstruct
+arclite_uninitialized_function
+scanMangledField
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.4.Internal.sdk/usr/include/_ctype.h
+__isctype
+demangledName
+copySwiftV1DemangledName
+copySwiftV1MangledName
+allocateMaybeSwift
+word_align
+isSwift
+initialize_imp
+transcribeProperties
+property_list_nth
+transcribeProtocols
+transcribeMethods
+data
+method_list_nth
+__arclite_objc_copyClassNamesForImage
+__arclite_protocol_getName
+__arclite_class_getName
+__arclite_objc_getProtocol
+__arclite_objc_lookUpClass
+__arclite_objc_getRequiredClass
+__arclite_objc_getMetaClass
+__arclite_objc_getClass
+__arclite_object_getIndexedIvars
+__arclite_objc_allocateClassPair
+metaclass
+__arclite_objc_readClassPair
+transcribeIvars
+ivar_list_nth
+max
+alignment
+ro
+fastFlags
+__arclite_NSKKsD_addEntriesFromDictionary
+__arclite_NSKKsD_setObject_forKey
+__arclite_NSKKsD_removeObjectForKey
+__arclite_NSKKsD_objectForKey
+__arclite_NSKKMS_indexForKey
+__arclite_NSKKMS_fastIndexForKnownKey
+__arclite_NSManagedObject_allocBatch
+__arclite_NSManagedObject_allocWithEntity
+__arclite_NSManagedObject_init
+__arclite_NSUndoManagerProxy_isKindOfClass
+add_image_hook_swiftV1
+patch_t<const char **(const char *, unsigned int *)>
+patch_t<const char *(Protocol *)>
+patch_t<const char *(Class)>
+patch_t<Protocol *(const char *)>
+patch_t<Class (const char *)>
+patch_t<void *(id)>
+patch_t<Class (Class, const char *, unsigned long)>
+patch_t<Class (Class, const objc_image_info *)>
+__arclite_objc_storeStrong
+__arclite_objc_release
+__arclite_objc_retain
+__arclite_objc_retainAutoreleasedReturnValue
+__arclite_objc_retainAutoreleaseReturnValue
+__arclite_objc_autoreleaseReturnValue
+__arclite_objc_retainAutorelease
+__arclite_objc_autorelease
+__arclite_objc_retainBlock
+__arclite_object_copy
+fixupCopiedReferences
+_class_getInstanceStart
+alignedInstanceStart
+__arclite_class_usesAutomaticRetainRelease
+classOrSuperClassesUseARR
+__arclite_object_setIvar
+isScannedOffset
+_ivar_getClass
+__arclite_object_setInstanceVariable
+__arclite_objc_loadClassref
+add_image_hook_ARC
+patch_t<void (id *, id)>
+patch_t<id (id)>
+patch_t<void (id)>
+patch_t<id (id, unsigned long)>
+patch_t<void (id, objc_ivar *, id)>
+patch_t<objc_ivar *(id, const char *, void *)>
+patch_t<Class (Class *)>
+__arclite_NSMutableDictionary__setObject_forKeyedSubscript
+__arclite_NSMutableOrderedSet_setObject_atIndexedSubscript
+__arclite_NSOrderedSet_objectAtIndexedSubscript
+__arclite_NSDictionary_objectForKeyedSubscript
+__arclite_NSMutableArray_setObject_atIndexedSubscript
+__arclite_NSArray_objectAtIndexedSubscript
+patch_lazy_pointers
+__arclite_objc_autoreleasePoolPop
+__arclite_objc_autoreleasePoolPush
+add_image_hook_autoreleasepool
+patch_t<void (void *)>
+patch_t<void *()>
+__ARCLite__load
+install_swiftV1
+replaceMethod
+install_ARC
+install_dict_nil_value
+addOrReplaceMethod
+keyedGetter
+install_subscripting
+addMethod
+indexedGetter
+install_autoreleasepool
